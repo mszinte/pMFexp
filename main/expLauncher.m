@@ -20,18 +20,18 @@
 
 % design idea
 % -----------
-% 0.800 ms of smooth pursuit
-% 400 ms of fixation
-% 400 ms to do return saccade
-% 16 directions clockwise spread by 22.5 deg or pi/8
-% 4 amplitudes 4, 6, 8, 10 dva giving 5, 7.5, 10, 12.5 dva/s smooth pursuit
-% 9 sequences, sequence no 1, 3, 5, 7 and 9 are breaks
+% 1.0 s of smooth pursuit
+% 200 ms of fixation
+% 1.2 s to do return saccade
+% 16 directions clockwise spread by 22.5 deg or pi/8 of smooth pursuit
+% 16 directions clockwise spread by 22.5 deg or pi/8 of saccade
+% 4 amplitudes 2.5, 5, 7.5, 10 dva giving 2.5, 5, 7.5, 10 dva/s smooth pursuit
+% 9 sequences, sequence no 1, 3, 5, 7 and 9 are fixation periods
 %              sequence no 2, 4, 6 and 8 are eye movement sequences
 % randomize order of amplitude per subjects
 
 % To do
 % -----
-% 0. clear all functions not used
 % 1. change instructions
 % 2. check correct results with and without eyelink 
 % 1. eye movement analysis
