@@ -58,7 +58,7 @@ const.eyemov_amp        =   vaDeg2pix(const.eyemov_ampVal,scr);                 
 const.eyemov_dir_step   =   22.5;                                                               % eye movement direction steps
 const.eyemov_dir        =   0:const.eyemov_dir_step:360-const.eyemov_dir_step;                  % eye movement diection
 
-const.pursuit_tot_dur   =   1.000;                                                              % eye movement total duration in seconds
+const.pursuit_tot_dur   =   1.100;                                                              % eye movement total duration in seconds
 const.pursuit_tot_num   =   (round(const.pursuit_tot_dur/scr.frame_duration));                  % eye movement total duration in screen frames
 const.pursuit_ramp_dur  =   0.100;                                                              % eye movement ramp duration in seconds
 const.pursuit_ramp_num  =   (round(const.pursuit_ramp_dur/scr.frame_duration));                 % eye movement ramp duration in screen frames
@@ -76,9 +76,9 @@ if const.scanner
     const.TRs = 0;
     for seq = const.eyemov_seq
         if seq == 1
-            TR_seq = const.eyemov_step;
-        elseif seq == 2
             TR_seq = const.blk_step;
+        elseif seq == 1
+            TR_seq = const.eyemov_step;
         end
         const.TRs = const.TRs + TR_seq;
     end

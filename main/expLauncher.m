@@ -18,8 +18,7 @@
 
 % design idea
 % -----------
-% 1.0 s of smooth pursuit
-% 200 ms of fixation
+% 1.0 s of smooth pursuit followed by 200 ms of fixation
 % 1.2 s to do return saccade
 % 16 directions clockwise spread by 22.5 deg or pi/8 of smooth pursuit
 % 16 directions clockwise spread by 22.5 deg or pi/8 of saccade
@@ -30,9 +29,13 @@
 
 % To do
 % -----
-% 1. change instructions
-% 2. check correct outputs with and without eyelink
-% 1. make eye movement analysis
+% 1. change calibration to cover whole testing area with stars
+% 2. think about a way to have smooth motion
+% positions
+% 2. make video
+% 3. collect data
+% 4. make eye movement analysis
+% 5. discuss with Julien about sequence
 
 % First settings
 % --------------
@@ -41,14 +44,14 @@ Screen('CloseAll');clear all;clear mex;clear functions;close all;home;AssertOpen
 % General settings
 % ----------------
 const.expName           =   'pMFexp';       % experiment name.
-const.expStart          =   1;              % Start of a recording exp                          0 = NO  , 1 = YES
-const.checkTrial        =   0;              % Print trial conditions (for debugging)            0 = NO  , 1 = YES
+const.expStart          =   0;              % Start of a recording exp                          0 = NO  , 1 = YES
+const.checkTrial        =   1;              % Print trial conditions (for debugging)            0 = NO  , 1 = YES
 const.writeLogTxt       =   1;              % write a log file in addition to eyelink file      0 = NO  , 1 = YES
 const.mkVideo           =   0;              % Make a video of a run                             0 = NO  , 1 = YES
 
 % External controls
 % -----------------
-const.tracker           =   0;              % run with eye tracker                              0 = NO  , 1 = YES
+const.tracker           =   1;              % run with eye tracker                              0 = NO  , 1 = YES
 const.scanner           =   0;              % run in MRI scanner                                0 = NO  , 1 = YES
 const.scannerTest       =   1;              % run with T returned at TR time                    0 = NO  , 1 = YES
 const.room              =   2;              % run in MRI or eye-tracking room                   1 = MRI , 2 = eye-tracking
