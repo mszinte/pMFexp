@@ -29,7 +29,7 @@
 
 % To do
 % -----
-% 1. change calibration to cover whole testing area with stars
+% 1. change error instructions
 % 2. make video
 % 3. collect data on me
 % 4. make eye movement analysis
@@ -42,7 +42,7 @@ Screen('CloseAll');clear all;clear mex;clear functions;close all;home;AssertOpen
 % General settings
 % ----------------
 const.expName           =   'pMFexp';        % experiment name.
-const.expStart          =   0;              % Start of a recording exp                          0 = NO  , 1 = YES
+const.expStart          =   1;              % Start of a recording exp                          0 = NO  , 1 = YES
 const.checkTrial        =   0;              % Print trial conditions (for debugging)            0 = NO  , 1 = YES
 const.writeLogTxt       =   1;              % write a log file in addition to eyelink file      0 = NO  , 1 = YES
 const.mkVideo           =   0;              % Make a video of a run                             0 = NO  , 1 = YES

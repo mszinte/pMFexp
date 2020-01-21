@@ -1,0 +1,636 @@
+sequence 1 started at 1528.636425
+sequence 1 event mri_trigger val = -8 at 1528.646384
+sequence 1 trial 1 onset at 1528.654188
+sequence 1 trial 1 offset at 1529.853580
+sequence 1 trial 2 onset at 1529.861908
+sequence 1 trial 2 offset at 1531.053450
+sequence 1 trial 3 onset at 1531.061781
+sequence 1 trial 3 offset at 1532.253305
+sequence 1 trial 4 onset at 1532.261618
+sequence 1 trial 4 offset at 1533.453240
+sequence 1 trial 5 onset at 1533.461634
+sequence 1 trial 5 offset at 1534.653054
+sequence 1 trial 6 onset at 1534.661334
+sequence 1 trial 6 offset at 1535.852921
+sequence 1 trial 7 onset at 1535.861189
+sequence 1 trial 7 offset at 1537.052716
+sequence 1 trial 8 onset at 1537.061063
+sequence 1 trial 8 offset at 1538.252690
+sequence 1 trial 9 onset at 1538.261031
+sequence 1 trial 9 offset at 1539.460742
+sequence 1 trial 10 onset at 1539.469071
+sequence 1 trial 10 offset at 1540.660636
+sequence 1 trial 11 onset at 1540.668965
+sequence 1 trial 11 offset at 1541.860472
+sequence 1 trial 12 onset at 1541.868805
+sequence 1 trial 12 offset at 1543.060326
+sequence 1 trial 13 onset at 1543.068665
+sequence 1 trial 13 offset at 1544.260169
+sequence 1 trial 14 onset at 1544.268497
+sequence 1 trial 14 offset at 1545.460301
+sequence 1 trial 15 onset at 1545.468631
+sequence 1 trial 15 offset at 1546.659897
+sequence 1 trial 16 onset at 1546.668219
+sequence 1 trial 16 offset at 1547.859719
+sequence 1 - 2 missed sync on 2304 frames, 0.1% (mean/median delay = 7.9/7.9 ms)
+sequence 1 stopped at 1547.874549
+sequence 2 started at 1547.874734
+sequence 2 trial 1 onset at 1547.885087
+sequence 2 trial 1 pursuit onset at 1547.885499
+sequence 2 trial 1 pursuit offset at 1548.976299
+sequence 2 trial 1 offset at 1549.076276
+sequence 2 trial 2 onset at 1549.084589
+sequence 2 trial 2 saccade onset at 1549.084735
+sequence 2 trial 2 offset at 1550.276096
+sequence 2 trial 3 onset at 1550.284427
+sequence 2 trial 3 pursuit onset at 1550.284593
+sequence 2 trial 3 pursuit offset at 1551.384362
+sequence 2 trial 3 offset at 1551.484446
+sequence 2 trial 4 onset at 1551.492833
+sequence 2 trial 4 saccade onset at 1551.493216
+sequence 2 trial 4 offset at 1552.684141
+sequence 2 trial 5 onset at 1552.692484
+sequence 2 trial 5 pursuit onset at 1552.692650
+sequence 2 trial 5 pursuit offset at 1553.784051
+sequence 2 trial 5 offset at 1553.884194
+sequence 2 trial 6 onset at 1553.892580
+sequence 2 trial 6 saccade onset at 1553.893053
+sequence 2 trial 6 offset at 1555.083854
+sequence 2 trial 7 onset at 1555.092196
+sequence 2 trial 7 pursuit onset at 1555.092359
+sequence 2 trial 7 pursuit offset at 1556.183744
+sequence 2 trial 7 offset at 1556.283725
+sequence 2 trial 8 onset at 1556.292019
+sequence 2 trial 8 saccade onset at 1556.292182
+sequence 2 trial 8 offset at 1557.483579
+sequence 2 trial 9 onset at 1557.491908
+sequence 2 trial 9 pursuit onset at 1557.492229
+sequence 2 trial 9 pursuit offset at 1558.583578
+sequence 2 trial 9 offset at 1558.683410
+sequence 2 trial 10 onset at 1558.691747
+sequence 2 trial 10 saccade onset at 1558.691968
+sequence 2 trial 10 offset at 1559.883277
+sequence 2 trial 11 onset at 1559.891600
+sequence 2 trial 11 pursuit onset at 1559.891746
+sequence 2 trial 11 pursuit offset at 1560.983173
+sequence 2 trial 11 offset at 1561.083088
+sequence 2 trial 12 onset at 1561.091420
+sequence 2 trial 12 saccade onset at 1561.091558
+sequence 2 trial 12 offset at 1562.283031
+sequence 2 trial 13 onset at 1562.291339
+sequence 2 trial 13 pursuit onset at 1562.291496
+sequence 2 trial 13 pursuit offset at 1563.382861
+sequence 2 trial 13 offset at 1563.482821
+sequence 2 trial 14 onset at 1563.491151
+sequence 2 trial 14 saccade onset at 1563.491289
+sequence 2 trial 14 offset at 1564.682686
+sequence 2 trial 15 onset at 1564.690997
+sequence 2 trial 15 pursuit onset at 1564.691128
+sequence 2 trial 15 pursuit offset at 1565.782628
+sequence 2 trial 15 offset at 1565.882568
+sequence 2 trial 16 onset at 1565.890902
+sequence 2 trial 16 saccade onset at 1565.891036
+sequence 2 trial 16 offset at 1567.082363
+sequence 2 trial 17 onset at 1567.090697
+sequence 2 trial 17 pursuit onset at 1567.090826
+sequence 2 trial 17 pursuit offset at 1568.182276
+sequence 2 trial 17 offset at 1568.282305
+sequence 2 trial 18 onset at 1568.290648
+sequence 2 trial 18 saccade onset at 1568.291001
+sequence 2 trial 18 offset at 1569.482347
+sequence 2 trial 19 onset at 1569.490523
+sequence 2 trial 19 pursuit onset at 1569.490657
+sequence 2 trial 19 pursuit offset at 1570.581976
+sequence 2 trial 19 offset at 1570.681999
+sequence 2 trial 20 onset at 1570.690301
+sequence 2 trial 20 saccade onset at 1570.690450
+sequence 2 trial 20 offset at 1571.881814
+sequence 2 trial 21 onset at 1571.890146
+sequence 2 trial 21 pursuit onset at 1571.890276
+sequence 2 trial 21 pursuit offset at 1572.981730
+sequence 2 trial 21 offset at 1573.082033
+sequence 2 trial 22 onset at 1573.090287
+sequence 2 trial 22 saccade onset at 1573.090681
+sequence 2 trial 22 offset at 1574.281536
+sequence 2 trial 23 onset at 1574.289871
+sequence 2 trial 23 pursuit onset at 1574.290004
+sequence 2 trial 23 pursuit offset at 1575.381393
+sequence 2 trial 23 offset at 1575.481385
+sequence 2 trial 24 onset at 1575.489728
+sequence 2 trial 24 saccade onset at 1575.489858
+sequence 2 trial 24 offset at 1576.681233
+sequence 2 trial 25 onset at 1576.689582
+sequence 2 trial 25 pursuit onset at 1576.689712
+sequence 2 trial 25 pursuit offset at 1577.781133
+sequence 2 trial 25 offset at 1577.881100
+sequence 2 trial 26 onset at 1577.889448
+sequence 2 trial 26 saccade onset at 1577.889576
+sequence 2 trial 26 offset at 1579.080962
+sequence 2 trial 27 onset at 1579.089295
+sequence 2 trial 27 pursuit onset at 1579.089474
+sequence 2 trial 27 pursuit offset at 1580.180795
+sequence 2 trial 27 offset at 1580.280800
+sequence 2 trial 28 onset at 1580.289113
+sequence 2 trial 28 saccade onset at 1580.289261
+sequence 2 trial 28 offset at 1581.480666
+sequence 2 trial 29 onset at 1581.488998
+sequence 2 trial 29 pursuit onset at 1581.489147
+sequence 2 trial 29 pursuit offset at 1582.580517
+sequence 2 trial 29 offset at 1582.680519
+sequence 2 trial 30 onset at 1582.688849
+sequence 2 trial 30 saccade onset at 1582.688999
+sequence 2 trial 30 offset at 1583.880361
+sequence 2 trial 31 onset at 1583.888669
+sequence 2 trial 31 pursuit onset at 1583.888798
+sequence 2 trial 31 pursuit offset at 1584.980353
+sequence 2 trial 31 offset at 1585.080313
+sequence 2 trial 32 onset at 1585.088659
+sequence 2 trial 32 saccade onset at 1585.089072
+sequence 2 trial 32 offset at 1586.280074
+sequence 2 - 2 missed sync on 4608 frames, 0.0% (mean/median delay = 7.9/7.9 ms)
+sequence 2 stopped at 1586.281428
+sequence 3 started at 1586.281636
+sequence 3 trial 1 onset at 1586.288644
+sequence 3 trial 1 offset at 1587.480118
+sequence 3 trial 2 onset at 1587.488430
+sequence 3 trial 2 offset at 1588.679767
+sequence 3 trial 3 onset at 1588.688096
+sequence 3 trial 3 offset at 1589.879633
+sequence 3 trial 4 onset at 1589.887970
+sequence 3 trial 4 offset at 1591.079441
+sequence 3 trial 5 onset at 1591.087775
+sequence 3 trial 5 offset at 1592.279332
+sequence 3 trial 6 onset at 1592.287658
+sequence 3 trial 6 offset at 1593.479196
+sequence 3 trial 7 onset at 1593.487513
+sequence 3 trial 7 offset at 1594.679038
+sequence 3 trial 8 onset at 1594.687370
+sequence 3 trial 8 offset at 1595.878926
+sequence 3 trial 9 onset at 1595.887258
+sequence 3 trial 9 offset at 1597.078753
+sequence 3 trial 10 onset at 1597.087082
+sequence 3 trial 10 offset at 1598.278589
+sequence 3 trial 11 onset at 1598.286917
+sequence 3 trial 11 offset at 1599.486835
+sequence 3 trial 12 onset at 1599.495152
+sequence 3 trial 12 offset at 1600.686654
+sequence 3 trial 13 onset at 1600.694987
+sequence 3 trial 13 offset at 1601.886734
+sequence 3 trial 14 onset at 1601.895135
+sequence 3 trial 14 offset at 1603.086348
+sequence 3 trial 15 onset at 1603.094699
+sequence 3 trial 15 offset at 1604.286210
+sequence 3 trial 16 onset at 1604.294541
+sequence 3 trial 16 offset at 1605.486433
+sequence 3 - 1 missed sync on 2304 frames, 0.0% (mean/median delay = 8.0/8.0 ms)
+sequence 3 stopped at 1605.490564
+sequence 4 started at 1605.491174
+sequence 4 trial 1 onset at 1605.503315
+sequence 4 trial 1 pursuit onset at 1605.503524
+sequence 4 trial 1 pursuit offset at 1606.602591
+sequence 4 trial 1 offset at 1606.702577
+sequence 4 trial 2 onset at 1606.710909
+sequence 4 trial 2 saccade onset at 1606.711039
+sequence 4 trial 2 offset at 1607.902646
+sequence 4 trial 3 onset at 1607.910903
+sequence 4 trial 3 pursuit onset at 1607.911289
+sequence 4 trial 3 pursuit offset at 1609.002308
+sequence 4 trial 3 offset at 1609.102296
+sequence 4 trial 4 onset at 1609.110631
+sequence 4 trial 4 saccade onset at 1609.110759
+sequence 4 trial 4 offset at 1610.302141
+sequence 4 trial 5 onset at 1610.310470
+sequence 4 trial 5 pursuit onset at 1610.310600
+sequence 4 trial 5 pursuit offset at 1611.410571
+sequence 4 trial 5 offset at 1611.510333
+sequence 4 trial 6 onset at 1611.518694
+sequence 4 trial 6 saccade onset at 1611.518847
+sequence 4 trial 6 offset at 1612.710179
+sequence 4 trial 7 onset at 1612.718514
+sequence 4 trial 7 pursuit onset at 1612.718644
+sequence 4 trial 7 pursuit offset at 1613.810050
+sequence 4 trial 7 offset at 1613.910039
+sequence 4 trial 8 onset at 1613.918379
+sequence 4 trial 8 saccade onset at 1613.918509
+sequence 4 trial 8 offset at 1615.118237
+sequence 4 trial 9 onset at 1615.126567
+sequence 4 trial 9 pursuit onset at 1615.126696
+sequence 4 trial 9 pursuit offset at 1616.218093
+sequence 4 trial 9 offset at 1616.318260
+sequence 4 trial 10 onset at 1616.326530
+sequence 4 trial 10 saccade onset at 1616.326856
+sequence 4 trial 10 offset at 1617.517947
+sequence 4 trial 11 onset at 1617.526287
+sequence 4 trial 11 pursuit onset at 1617.526427
+sequence 4 trial 11 pursuit offset at 1618.626135
+sequence 4 trial 11 offset at 1618.726117
+sequence 4 trial 12 onset at 1618.734465
+sequence 4 trial 12 saccade onset at 1618.734594
+sequence 4 trial 12 offset at 1619.926005
+sequence 4 trial 13 onset at 1619.934425
+sequence 4 trial 13 pursuit onset at 1619.934691
+sequence 4 trial 13 pursuit offset at 1621.026145
+sequence 4 trial 13 offset at 1621.125825
+sequence 4 trial 14 onset at 1621.134178
+sequence 4 trial 14 saccade onset at 1621.134307
+sequence 4 trial 14 offset at 1622.325682
+sequence 4 trial 15 onset at 1622.334013
+sequence 4 trial 15 pursuit onset at 1622.334144
+sequence 4 trial 15 pursuit offset at 1623.425545
+sequence 4 trial 15 offset at 1623.525568
+sequence 4 trial 16 onset at 1623.533922
+sequence 4 trial 16 saccade onset at 1623.534056
+sequence 4 trial 16 offset at 1624.725495
+sequence 4 trial 17 onset at 1624.733729
+sequence 4 trial 17 pursuit onset at 1624.733862
+sequence 4 trial 17 pursuit offset at 1625.825262
+sequence 4 trial 17 offset at 1625.925246
+sequence 4 trial 18 onset at 1625.933577
+sequence 4 trial 18 saccade onset at 1625.933716
+sequence 4 trial 18 offset at 1627.125103
+sequence 4 trial 19 onset at 1627.133434
+sequence 4 trial 19 pursuit onset at 1627.133585
+sequence 4 trial 19 pursuit offset at 1628.225212
+sequence 4 trial 19 offset at 1628.324967
+sequence 4 trial 20 onset at 1628.333298
+sequence 4 trial 20 saccade onset at 1628.333435
+sequence 4 trial 20 offset at 1629.525030
+sequence 4 trial 21 onset at 1629.533157
+sequence 4 trial 21 pursuit onset at 1629.533307
+sequence 4 trial 21 pursuit offset at 1630.624668
+sequence 4 trial 21 offset at 1630.724896
+sequence 4 trial 22 onset at 1630.732993
+sequence 4 trial 22 saccade onset at 1630.733122
+sequence 4 trial 22 offset at 1631.924509
+sequence 4 trial 23 onset at 1631.932842
+sequence 4 trial 23 pursuit onset at 1631.932971
+sequence 4 trial 23 pursuit offset at 1633.024623
+sequence 4 trial 23 offset at 1633.124366
+sequence 4 trial 24 onset at 1633.132701
+sequence 4 trial 24 saccade onset at 1633.132832
+sequence 4 trial 24 offset at 1634.324225
+sequence 4 trial 25 onset at 1634.332556
+sequence 4 trial 25 pursuit onset at 1634.332685
+sequence 4 trial 25 pursuit offset at 1635.424104
+sequence 4 trial 25 offset at 1635.524089
+sequence 4 trial 26 onset at 1635.532419
+sequence 4 trial 26 saccade onset at 1635.532549
+sequence 4 trial 26 offset at 1636.723924
+sequence 4 trial 27 onset at 1636.732254
+sequence 4 trial 27 pursuit onset at 1636.732384
+sequence 4 trial 27 pursuit offset at 1637.823809
+sequence 4 trial 27 offset at 1637.923763
+sequence 4 trial 28 onset at 1637.932098
+sequence 4 trial 28 saccade onset at 1637.932227
+sequence 4 trial 28 offset at 1639.123635
+sequence 4 trial 29 onset at 1639.131946
+sequence 4 trial 29 pursuit onset at 1639.132073
+sequence 4 trial 29 pursuit offset at 1640.223514
+sequence 4 trial 29 offset at 1640.323469
+sequence 4 trial 30 onset at 1640.331836
+sequence 4 trial 30 saccade onset at 1640.331964
+sequence 4 trial 30 offset at 1641.523435
+sequence 4 trial 31 onset at 1641.531829
+sequence 4 trial 31 pursuit onset at 1641.531967
+sequence 4 trial 31 pursuit offset at 1642.623225
+sequence 4 trial 31 offset at 1642.723217
+sequence 4 trial 32 onset at 1642.731557
+sequence 4 trial 32 saccade onset at 1642.731687
+sequence 4 trial 32 offset at 1643.923084
+sequence 4 - 5 missed sync on 4608 frames, 0.1% (mean/median delay = 7.9/7.9 ms)
+sequence 4 stopped at 1643.924420
+sequence 5 started at 1643.924822
+sequence 5 trial 1 onset at 1643.931389
+sequence 5 trial 1 offset at 1645.122907
+sequence 5 trial 2 onset at 1645.131239
+sequence 5 trial 2 offset at 1646.322763
+sequence 5 trial 3 onset at 1646.331095
+sequence 5 trial 3 offset at 1647.522713
+sequence 5 trial 4 onset at 1647.530980
+sequence 5 trial 4 offset at 1648.722481
+sequence 5 trial 5 onset at 1648.730801
+sequence 5 trial 5 offset at 1649.922294
+sequence 5 trial 6 onset at 1649.930625
+sequence 5 trial 6 offset at 1651.122183
+sequence 5 trial 7 onset at 1651.130501
+sequence 5 trial 7 offset at 1652.322020
+sequence 5 trial 8 onset at 1652.330366
+sequence 5 trial 8 offset at 1653.521920
+sequence 5 trial 9 onset at 1653.530431
+sequence 5 trial 9 offset at 1654.721747
+sequence 5 trial 10 onset at 1654.730078
+sequence 5 trial 10 offset at 1655.921610
+sequence 5 trial 11 onset at 1655.929940
+sequence 5 trial 11 offset at 1657.121471
+sequence 5 trial 12 onset at 1657.129790
+sequence 5 trial 12 offset at 1658.321640
+sequence 5 trial 13 onset at 1658.329917
+sequence 5 trial 13 offset at 1659.521339
+sequence 5 trial 14 onset at 1659.529739
+sequence 5 trial 14 offset at 1660.721029
+sequence 5 trial 15 onset at 1660.729359
+sequence 5 trial 15 offset at 1661.920874
+sequence 5 trial 16 onset at 1661.929210
+sequence 5 trial 16 offset at 1663.120752
+sequence 5 - 0 missed sync on 2304 frames, 0.0% (mean/median delay = NaN/NaN ms)
+sequence 5 stopped at 1663.126542
+sequence 6 started at 1663.127390
+sequence 6 trial 1 onset at 1663.137393
+sequence 6 trial 1 pursuit onset at 1663.137528
+sequence 6 trial 1 pursuit offset at 1664.228923
+sequence 6 trial 1 offset at 1664.329143
+sequence 6 trial 2 onset at 1664.337231
+sequence 6 trial 2 saccade onset at 1664.337361
+sequence 6 trial 2 offset at 1665.528814
+sequence 6 trial 3 onset at 1665.537123
+sequence 6 trial 3 pursuit onset at 1665.537253
+sequence 6 trial 3 pursuit offset at 1666.636963
+sequence 6 trial 3 offset at 1666.736945
+sequence 6 trial 4 onset at 1666.745283
+sequence 6 trial 4 saccade onset at 1666.745412
+sequence 6 trial 4 offset at 1667.936802
+sequence 6 trial 5 onset at 1667.945140
+sequence 6 trial 5 pursuit onset at 1667.945269
+sequence 6 trial 5 pursuit offset at 1669.036680
+sequence 6 trial 5 offset at 1669.136658
+sequence 6 trial 6 onset at 1669.144989
+sequence 6 trial 6 saccade onset at 1669.145119
+sequence 6 trial 6 offset at 1670.336517
+sequence 6 trial 7 onset at 1670.344863
+sequence 6 trial 7 pursuit onset at 1670.345008
+sequence 6 trial 7 pursuit offset at 1671.436397
+sequence 6 trial 7 offset at 1671.536379
+sequence 6 trial 8 onset at 1671.544708
+sequence 6 trial 8 saccade onset at 1671.544838
+sequence 6 trial 8 offset at 1672.736247
+sequence 6 trial 9 onset at 1672.744558
+sequence 6 trial 9 pursuit onset at 1672.744688
+sequence 6 trial 9 pursuit offset at 1673.836112
+sequence 6 trial 9 offset at 1673.936095
+sequence 6 trial 10 onset at 1673.944423
+sequence 6 trial 10 saccade onset at 1673.944551
+sequence 6 trial 10 offset at 1675.135934
+sequence 6 trial 11 onset at 1675.144259
+sequence 6 trial 11 pursuit onset at 1675.144388
+sequence 6 trial 11 pursuit offset at 1676.235809
+sequence 6 trial 11 offset at 1676.335792
+sequence 6 trial 12 onset at 1676.344106
+sequence 6 trial 12 saccade onset at 1676.344234
+sequence 6 trial 12 offset at 1677.535684
+sequence 6 trial 13 onset at 1677.544005
+sequence 6 trial 13 pursuit onset at 1677.544134
+sequence 6 trial 13 pursuit offset at 1678.635542
+sequence 6 trial 13 offset at 1678.735518
+sequence 6 trial 14 onset at 1678.743825
+sequence 6 trial 14 saccade onset at 1678.743953
+sequence 6 trial 14 offset at 1679.935358
+sequence 6 trial 15 onset at 1679.943669
+sequence 6 trial 15 pursuit onset at 1679.943799
+sequence 6 trial 15 pursuit offset at 1681.035217
+sequence 6 trial 15 offset at 1681.135203
+sequence 6 trial 16 onset at 1681.143530
+sequence 6 trial 16 saccade onset at 1681.143658
+sequence 6 trial 16 offset at 1682.335062
+sequence 6 trial 17 onset at 1682.343390
+sequence 6 trial 17 pursuit onset at 1682.343527
+sequence 6 trial 17 pursuit offset at 1683.434931
+sequence 6 trial 17 offset at 1683.534914
+sequence 6 trial 18 onset at 1683.543236
+sequence 6 trial 18 saccade onset at 1683.543373
+sequence 6 trial 18 offset at 1684.734771
+sequence 6 trial 19 onset at 1684.743099
+sequence 6 trial 19 pursuit onset at 1684.743235
+sequence 6 trial 19 pursuit offset at 1685.834622
+sequence 6 trial 19 offset at 1685.934626
+sequence 6 trial 20 onset at 1685.942990
+sequence 6 trial 20 saccade onset at 1685.943121
+sequence 6 trial 20 offset at 1687.134482
+sequence 6 trial 21 onset at 1687.142916
+sequence 6 trial 21 pursuit onset at 1687.143064
+sequence 6 trial 21 pursuit offset at 1688.234313
+sequence 6 trial 21 offset at 1688.334284
+sequence 6 trial 22 onset at 1688.342617
+sequence 6 trial 22 saccade onset at 1688.342742
+sequence 6 trial 22 offset at 1689.534196
+sequence 6 trial 23 onset at 1689.542516
+sequence 6 trial 23 pursuit onset at 1689.542647
+sequence 6 trial 23 pursuit offset at 1690.634043
+sequence 6 trial 23 offset at 1690.734043
+sequence 6 trial 24 onset at 1690.742381
+sequence 6 trial 24 saccade onset at 1690.742510
+sequence 6 trial 24 offset at 1691.933887
+sequence 6 trial 25 onset at 1691.942215
+sequence 6 trial 25 pursuit onset at 1691.942345
+sequence 6 trial 25 pursuit offset at 1693.033768
+sequence 6 trial 25 offset at 1693.133749
+sequence 6 trial 26 onset at 1693.142103
+sequence 6 trial 26 saccade onset at 1693.142232
+sequence 6 trial 26 offset at 1694.333629
+sequence 6 trial 27 onset at 1694.341956
+sequence 6 trial 27 pursuit onset at 1694.342086
+sequence 6 trial 27 pursuit offset at 1695.433475
+sequence 6 trial 27 offset at 1695.533488
+sequence 6 trial 28 onset at 1695.541842
+sequence 6 trial 28 saccade onset at 1695.541971
+sequence 6 trial 28 offset at 1696.733314
+sequence 6 trial 29 onset at 1696.741642
+sequence 6 trial 29 pursuit onset at 1696.741780
+sequence 6 trial 29 pursuit offset at 1697.833184
+sequence 6 trial 29 offset at 1697.933157
+sequence 6 trial 30 onset at 1697.941489
+sequence 6 trial 30 saccade onset at 1697.941642
+sequence 6 trial 30 offset at 1699.133033
+sequence 6 trial 31 onset at 1699.141364
+sequence 6 trial 31 pursuit onset at 1699.141503
+sequence 6 trial 31 pursuit offset at 1700.232924
+sequence 6 trial 31 offset at 1700.332882
+sequence 6 trial 32 onset at 1700.341228
+sequence 6 trial 32 saccade onset at 1700.341380
+sequence 6 trial 32 offset at 1701.532732
+sequence 6 - 2 missed sync on 4608 frames, 0.0% (mean/median delay = 7.9/7.9 ms)
+sequence 6 stopped at 1701.537007
+sequence 7 started at 1701.537710
+sequence 7 trial 1 onset at 1701.541054
+sequence 7 trial 1 offset at 1702.732590
+sequence 7 trial 2 onset at 1702.740916
+sequence 7 trial 2 offset at 1703.932412
+sequence 7 trial 3 onset at 1703.940742
+sequence 7 trial 3 offset at 1705.132304
+sequence 7 trial 4 onset at 1705.140628
+sequence 7 trial 4 offset at 1706.332155
+sequence 7 trial 5 onset at 1706.340483
+sequence 7 trial 5 offset at 1707.532014
+sequence 7 trial 6 onset at 1707.540336
+sequence 7 trial 6 offset at 1708.731862
+sequence 7 trial 7 onset at 1708.740190
+sequence 7 trial 7 offset at 1709.931709
+sequence 7 trial 8 onset at 1709.940033
+sequence 7 trial 8 offset at 1711.131575
+sequence 7 trial 9 onset at 1711.139910
+sequence 7 trial 9 offset at 1712.331427
+sequence 7 trial 10 onset at 1712.339744
+sequence 7 trial 10 offset at 1713.531282
+sequence 7 trial 11 onset at 1713.539614
+sequence 7 trial 11 offset at 1714.731163
+sequence 7 trial 12 onset at 1714.739465
+sequence 7 trial 12 offset at 1715.930983
+sequence 7 trial 13 onset at 1715.939329
+sequence 7 trial 13 offset at 1717.130832
+sequence 7 trial 14 onset at 1717.139167
+sequence 7 trial 14 offset at 1718.330684
+sequence 7 trial 15 onset at 1718.339016
+sequence 7 trial 15 offset at 1719.530571
+sequence 7 trial 16 onset at 1719.538888
+sequence 7 trial 16 offset at 1720.730418
+sequence 7 - 0 missed sync on 2304 frames, 0.0% (mean/median delay = NaN/NaN ms)
+sequence 7 stopped at 1720.731254
+sequence 8 started at 1720.731368
+sequence 8 trial 1 onset at 1720.738726
+sequence 8 trial 1 pursuit onset at 1720.738856
+sequence 8 trial 1 pursuit offset at 1721.830265
+sequence 8 trial 1 offset at 1721.930249
+sequence 8 trial 2 onset at 1721.938572
+sequence 8 trial 2 saccade onset at 1721.938708
+sequence 8 trial 2 offset at 1723.130114
+sequence 8 trial 3 onset at 1723.138424
+sequence 8 trial 3 pursuit onset at 1723.138559
+sequence 8 trial 3 pursuit offset at 1724.229932
+sequence 8 trial 3 offset at 1724.329915
+sequence 8 trial 4 onset at 1724.338250
+sequence 8 trial 4 saccade onset at 1724.338379
+sequence 8 trial 4 offset at 1725.529815
+sequence 8 trial 5 onset at 1725.538147
+sequence 8 trial 5 pursuit onset at 1725.538276
+sequence 8 trial 5 pursuit offset at 1726.629688
+sequence 8 trial 5 offset at 1726.729657
+sequence 8 trial 6 onset at 1726.738019
+sequence 8 trial 6 saccade onset at 1726.738148
+sequence 8 trial 6 offset at 1727.929512
+sequence 8 trial 7 onset at 1727.937842
+sequence 8 trial 7 pursuit onset at 1727.937975
+sequence 8 trial 7 pursuit offset at 1729.029396
+sequence 8 trial 7 offset at 1729.129573
+sequence 8 trial 8 onset at 1729.137690
+sequence 8 trial 8 saccade onset at 1729.137821
+sequence 8 trial 8 offset at 1730.329240
+sequence 8 trial 9 onset at 1730.337551
+sequence 8 trial 9 pursuit onset at 1730.337681
+sequence 8 trial 9 pursuit offset at 1731.429547
+sequence 8 trial 9 offset at 1731.529373
+sequence 8 trial 10 onset at 1731.537422
+sequence 8 trial 10 saccade onset at 1731.537552
+sequence 8 trial 10 offset at 1732.729138
+sequence 8 trial 11 onset at 1732.737265
+sequence 8 trial 11 pursuit onset at 1732.737431
+sequence 8 trial 11 pursuit offset at 1733.828804
+sequence 8 trial 11 offset at 1733.928788
+sequence 8 trial 12 onset at 1733.937109
+sequence 8 trial 12 saccade onset at 1733.937238
+sequence 8 trial 12 offset at 1735.128827
+sequence 8 trial 13 onset at 1735.136986
+sequence 8 trial 13 pursuit onset at 1735.137115
+sequence 8 trial 13 pursuit offset at 1736.228557
+sequence 8 trial 13 offset at 1736.328483
+sequence 8 trial 14 onset at 1736.336816
+sequence 8 trial 14 saccade onset at 1736.336947
+sequence 8 trial 14 offset at 1737.528344
+sequence 8 trial 15 onset at 1737.536677
+sequence 8 trial 15 pursuit onset at 1737.536815
+sequence 8 trial 15 pursuit offset at 1738.628223
+sequence 8 trial 15 offset at 1738.728228
+sequence 8 trial 16 onset at 1738.736581
+sequence 8 trial 16 saccade onset at 1738.736711
+sequence 8 trial 16 offset at 1739.928048
+sequence 8 trial 17 onset at 1739.936376
+sequence 8 trial 17 pursuit onset at 1739.936515
+sequence 8 trial 17 pursuit offset at 1741.027930
+sequence 8 trial 17 offset at 1741.127925
+sequence 8 trial 18 onset at 1741.136265
+sequence 8 trial 18 saccade onset at 1741.136403
+sequence 8 trial 18 offset at 1742.327968
+sequence 8 trial 19 onset at 1742.336182
+sequence 8 trial 19 pursuit onset at 1742.336368
+sequence 8 trial 19 pursuit offset at 1743.435934
+sequence 8 trial 19 offset at 1743.535922
+sequence 8 trial 20 onset at 1743.544254
+sequence 8 trial 20 saccade onset at 1743.544378
+sequence 8 trial 20 offset at 1744.735782
+sequence 8 trial 21 onset at 1744.744117
+sequence 8 trial 21 pursuit onset at 1744.744241
+sequence 8 trial 21 pursuit offset at 1745.835648
+sequence 8 trial 21 offset at 1745.935634
+sequence 8 trial 22 onset at 1745.943967
+sequence 8 trial 22 saccade onset at 1745.944094
+sequence 8 trial 22 offset at 1747.135557
+sequence 8 trial 23 onset at 1747.143887
+sequence 8 trial 23 pursuit onset at 1747.144018
+sequence 8 trial 23 pursuit offset at 1748.235370
+sequence 8 trial 23 offset at 1748.335396
+sequence 8 trial 24 onset at 1748.343729
+sequence 8 trial 24 saccade onset at 1748.343857
+sequence 8 trial 24 offset at 1749.535228
+sequence 8 trial 25 onset at 1749.543561
+sequence 8 trial 25 pursuit onset at 1749.543691
+sequence 8 trial 25 pursuit offset at 1750.635114
+sequence 8 trial 25 offset at 1750.735085
+sequence 8 trial 26 onset at 1750.743424
+sequence 8 trial 26 saccade onset at 1750.743553
+sequence 8 trial 26 offset at 1751.934971
+sequence 8 trial 27 onset at 1751.943306
+sequence 8 trial 27 pursuit onset at 1751.943456
+sequence 8 trial 27 pursuit offset at 1753.035093
+sequence 8 trial 27 offset at 1753.134795
+sequence 8 trial 28 onset at 1753.143123
+sequence 8 trial 28 saccade onset at 1753.143271
+sequence 8 trial 28 offset at 1754.334647
+sequence 8 trial 29 onset at 1754.342976
+sequence 8 trial 29 pursuit onset at 1754.343106
+sequence 8 trial 29 pursuit offset at 1755.434529
+sequence 8 trial 29 offset at 1755.534532
+sequence 8 trial 30 onset at 1755.542855
+sequence 8 trial 30 saccade onset at 1755.543006
+sequence 8 trial 30 offset at 1756.734354
+sequence 8 trial 31 onset at 1756.742686
+sequence 8 trial 31 pursuit onset at 1756.742839
+sequence 8 trial 31 pursuit offset at 1757.834224
+sequence 8 trial 31 offset at 1757.934206
+sequence 8 trial 32 onset at 1757.942539
+sequence 8 trial 32 saccade onset at 1757.942669
+sequence 8 trial 32 offset at 1759.134103
+sequence 8 - 1 missed sync on 4608 frames, 0.0% (mean/median delay = 7.9/7.9 ms)
+sequence 8 stopped at 1759.139161
+sequence 9 started at 1759.139293
+sequence 9 trial 1 onset at 1759.142423
+sequence 9 trial 1 offset at 1760.333926
+sequence 9 trial 2 onset at 1760.342256
+sequence 9 trial 2 offset at 1761.533814
+sequence 9 trial 3 onset at 1761.542127
+sequence 9 trial 3 offset at 1762.733634
+sequence 9 trial 4 onset at 1762.741962
+sequence 9 trial 4 offset at 1763.933478
+sequence 9 trial 5 onset at 1763.941819
+sequence 9 trial 5 offset at 1765.133341
+sequence 9 trial 6 onset at 1765.141888
+sequence 9 trial 6 offset at 1766.333198
+sequence 9 trial 7 onset at 1766.341531
+sequence 9 trial 7 offset at 1767.533092
+sequence 9 trial 8 onset at 1767.541359
+sequence 9 trial 8 offset at 1768.732886
+sequence 9 trial 9 onset at 1768.741220
+sequence 9 trial 9 offset at 1769.932729
+sequence 9 trial 10 onset at 1769.941085
+sequence 9 trial 10 offset at 1771.132620
+sequence 9 trial 11 onset at 1771.140955
+sequence 9 trial 11 offset at 1772.332435
+sequence 9 trial 12 onset at 1772.340766
+sequence 9 trial 12 offset at 1773.532296
+sequence 9 trial 13 onset at 1773.540623
+sequence 9 trial 13 offset at 1774.732166
+sequence 9 trial 14 onset at 1774.740523
+sequence 9 trial 14 offset at 1775.931986
+sequence 9 trial 15 onset at 1775.940331
+sequence 9 trial 15 offset at 1777.131869
+sequence 9 trial 16 onset at 1777.140172
+sequence 9 trial 16 offset at 1778.331757
+sequence 9 - 0 missed sync on 2304 frames, 0.0% (mean/median delay = NaN/NaN ms)
+sequence 9 stopped at 1778.332466

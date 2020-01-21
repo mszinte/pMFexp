@@ -29,7 +29,7 @@ if const.expStart
     end
 end
 
-const.runNum            =   input(sprintf('\n\tRun number (1 to 10): '));
+const.runNum            =   input(sprintf('\n\tRun number (1 to 5): '));
 if isempty(const.runNum)
     error('Incorrect run number');
 end
