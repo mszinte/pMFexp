@@ -125,7 +125,7 @@ behav_txt_head{2}       =   'duration';                     behav_mat_res{2}    
 behav_txt_head{3}       =   'run_number';                   behav_mat_res{3}        = 	expDes.expMat(:,1);
 behav_txt_head{4}       =   'trial_number';                 behav_mat_res{4}        = 	expDes.expMat(:,2);
 behav_txt_head{5}       =   'task';                         behav_mat_res{5}        = 	expDes.expMat(:,3);
-behav_txt_head{6}       =   'tial_type';                    behav_mat_res{6}        = 	expDes.expMat(:,4);
+behav_txt_head{6}       =   'trial_type';                   behav_mat_res{6}        = 	expDes.expMat(:,4);
 behav_txt_head{7}       =   'eyemov_amplitude';             behav_mat_res{7}        = 	expDes.expMat(:,5);
 behav_txt_head{8}       =   'eyemov_direction';             behav_mat_res{8}        = 	expDes.expMat(:,6);
 behav_txt_head{9}       =   'sequence_num';                 behav_mat_res{9}        = 	expDes.expMat(:,7);
