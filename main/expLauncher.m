@@ -30,10 +30,8 @@
 % To do
 % -----
 % 1. change calibration to cover whole testing area with stars
-% 2. think about a way to have smooth motion
-% positions
 % 2. make video
-% 3. collect data
+% 3. collect data on me
 % 4. make eye movement analysis
 % 5. discuss with Julien about sequence
 
