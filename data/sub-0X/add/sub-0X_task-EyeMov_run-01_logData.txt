@@ -1,0 +1,134 @@
+sequence 1 started at 20928.046001
+sequence 1 event mri_trigger val = -8 at 20928.066604
+sequence 1 trial 1 onset at 20928.083572
+sequence 1 trial 1 offset at 20930.266739
+sequence 1 trial 2 onset at 20930.283380
+sequence 1 trial 2 offset at 20932.466729
+sequence 1 trial 3 onset at 20932.483525
+sequence 1 trial 3 offset at 20934.666881
+sequence 1 trial 4 onset at 20934.683650
+sequence 1 trial 4 offset at 20936.867143
+sequence 1 trial 5 onset at 20936.883698
+sequence 1 trial 5 offset at 20939.067179
+sequence 1 trial 6 onset at 20939.083823
+sequence 1 trial 6 offset at 20941.267268
+sequence 1 trial 7 onset at 20941.283936
+sequence 1 trial 7 offset at 20943.467462
+sequence 1 trial 8 onset at 20943.484244
+sequence 1 trial 8 offset at 20945.667667
+sequence 1 trial 9 onset at 20945.684419
+sequence 1 trial 9 offset at 20947.867738
+sequence 1 trial 10 onset at 20947.884512
+sequence 1 trial 10 offset at 20950.068012
+sequence 1 trial 11 onset at 20950.084677
+sequence 1 trial 11 offset at 20952.268196
+sequence 1 trial 12 onset at 20952.284858
+sequence 1 trial 12 offset at 20954.468356
+sequence 1 trial 13 onset at 20954.484987
+sequence 1 trial 13 offset at 20956.668515
+sequence 1 trial 14 onset at 20956.685142
+sequence 1 trial 14 offset at 20958.868660
+sequence 1 trial 15 onset at 20958.885253
+sequence 1 trial 15 offset at 20961.068805
+sequence 1 trial 16 onset at 20961.085462
+sequence 1 trial 16 offset at 20963.268969
+sequence 1 - 0 missed sync on 2112 frames, 0.0% (mean/median delay = NaN/NaN ms)
+sequence 1 stopped at 20963.299853
+sequence 2 started at 20963.300570
+sequence 2 trial 1 onset at 20963.320261
+sequence 2 trial 1 pursuit onset at 20963.320952
+sequence 2 trial 1 pursuit offset at 20965.302707
+sequence 2 trial 1 offset at 20965.502416
+sequence 2 trial 2 onset at 20965.519094
+sequence 2 trial 2 saccade onset at 20965.519647
+sequence 2 trial 2 offset at 20967.702475
+sequence 2 trial 3 onset at 20967.719220
+sequence 2 trial 3 pursuit onset at 20967.719503
+sequence 2 trial 3 pursuit offset at 20969.702664
+sequence 2 trial 3 offset at 20969.902740
+sequence 2 trial 4 onset at 20969.919347
+sequence 2 trial 4 saccade onset at 20969.919628
+sequence 2 trial 4 offset at 20972.102850
+sequence 2 trial 5 onset at 20972.119537
+sequence 2 trial 5 pursuit onset at 20972.119800
+sequence 2 trial 5 pursuit offset at 20974.102994
+sequence 2 trial 5 offset at 20974.303008
+sequence 2 trial 6 onset at 20974.319702
+sequence 2 trial 6 saccade onset at 20974.319968
+sequence 2 trial 6 offset at 20976.503205
+sequence 2 trial 7 onset at 20976.519867
+sequence 2 trial 7 pursuit onset at 20976.520150
+sequence 2 trial 7 pursuit offset at 20978.503330
+sequence 2 trial 7 offset at 20978.703360
+sequence 2 trial 8 onset at 20978.720009
+sequence 2 trial 8 saccade onset at 20978.720294
+sequence 2 trial 8 offset at 20980.903437
+sequence 2 trial 9 onset at 20980.920171
+sequence 2 trial 9 pursuit onset at 20980.920434
+sequence 2 trial 9 pursuit offset at 20982.903622
+sequence 2 trial 9 offset at 20983.103658
+sequence 2 trial 10 onset at 20983.120300
+sequence 2 trial 10 saccade onset at 20983.120564
+sequence 2 trial 10 offset at 20985.303810
+sequence 2 trial 11 onset at 20985.320428
+sequence 2 trial 11 pursuit onset at 20985.320710
+sequence 2 trial 11 pursuit offset at 20987.303981
+sequence 2 trial 11 offset at 20987.503979
+sequence 2 trial 12 onset at 20987.520640
+sequence 2 trial 12 saccade onset at 20987.520930
+sequence 2 trial 12 offset at 20989.704065
+sequence 2 trial 13 onset at 20989.720748
+sequence 2 trial 13 pursuit onset at 20989.721006
+sequence 2 trial 13 pursuit offset at 20991.704216
+sequence 2 trial 13 offset at 20991.904218
+sequence 2 trial 14 onset at 20991.920898
+sequence 2 trial 14 saccade onset at 20991.921160
+sequence 2 trial 14 offset at 20994.104386
+sequence 2 trial 15 onset at 20994.121082
+sequence 2 trial 15 pursuit onset at 20994.121340
+sequence 2 trial 15 pursuit offset at 20996.104515
+sequence 2 trial 15 offset at 20996.304425
+sequence 2 trial 16 onset at 20996.321194
+sequence 2 trial 16 saccade onset at 20996.321459
+sequence 2 trial 16 offset at 20998.504681
+sequence 2 trial 17 onset at 20998.521384
+sequence 2 trial 17 pursuit onset at 20998.521638
+sequence 2 trial 17 pursuit offset at 21000.504854
+sequence 2 trial 17 offset at 21000.704866
+sequence 2 trial 18 onset at 21000.721522
+sequence 2 trial 18 saccade onset at 21000.721774
+sequence 2 trial 18 offset at 21002.905020
+sequence 2 trial 19 onset at 21002.921661
+sequence 2 trial 19 pursuit onset at 21002.921950
+sequence 2 trial 19 pursuit offset at 21004.905025
+sequence 2 trial 19 offset at 21005.104972
+sequence 2 trial 20 onset at 21005.121796
+sequence 2 trial 20 saccade onset at 21005.122044
+sequence 2 trial 20 offset at 21007.305194
+sequence 2 trial 21 onset at 21007.321960
+sequence 2 trial 21 pursuit onset at 21007.322259
+sequence 2 trial 21 pursuit offset at 21009.305382
+sequence 2 trial 21 offset at 21009.505475
+sequence 2 trial 22 onset at 21009.522103
+sequence 2 trial 22 saccade onset at 21009.522370
+sequence 2 trial 22 offset at 21011.705610
+sequence 2 trial 23 onset at 21011.722269
+sequence 2 trial 23 pursuit onset at 21011.722533
+sequence 2 trial 23 pursuit offset at 21013.705600
+sequence 2 trial 23 offset at 21013.905589
+sequence 2 trial 24 onset at 21013.922240
+sequence 2 trial 24 saccade onset at 21013.922422
+sequence 2 trial 24 offset at 21016.105709
+sequence 2 trial 25 onset at 21016.122411
+sequence 2 trial 25 pursuit onset at 21016.122575
+sequence 2 trial 25 pursuit offset at 21018.106028
+sequence 2 trial 25 offset at 21018.306079
+sequence 2 trial 26 onset at 21018.322810
+sequence 2 trial 26 saccade onset at 21018.323074
+sequence 2 trial 26 offset at 21020.506225
+sequence 2 trial 27 onset at 21020.522852
+sequence 2 trial 27 pursuit onset at 21020.523113
+sequence 2 trial 27 pursuit offset at 21022.506359
+sequence 2 trial 27 offset at 21022.706357
+sequence 2 trial 28 onset at 21022.723067
+sequence 2 trial 28 saccade onset at 21022.723334

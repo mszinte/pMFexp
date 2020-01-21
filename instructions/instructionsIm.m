@@ -15,9 +15,9 @@ function instructionsIm(scr,const,my_key,nameImage,exitFlag)
 % (none)
 % ----------------------------------------------------------------------
 % Function created by Martin SZINTE (martin.szinte@gmail.com)
-% Last update : 10 / 09 / 2019
-% Project :     pRF_gazeMod
-% Version :     3.0
+% Last update : 21 / 01 / 2020
+% Project :     pMFexp
+% Version :     1.0
 % ----------------------------------------------------------------------
 
 dirImageFile            =   'instructions/image/';

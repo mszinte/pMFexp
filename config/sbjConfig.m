@@ -12,7 +12,7 @@ function [const]=sbjConfig(const)
 % const : struct containing constant configurations
 % ----------------------------------------------------------------------
 % Function created by Martin SZINTE (martin.szinte@gmail.com)
-% Last update : 16 / 01 / 2020
+% Last update : 21 / 01 / 2020
 % Project :     pMFexp
 % Version :     1.0
 % ----------------------------------------------------------------------
@@ -33,8 +33,8 @@ const.runNum            =   input(sprintf('\n\tRun number (1 to 10): '));
 if isempty(const.runNum)
     error('Incorrect run number');
 end
-if const.runNum > 10
-    error('Only 10 runs');
+if const.runNum > 5
+    error('Only 5 runs');
 end
 
 if const.cond_run_num(const.runNum) > 9

@@ -15,8 +15,6 @@
 % --------------------
 % kick out mention of 2 acquisitions, keep 1.2 mm
 % const.run_txt in sbjConfig.m instead of dirSaveFile
-% 16 vertical and horizontal steps instead of 18
-% 16 TR for blank
 
 % design idea
 % -----------
@@ -33,8 +31,8 @@
 % To do
 % -----
 % 1. change instructions
-% 2. check correct results with and without eyelink 
-% 1. eye movement analysis
+% 2. check correct outputs with and without eyelink
+% 1. make eye movement analysis
 
 % First settings
 % --------------
@@ -59,17 +57,13 @@ const.room              =   2;              % run in MRI or eye-tracking room   
 % ---------
 const.cond_run_order = [1;1;...             % run 01 - EyeMov_run01      run 02 - EyeMov_run02
                         1;1;...             % run 03 - EyeMov_run03      run 04 - EyeMov_run04
-                        1;1;...             % run 05 - EyeMov_run05      run 06 - EyeMov_run06
-                        1;1;...             % run 07 - EyeMov_run07      run 08 - EyeMov_run08
-                        1;1];               % run 09 - EyeMov_run09      run 10 - EyeMov_run10
+                        1];                 % run 05 - EyeMov_run05
 
 % Run number per condition
 % ------------------------
 const.cond_run_num =  [01;02;...
                        03;04;...
-                       05;06;...
-                       07;08;...
-                       09;10];
+                       05];
 
 % Desired screen setting
 % ----------------------
