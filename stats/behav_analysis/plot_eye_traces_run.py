@@ -14,7 +14,7 @@ h5 files with loads of data on eye traces across runs
 -----------------------------------------------------------------------------------------
 To run:
 cd /Users/martin/Dropbox/Experiments/pMFexp/stats/
-python behav_analysis/extract_eyetraces.py sub-01 EyeMov
+python behav_analysis/plot_eye_traces_run.py sub-01 EyeMov
 -----------------------------------------------------------------------------------------
 """
 
@@ -99,8 +99,6 @@ ymin2,ymax2,y_tick_num2 = -screen_val,screen_val,11
 xmin2,xmax2,x_tick_num2 = 0,1,num_run+1
 y_tick2 = np.linspace(ymin2,ymax2,y_tick_num2)
 x_tick2 = np.linspace(xmin2,xmax2,x_tick_num2)
-
-
 
 # eye trace analysis per run
 for run_plot in np.arange(0,num_run,1):

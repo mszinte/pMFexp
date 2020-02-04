@@ -214,11 +214,12 @@ scr_sizeY = matfile['config']['scr'][0,0]['scr_sizeY'][0][0][0][0]
 screen_size = np.array([scr_sizeX,scr_sizeY])
 ppd = matfile['config']['const'][0,0]['ppd'][0][0][0][0]
 
-eye_data_runs[:,1] = (eye_data_runs[:,1] - (screen_size[0]/2))/ppd;
-eye_data_runs[:,2] = (eye_data_runs[:,2] - (screen_size[1]/2))/ppd;
-eye_data_runs_no_blink[:,1] = (eye_data_runs_no_blink[:,1] - (screen_size[0]/2))/ppd;
-eye_data_runs_no_blink[:,2] = (eye_data_runs_no_blink[:,2] - (screen_size[1]/2))/ppd;
 
+eye_data_runs[:,1] = (eye_data_runs[:,1] - (screen_size[0]/2))/ppd;
+eye_data_runs[:,2] = -1.0*((eye_data_runs[:,2] - (screen_size[1]/2))/ppd);
+eye_data_runs_no_blink[:,1] = (eye_data_runs_no_blink[:,1] - (screen_size[0]/2))/ppd;
+eye_data_runs_no_blink[:,2] = -1.0*((eye_data_runs_no_blink[:,2] - (screen_size[1]/2))/ppd);
+amp_sequence = matfile['config']['expDes'][0,0]['amp_sequence'][0][0]
 
 # Save all
 # --------
@@ -251,4 +252,7 @@ h5file.create_dataset(  '{folder_alias}/time_start_trial'.format(folder_alias = 
                         data = time_start_trial,dtype ='float32')
 h5file.create_dataset(  '{folder_alias}/time_end_trial'.format(folder_alias = folder_alias),
                         data = time_end_trial,dtype ='float32')
+
+h5file.create_dataset(  '{folder_alias}/amp_sequence'.format(folder_alias = folder_alias),
+                        data = amp_sequence,dtype ='float32')
 
