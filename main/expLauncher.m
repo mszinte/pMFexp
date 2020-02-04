@@ -46,7 +46,7 @@ const.mkVideo           =   0;              % Make a video of a run             
 
 % External controls
 % -----------------
-const.tracker           =   0;              % run with eye tracker                              0 = NO  , 1 = YES
+const.tracker           =   1;              % run with eye tracker                              0 = NO  , 1 = YES
 const.scanner           =   0;              % run in MRI scanner                                0 = NO  , 1 = YES
 const.scannerTest       =   1;              % run with T returned at TR time                    0 = NO  , 1 = YES
 const.room              =   2;              % run in MRI or eye-tracking room                   1 = MRI , 2 = eye-tracking
