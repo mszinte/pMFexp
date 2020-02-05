@@ -61,12 +61,7 @@ elif platform.system() == 'Windows':
 # Define experiments details
 # --------------------------
 num_run = analysis_info['num_run']
-# num_seq = analysis_info['num_seq']
-# seq_trs = analysis_info['seq_trs']
-# eye_mov_seq = analysis_info['eye_mov_seq']
 rads = analysis_info['rads']
-# pursuits_tr = np.arange(0,seq_trs,2)
-# saccades_tr = np.arange(1,seq_trs,2)
 
 # Load data
 # ---------
