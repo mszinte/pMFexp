@@ -15,6 +15,9 @@ amplitudes and directions.
 * Multi-band 4<br/>
 * 60 slices<br/>
 
+## Experiment runner
+* run the experiment using main/expLauncher.m
+
 ## MRI analysis
 To define later
 
@@ -22,6 +25,8 @@ To define later
 * get eye coordinates using stats/behav_analysis/extract_eyetraces.py
 * get saccade parameters using stats/behav_analysis/extract_saccades.py
 * plot eye traces per run using stats/behav_analysis/plot_eye_traces_run.py
+* plot saccade eye traces per sequence using stats/behav_analysis/plot_eye_traces_seq_saccades.py
+
 * plot eye traces per sequence using stats/behav_analysis/plot_eye_traces_sequence.py
 * plot eye traces per saccade trials using stats/behav_analysis/plot_eye_traces_saccade.py
 * plot eye traces per pursuit trials using stats/behav_analysis/plot_eye_traces_saccade.py

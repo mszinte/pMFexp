@@ -71,7 +71,6 @@ h5_file = h5py.File(h5_filename,'r')
 folder_alias = 'eye_traces'
 eye_data_runs_no_blink = np.array(h5_file['{folder_alias}/eye_data_runs_no_blink'.format(folder_alias = folder_alias)])
 
-
 # Draw figure
 # -----------
 
@@ -99,13 +98,13 @@ x_tick2 = np.linspace(xmin2,xmax2,x_tick_num2)
 for run_plot in np.arange(0,num_run,1):
 
 	# define run name
-	if run_plot > 9:
+	if run_plot > 10:
 		run_plot_txt = '{}'.format(run_plot+1)
 	else:
 		run_plot_txt = '0{}'.format(run_plot+1)
 
 	# Define figure folder
-	try: os.makedirs('{file_dir}/add/figures/run_{run_plot_txt}'.format(file_dir = file_dir,run_plot_txt = run_plot_txt))
+	try: os.makedirs('{file_dir}/add/figures/run-{run_plot_txt}'.format(file_dir = file_dir,run_plot_txt = run_plot_txt))
 	except: pass
 	
 	fig = plt.figure(figsize = (15, 7))
@@ -175,7 +174,7 @@ for run_plot in np.arange(0,num_run,1):
 
 	plt.subplots_adjust(wspace = 1.4,hspace = 0.4)
 
-	plt.savefig("{file_dir}/add/figures/run_{run_plot_txt}/{sub}_task-{task}_run-{run_plot_txt}_eyetraces.png".format(
+	plt.savefig("{file_dir}/add/figures/run-{run_plot_txt}/{sub}_task-{task}_run-{run_plot_txt}_eyetraces.png".format(
 																sub = subject,
 																task = task,
 																run_plot_txt = run_plot_txt,
