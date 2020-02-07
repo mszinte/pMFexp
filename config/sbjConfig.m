@@ -52,27 +52,9 @@ const.cond1_txt          =  'EyeMov';
 
 fprintf(1,'\n\tTask: %s\n',const.cond1_txt);
 
-if const.expStart
-    if const.tracker
-        const.sjct_DomEye   =   'L';  % for all subjects in the scanner
-        const.recEye        =   1;
-    else
-        const.sjct_DomEye   =   'DM';
-        const.recEye        =   1;
-    end
-    if const.runNum == 1
-        const.sjctName      =   upper(strtrim(input(sprintf('\n\tParticipant identity: '),'s')));
-        const.sjct_age      =   input(sprintf('\n\tParticipant age: '));
-        if isempty(const.sjct_age)
-            error('Incorrect participant age');
-        end
-        const.sjct_gender   =   upper(strtrim(input(sprintf('\n\tParticipant gender (M or F): '),'s')));
-    end
-else
+const.recEye        =   1;
+if ~const.expStart
     const.sjct          =   'sub-0X';
-    const.sjct_age      =   '00';
-    const.sjct_gender   =   'X';
-    const.sjct_DomEye   =   'DM';
     const.recEye        =   1;
 end
 

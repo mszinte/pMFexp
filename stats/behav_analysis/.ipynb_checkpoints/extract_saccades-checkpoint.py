@@ -54,10 +54,10 @@ import os
 import sys
 import platform
 import numpy as np
-import ipdb
 import json
 import h5py
-deb = ipdb.set_trace
+# import ipdb
+# deb = ipdb.set_trace
 
 # Specific imports
 # ----------------
@@ -114,17 +114,20 @@ tolerance_ratio = analysis_info['tolerance_ratio']
 
 # Main loop
 # ---------
+mat = 0
 for run in runs:
-	print('run: {}'.format(run))
+	# print('run: {}'.format(run))
 	run_data_logic = eye_data_runs[:,3] == run
 
 	for sequence in sequences:
+		# print('sequence: {}'.format(sequence))
 		trials = np.arange(0,trials_seq[sequence],1)
 		seq_data_logic = np.logical_and(eye_data_runs[:,0] >= time_start_seq[sequence,run],\
 										eye_data_runs[:,0] <= time_end_seq[sequence,run])
 
 		trial_with_sac = 0
 		for trial in trials:
+			# print('trial: {}'.format(trial))
 			trial_data_logic = np.logical_and(eye_data_runs[:,0] >= time_start_trial[trial,sequence,run],\
 											  eye_data_runs[:,0] <= time_end_trial[trial,sequence,run])
 			
@@ -169,6 +172,8 @@ for run in runs:
 			if np.sum(np.diff(eye_data_runs[trial_data_logic,0])>1000/sampling_rate) > 0:
 				miss_time = 1
 
+
+
 			#2 saccade detection
 			if not miss_time:
 				t, p, x, y = eye_data_runs[trial_data_logic,0],time_prct,eye_data_runs[trial_data_logic,1],eye_data_runs[trial_data_logic,2]
@@ -180,14 +185,14 @@ for run in runs:
 					#4 no saccade
 					no_saccade = 1
 					s1 = 0
-					if np.logical_and(run==0,s1==0):
+					if mat == 0:
 						vals_all = np.array([	run,			sequence,		trial,			np.nan,			np.nan,\
 												np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 												np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 												np.nan,			np.nan,			np.nan,			fix_cor,		sac_cor,\
 												saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])
 
-
+						mat = 1
 					else:
 						vals_all = np.vstack((vals_all,np.array([	run,			sequence,		trial,			np.nan,			np.nan,\
 																	np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
@@ -217,12 +222,13 @@ for run in runs:
 						if sac_amp <= 1.0:microsaccade = 1
 
 						# extract metrics
-						if np.logical_and(run==0,s1==0):
+						if mat == 0:
 							vals_all = np.array([	run,			sequence,		trial,			s1,				sac_x_onset,\
 													sac_x_offset,	sac_y_onset,	sac_y_offset,	sac_t_onset,	sac_t_offset,\
 													sac_p_onset,	sac_p_offset,	sac_dur,		sac_vpeak,		sac_dist,\
 													sac_amp,		sac_dist_ang,	sac_amp_ang,	fix_cor,		sac_cor,\
 													saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])
+							mat = 1
 						else:
 						    vals_all = np.vstack((vals_all,np.array([	run,			sequence,		trial,			s1,				sac_x_onset,\
 																		sac_x_offset,	sac_y_onset,	sac_y_offset,	sac_t_onset,	sac_t_offset,\
@@ -230,6 +236,20 @@ for run in runs:
 																		sac_amp,		sac_dist_ang,	sac_amp_ang,	fix_cor,		sac_cor,\
 																		saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])))
 						s1 += 1
+			else:
+				if mat == 0:
+					vals_all = np.array([	run,			sequence,		trial,			np.nan,			np.nan,\
+											np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
+											np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
+											np.nan,			np.nan,			np.nan,			fix_cor,		sac_cor,\
+											saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])
+					mat = 1
+				else:
+					vals_all = np.vstack((vals_all,np.array([	run,			sequence,		trial,			np.nan,			np.nan,\
+																np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
+																np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
+																np.nan,			np.nan,			np.nan,			fix_cor,		sac_cor,\
+																saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])))
 
 
 # Save all
@@ -240,5 +260,5 @@ h5file = h5py.File(h5_file, "a")
 try:h5file.create_group(folder_alias)
 except:None
 
-h5file.create_dataset(  '{folder_alias}/eye_data_runs'.format(folder_alias = folder_alias),
+h5file.create_dataset(  '{folder_alias}/saccades_output'.format(folder_alias = folder_alias),
 						data = vals_all,dtype ='float32')

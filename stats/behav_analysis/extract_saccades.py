@@ -54,9 +54,9 @@ import os
 import sys
 import platform
 import numpy as np
-import ipdb
 import json
 import h5py
+import ipdb
 deb = ipdb.set_trace
 
 # Specific imports
@@ -98,6 +98,7 @@ h5_filename = "{file_dir}/add/{sub}_task-{task}_eyedata.h5".format(file_dir = fi
 h5_file = h5py.File(h5_filename,'r')
 folder_alias = 'eye_traces'
 eye_data_runs = np.array(h5_file['{folder_alias}/eye_data_runs'.format(folder_alias = folder_alias)])
+eye_data_runs_nan_blink = np.array(h5_file['{folder_alias}/eye_data_runs_nan_blink'.format(folder_alias = folder_alias)])
 time_start_seq = np.array(h5_file['{folder_alias}/time_start_seq'.format(folder_alias = folder_alias)])
 time_end_seq = np.array(h5_file['{folder_alias}/time_end_seq'.format(folder_alias = folder_alias)])
 time_start_trial = np.array(h5_file['{folder_alias}/time_start_trial'.format(folder_alias = folder_alias)])
@@ -157,9 +158,10 @@ for run in runs:
 			sac_accuracy = 0     #2 saccade accuracy (only fixation in right area)
 			microsaccade = 0     #3 microsaccade
 			no_saccade = 0       #4 no saccade detected
+			blink_saccade = 0	 #5 blink saccade
 
 			# Saccade analysis parameters
-			num_res = 25
+			num_res = 26
 			sac_fix_rad = tolerance_ratio*amp_sac
 
 			#0 Saccade task
@@ -190,7 +192,8 @@ for run in runs:
 												np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 												np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 												np.nan,			np.nan,			np.nan,			fix_cor,		sac_cor,\
-												saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])
+												saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade,\
+												blink_saccade])
 
 						mat = 1
 					else:
@@ -198,7 +201,8 @@ for run in runs:
 																	np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 																	np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 																	np.nan,			np.nan,			np.nan,			fix_cor,		sac_cor,\
-																	saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])))
+																	saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade,\
+																	blink_saccade])))
 
 				else:
 					n_sac_tot = ms.shape[0]
@@ -227,14 +231,16 @@ for run in runs:
 													sac_x_offset,	sac_y_onset,	sac_y_offset,	sac_t_onset,	sac_t_offset,\
 													sac_p_onset,	sac_p_offset,	sac_dur,		sac_vpeak,		sac_dist,\
 													sac_amp,		sac_dist_ang,	sac_amp_ang,	fix_cor,		sac_cor,\
-													saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])
+													saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade,\
+													blink_saccade])
 							mat = 1
 						else:
 						    vals_all = np.vstack((vals_all,np.array([	run,			sequence,		trial,			s1,				sac_x_onset,\
 																		sac_x_offset,	sac_y_onset,	sac_y_offset,	sac_t_onset,	sac_t_offset,\
 																		sac_p_onset,	sac_p_offset,	sac_dur,		sac_vpeak,		sac_dist,\
 																		sac_amp,		sac_dist_ang,	sac_amp_ang,	fix_cor,		sac_cor,\
-																		saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])))
+																		saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade,\
+																		blink_saccade])))
 						s1 += 1
 			else:
 				if mat == 0:
@@ -242,23 +248,98 @@ for run in runs:
 											np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 											np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 											np.nan,			np.nan,			np.nan,			fix_cor,		sac_cor,\
-											saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])
+											saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade,\
+											blink_saccade])
 					mat = 1
 				else:
 					vals_all = np.vstack((vals_all,np.array([	run,			sequence,		trial,			np.nan,			np.nan,\
 																np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 																np.nan,			np.nan,			np.nan,			np.nan,			np.nan,\
 																np.nan,			np.nan,			np.nan,			fix_cor,		sac_cor,\
-																saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade])))
+																saccade_task, 	miss_time,		sac_accuracy,	no_saccade,		microsaccade,\
+																blink_saccade])))
+
+
+#5 blink saccades
+
+# Detect and put nan during blink saccades
+blinkNum = 0
+blink_start = False
+for tTime in np.arange(0,eye_data_runs_nan_blink.shape[0],1):
+	if not blink_start:
+		if np.isnan(eye_data_runs_nan_blink[tTime,1]):
+			
+			blinkNum += 1
+			timeBlinkOnset = eye_data_runs_nan_blink[tTime,0]
+			blink_start = True
+			if blinkNum == 1:
+				blink_onset_offset = np.matrix([timeBlinkOnset,np.nan])
+			else:
+				blink_onset_offset = np.vstack((blink_onset_offset,[timeBlinkOnset,np.nan]))
+
+	if blink_start:
+		if not np.isnan(eye_data_runs_nan_blink[tTime,1]):
+			timeBlinkOffset = eye_data_runs_nan_blink[tTime,0]
+			blink_start = 0
+			blink_onset_offset[blinkNum-1,1] = timeBlinkOffset
+
+
+# nan saccade time around detected blinks and replace by interpolations
+buffer_dur = 20;
+sac_t_onset_col = 8
+sac_t_offset_col = 9
+blink_saccade_col = 25
+eye_data_runs_int_blink = np.copy(eye_data_runs_nan_blink)
+for tBlink in np.arange(0,blinkNum,1):
+
+
+	
+	blink_pre_sac_logic = np.logical_and(vals_all[:,sac_t_offset_col] >= blink_onset_offset[tBlink,0] - buffer_dur/2,\
+										 vals_all[:,sac_t_offset_col] <= blink_onset_offset[tBlink,0] + buffer_dur/2)
+	
+	blink_post_sac_logic = np.logical_and(vals_all[:,sac_t_onset_col] >= blink_onset_offset[tBlink,1] - buffer_dur/2,\
+										  vals_all[:,sac_t_onset_col] <= blink_onset_offset[tBlink,1] + buffer_dur/2)
+	
+	vals_all[blink_pre_sac_logic,blink_saccade_col] += 1
+	vals_all[blink_post_sac_logic,blink_saccade_col] += 1
+
+
+	if np.logical_and(np.sum(blink_pre_sac_logic),np.sum(blink_post_sac_logic)):
+		blink_pre_sac_vals = vals_all[blink_pre_sac_logic]
+		blink_pre_sac_t_onset = blink_pre_sac_vals[0,sac_t_onset_col]
+		blink_pre_sac_t_offset = blink_pre_sac_vals[0,sac_t_offset_col]
+
+		blink_post_sac_vals = vals_all[blink_post_sac_logic]
+		blink_post_sac_t_onset = blink_post_sac_vals[0,sac_t_onset_col]
+		blink_post_sac_t_offset = blink_post_sac_vals[0,sac_t_offset_col]
+		
+		blink_sac_x_coord = eye_data_runs_int_blink[np.logical_and(eye_data_runs_int_blink[:,0] >= blink_pre_sac_t_onset,eye_data_runs_int_blink[:,0] <= blink_post_sac_t_offset),1]
+		blink_sac_y_coord = eye_data_runs_int_blink[np.logical_and(eye_data_runs_int_blink[:,0] >= blink_pre_sac_t_onset,eye_data_runs_int_blink[:,0] <= blink_post_sac_t_offset),2]
+
+		# linear interporlation
+		eye_data_runs_int_blink[np.logical_and(	eye_data_runs_int_blink[:,0] >= blink_pre_sac_t_onset,\
+											  	eye_data_runs_int_blink[:,0] <= blink_post_sac_t_offset),1] =\
+												np.linspace(blink_sac_x_coord[0],blink_sac_x_coord[-1],blink_sac_x_coord.shape[0])
+
+		eye_data_runs_int_blink[np.logical_and(	eye_data_runs_int_blink[:,0] >= blink_pre_sac_t_onset,\
+											  	eye_data_runs_int_blink[:,0] <= blink_post_sac_t_offset),2] =\
+												np.linspace(blink_sac_y_coord[0],blink_sac_y_coord[-1],blink_sac_y_coord.shape[0])
+
 
 
 # Save all
 # --------
 h5_file = "{file_dir}/add/{sub}_task-{task}_eyedata.h5".format(file_dir = file_dir, sub = subject, task = task)
-folder_alias = 'saccades'
+
 h5file = h5py.File(h5_file, "a")
+folder_alias = 'eye_traces'
+h5file.create_dataset(  '{folder_alias}/eye_data_runs_int_blink'.format(folder_alias = folder_alias),
+						data = eye_data_runs_int_blink,dtype ='float32')
+
+folder_alias = 'saccades'
 try:h5file.create_group(folder_alias)
 except:None
 
 h5file.create_dataset(  '{folder_alias}/saccades_output'.format(folder_alias = folder_alias),
 						data = vals_all,dtype ='float32')
+

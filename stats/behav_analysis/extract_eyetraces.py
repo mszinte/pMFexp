@@ -172,14 +172,14 @@ for t_run in np.arange(0,num_run,1):
 	os.remove('{}.msg'.format(edf_filename))
 	os.remove('{}.dat'.format(edf_filename))
 
-
-
-# delete blink time
+# Put nan for blink time
 blinkNum = 0;
 blink_start = False;
 for tTime in np.arange(0,eye_data_runs.shape[0],1):
+	
 	if not blink_start:
 		if eye_data_runs[tTime,1] == -1:
+			
 			blinkNum += 1
 			timeBlinkOnset = eye_data_runs[tTime,0]
 			blink_start = True
@@ -195,17 +195,15 @@ for tTime in np.arange(0,eye_data_runs.shape[0],1):
 			blink_onset_offset[blinkNum-1,1] = timeBlinkOffset
 
 # nan record around detected blinks
-befDurBlink = 300;   # duration before blink
-aftDurBlink = 300;   # duration after blink
-eye_data_runs_no_blink = np.copy(eye_data_runs)
+eye_data_runs_nan_blink = np.copy(eye_data_runs)
 
 for tBlink in np.arange(0,blinkNum,1):
-	blink_onset_offset[tBlink,0] = blink_onset_offset[tBlink,0]-befDurBlink
-	blink_onset_offset[tBlink,1] = blink_onset_offset[tBlink,1]+aftDurBlink
 
-	eye_data_runs_no_blink[np.logical_and(eye_data_runs_no_blink[:,0] >= blink_onset_offset[tBlink,0],eye_data_runs_no_blink[:,0] <= blink_onset_offset[tBlink,1]),1] = np.nan
-	eye_data_runs_no_blink[np.logical_and(eye_data_runs_no_blink[:,0] >= blink_onset_offset[tBlink,0],eye_data_runs_no_blink[:,0] <= blink_onset_offset[tBlink,1]),2] = np.nan
-
+	blink_onset_offset[tBlink,0] = blink_onset_offset[tBlink,0]
+	blink_onset_offset[tBlink,1] = blink_onset_offset[tBlink,1]
+	
+	eye_data_runs_nan_blink[np.logical_and(eye_data_runs_nan_blink[:,0] >= blink_onset_offset[tBlink,0],eye_data_runs_nan_blink[:,0] <= blink_onset_offset[tBlink,1]),1] = np.nan
+	eye_data_runs_nan_blink[np.logical_and(eye_data_runs_nan_blink[:,0] >= blink_onset_offset[tBlink,0],eye_data_runs_nan_blink[:,0] <= blink_onset_offset[tBlink,1]),2] = np.nan
 
 # put eye coordinates in deg from center (flip y axis)
 matfile = scipy.io.loadmat(mat_filename)
@@ -217,9 +215,10 @@ ppd = matfile['config']['const'][0,0]['ppd'][0][0][0][0]
 
 eye_data_runs[:,1] = (eye_data_runs[:,1] - (screen_size[0]/2))/ppd;
 eye_data_runs[:,2] = -1.0*((eye_data_runs[:,2] - (screen_size[1]/2))/ppd);
-eye_data_runs_no_blink[:,1] = (eye_data_runs_no_blink[:,1] - (screen_size[0]/2))/ppd;
-eye_data_runs_no_blink[:,2] = -1.0*((eye_data_runs_no_blink[:,2] - (screen_size[1]/2))/ppd);
+eye_data_runs_nan_blink[:,1] = (eye_data_runs_nan_blink[:,1] - (screen_size[0]/2))/ppd;
+eye_data_runs_nan_blink[:,2] = -1.0*((eye_data_runs_nan_blink[:,2] - (screen_size[1]/2))/ppd);
 amp_sequence = matfile['config']['expDes'][0,0]['amp_sequence'][0][0]
+
 
 # Save all
 # --------
@@ -235,8 +234,8 @@ except:None
 
 h5file.create_dataset(  '{folder_alias}/eye_data_runs'.format(folder_alias = folder_alias),
                         data = eye_data_runs,dtype ='float32')
-h5file.create_dataset(  '{folder_alias}/eye_data_runs_no_blink'.format(folder_alias = folder_alias),
-                        data = eye_data_runs_no_blink,dtype ='float32')
+h5file.create_dataset(  '{folder_alias}/eye_data_runs_nan_blink'.format(folder_alias = folder_alias),
+                        data = eye_data_runs_nan_blink,dtype ='float32')
 
 h5file.create_dataset(  '{folder_alias}/time_start_eye'.format(folder_alias = folder_alias),
                         data = time_start_eye,dtype ='float32')

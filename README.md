@@ -25,10 +25,5 @@ To define later
 * get eye coordinates using stats/behav_analysis/extract_eyetraces.py
 * get saccade parameters using stats/behav_analysis/extract_saccades.py
 * plot eye traces per run using stats/behav_analysis/plot_eye_traces_run.py
-* plot saccade eye traces per sequence using stats/behav_analysis/plot_eye_traces_seq_saccades.py
-
-* plot eye traces per sequence using stats/behav_analysis/plot_eye_traces_sequence.py
-* plot eye traces per saccade trials using stats/behav_analysis/plot_eye_traces_saccade.py
-* plot eye traces per pursuit trials using stats/behav_analysis/plot_eye_traces_saccade.py
-* plot saccade metrics summary using stats/behav_analysis/plot_saccade_metrics.py
-* plot pursuit metrics summary using stats/behav_analysis/plot_pursuit_metrics.py
+* plot eye traces per saccade sequence using stats/behav_analysis/plot_eye_traces_sac_seq.py
+* plot eye traces per trial using stats/behav_analysis/plot_eye_traces_trial.py
