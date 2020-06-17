@@ -155,42 +155,5 @@ const.validCoord =round( [  vx(1), vy(1),...   % 1.  center center
                              vx(12),vy(12)]);    % 13. right down
 
 const.ppd               =   vaDeg2pix(1,scr);                                                  % get one pixel per degree
-% const.maxX              =   scr.scr_sizeX*0.5;                                                 % maximum horizontal amplitude of the screen
-% const.maxY              =   scr.scr_sizeY*0.5;                                                 % maximum vertical amplitude of the screen
-% const.calib_maxX     	=   const.maxX/2;
-% const.calib_maxY        =   const.maxY/2;
-% const.calib_center      =   [scr.scr_sizeX/2,scr.scr_sizeY/2];
-% 
-% const.calibCoord        =   round([ const.calib_center(1),                     const.calib_center(2),...                       % 01.  center center
-%                                     const.calib_center(1),                     const.calib_center(2)-const.calib_maxY,...      % 02.  center up
-%                                     const.calib_center(1),                     const.calib_center(2)+const.calib_maxY,...      % 03.  center down
-%                                     const.calib_center(1)-const.calib_maxX,    const.calib_center(2),....                      % 04.  left center
-%                                     const.calib_center(1)+const.calib_maxX,    const.calib_center(2),...                       % 05.  right center
-%                                     const.calib_center(1)-const.calib_maxX,    const.calib_center(2)-const.calib_maxY,....     % 06.  left up
-%                                     const.calib_center(1)+const.calib_maxX,    const.calib_center(2)-const.calib_maxY,...      % 07.  right up
-%                                     const.calib_center(1)-const.calib_maxX,    const.calib_center(2)+const.calib_maxY,....     % 08.  left down
-%                                     const.calib_center(1)+const.calib_maxX,    const.calib_center(2)+const.calib_maxY,...      % 09.  right down
-%                                     const.calib_center(1)-const.calib_maxX/2,  const.calib_center(2)-const.calib_maxY/2,....   % 10.  mid left mid up
-%                                     const.calib_center(1)+const.calib_maxX/2,  const.calib_center(2)-const.calib_maxY/2,....   % 11.  mid right mid up
-%                                     const.calib_center(1)-const.calib_maxX/2,  const.calib_center(2)+const.calib_maxY/2,....   % 12.  mid left mid down
-%                                     const.calib_center(1)+const.calib_maxX/2,  const.calib_center(2)+const.calib_maxY/2]);     % 13.  mid right mid down
-% 
-% const.valid_maxX        =   const.calib_maxX * 0.9;
-% const.valid_maxY        =   const.calib_maxY * 0.9;
-% const.valid_center      =   const.calib_center;
-% 
-% const.validCoord    	=   round([ const.valid_center(1),                     const.valid_center(2),...                       % 01.  center center
-%                                     const.valid_center(1),                     const.valid_center(2)-const.valid_maxY,...      % 02.  center up
-%                                     const.valid_center(1),                     const.valid_center(2)+const.valid_maxY,...      % 03.  center down
-%                                     const.valid_center(1)-const.valid_maxX,    const.valid_center(2),....                      % 04.  left center
-%                                     const.valid_center(1)+const.valid_maxX,    const.valid_center(2),...                       % 05.  right center
-%                                     const.valid_center(1)-const.valid_maxX,    const.valid_center(2)-const.valid_maxY,....     % 06.  left up
-%                                     const.valid_center(1)+const.valid_maxX,    const.valid_center(2)-const.valid_maxY,...      % 07.  right up
-%                                     const.valid_center(1)-const.valid_maxX,    const.valid_center(2)+const.valid_maxY,....     % 08.  left down
-%                                     const.valid_center(1)+const.valid_maxX,    const.valid_center(2)+const.valid_maxY,...      % 09.  right down
-%                                     const.valid_center(1)-const.valid_maxX/2,  const.valid_center(2)-const.valid_maxY/2,....   % 10.  mid left mid up
-%                                     const.valid_center(1)+const.valid_maxX/2,  const.valid_center(2)-const.valid_maxY/2,....   % 11.  mid right mid up
-%                                     const.valid_center(1)-const.valid_maxX/2,  const.valid_center(2)+const.valid_maxY/2,....   % 12.  mid left mid down
-%                                     const.valid_center(1)+const.valid_maxX/2,  const.valid_center(2)+const.valid_maxY/2]);     % 13.  mid right mid down
-% 
+
 end

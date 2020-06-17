@@ -29,12 +29,12 @@ if const.expStart
     end
 end
 
-const.runNum            =   input(sprintf('\n\tRun number (1 to 10): '));
+const.runNum            =   input(sprintf('\n\tRun number (1 to 5): '));
 if isempty(const.runNum)
     error('Incorrect run number');
 end
-if const.runNum > 10
-    error('Only 10 runs');
+if const.runNum > 5
+    error('Only 5 runs');
 end
 
 if const.cond_run_num(const.runNum) > 9
@@ -48,7 +48,7 @@ if const.expStart == 0
 else
     const.cond1         =   const.cond_run_order(const.runNum,1);
 end
-const.cond1_txt          =  'EyeMov';
+const.cond1_txt          =  'pMF';
 
 fprintf(1,'\n\tTask: %s\n',const.cond1_txt);
 
