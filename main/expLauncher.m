@@ -40,15 +40,15 @@ Screen('CloseAll');clear all;clear mex;clear functions;close all;home;AssertOpen
 const.expName           =   'pMFexp';       % experiment name
 const.expStart          =   1;              % Start of a recording exp                          0 = NO  , 1 = YES
 const.checkTrial        =   0;              % Print trial conditions (for debugging)            0 = NO  , 1 = YES
-const.writeLogTxt       =   0;              % write a log file in addition to eyelink file      0 = NO  , 1 = YES
+const.writeLogTxt       =   1;              % write a log file in addition to eyelink file      0 = NO  , 1 = YES
 const.mkVideo           =   0;              % Make a video of a run                             0 = NO  , 1 = YES
 
 % External controls
 % -----------------
 const.tracker           =   1;              % run with eye tracker                              0 = NO  , 1 = YES
-const.scanner           =   0;              % run in MRI scanner                                0 = NO  , 1 = YES
-const.scannerTest       =   1;              % run with T returned at TR time                    0 = NO  , 1 = YES
-const.room              =   2;              % run in MRI or eye-tracking room                   1 = MRI , 2 = eye-tracking
+const.scanner           =   1;              % run in MRI scanner                                0 = NO  , 1 = YES
+const.scannerTest       =   0;              % run with T returned at TR time                    0 = NO  , 1 = YES
+const.room              =   1;              % run in MRI or eye-tracking room                   1 = MRI , 2 = eye-tracking
 
 % Run order and number per condition
 % ----------------------------------

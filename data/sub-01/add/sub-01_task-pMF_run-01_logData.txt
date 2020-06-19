@@ -1,0 +1,3755 @@
+sequence 1 started at 4532.051006
+sequence 1 event mri_trigger val = 0 at 4544.500782
+sequence 1 trial 1 onset at 4544.510881
+sequence 1 event mri_trigger val = 1 at 4544.580735
+sequence 1 event mri_trigger val = 0 at 4544.662971
+sequence 1 event mri_trigger val = 1 at 4544.747106
+sequence 1 event mri_trigger val = 0 at 4544.821422
+sequence 1 event mri_trigger val = 1 at 4544.905771
+sequence 1 event mri_trigger val = 0 at 4544.980048
+sequence 1 event mri_trigger val = 1 at 4545.063384
+sequence 1 event mri_trigger val = 0 at 4545.138646
+sequence 1 event mri_trigger val = 1 at 4545.221531
+sequence 1 event mri_trigger val = 0 at 4545.304730
+sequence 1 event mri_trigger val = 1 at 4545.380371
+sequence 1 event mri_trigger val = 0 at 4545.463153
+sequence 1 event mri_trigger val = 1 at 4545.538868
+sequence 1 event mri_trigger val = 0 at 4545.621775
+sequence 1 trial 1 offset at 4545.702567
+sequence 1 event mri_trigger val = 1 at 4545.705657
+sequence 1 trial 2 onset at 4545.710816
+sequence 1 event mri_trigger val = 0 at 4545.779962
+sequence 1 event mri_trigger val = 1 at 4545.864006
+sequence 1 event mri_trigger val = 0 at 4545.938496
+sequence 1 event mri_trigger val = 1 at 4546.021923
+sequence 1 event mri_trigger val = 0 at 4546.105051
+sequence 1 event mri_trigger val = 1 at 4546.180664
+sequence 1 event mri_trigger val = 0 at 4546.263247
+sequence 1 event mri_trigger val = 1 at 4546.338591
+sequence 1 event mri_trigger val = 0 at 4546.421609
+sequence 1 event mri_trigger val = 1 at 4546.505337
+sequence 1 event mri_trigger val = 0 at 4546.580538
+sequence 1 event mri_trigger val = 1 at 4546.663635
+sequence 1 event mri_trigger val = 0 at 4546.739272
+sequence 1 event mri_trigger val = 1 at 4546.822013
+sequence 1 trial 2 offset at 4546.903031
+sequence 1 event mri_trigger val = 0 at 4546.906667
+sequence 1 trial 3 onset at 4546.911401
+sequence 1 event mri_trigger val = 1 at 4546.980508
+sequence 1 event mri_trigger val = 0 at 4547.064517
+sequence 1 event mri_trigger val = 1 at 4547.139070
+sequence 1 event mri_trigger val = 0 at 4547.222507
+sequence 1 event mri_trigger val = 1 at 4547.305573
+sequence 1 event mri_trigger val = 0 at 4547.380993
+sequence 1 event mri_trigger val = 1 at 4547.464279
+sequence 1 event mri_trigger val = 0 at 4547.538567
+sequence 1 event mri_trigger val = 1 at 4547.622999
+sequence 1 event mri_trigger val = 0 at 4547.706417
+sequence 1 event mri_trigger val = 1 at 4547.781321
+sequence 1 event mri_trigger val = 0 at 4547.864477
+sequence 1 event mri_trigger val = 1 at 4547.938570
+sequence 1 event mri_trigger val = 0 at 4548.022008
+sequence 1 trial 3 offset at 4548.103357
+sequence 1 event mri_trigger val = 1 at 4548.107229
+sequence 1 trial 4 onset at 4548.111717
+sequence 1 event mri_trigger val = 0 at 4548.181047
+sequence 1 event mri_trigger val = 1 at 4548.264558
+sequence 1 event mri_trigger val = 0 at 4548.339629
+sequence 1 event mri_trigger val = 1 at 4548.422454
+sequence 1 event mri_trigger val = 0 at 4548.506289
+sequence 1 event mri_trigger val = 1 at 4548.580502
+sequence 1 event mri_trigger val = 0 at 4548.664378
+sequence 1 event mri_trigger val = 1 at 4548.739360
+sequence 1 event mri_trigger val = 0 at 4548.822242
+sequence 1 event mri_trigger val = 1 at 4548.905883
+sequence 1 event mri_trigger val = 0 at 4548.980688
+sequence 1 event mri_trigger val = 1 at 4549.064066
+sequence 1 event mri_trigger val = 0 at 4549.138768
+sequence 1 event mri_trigger val = 1 at 4549.222323
+sequence 1 trial 4 offset at 4549.303534
+sequence 1 event mri_trigger val = 0 at 4549.306089
+sequence 1 trial 5 onset at 4549.311905
+sequence 1 event mri_trigger val = 1 at 4549.381349
+sequence 1 event mri_trigger val = 0 at 4549.464079
+sequence 1 event mri_trigger val = 1 at 4549.539374
+sequence 1 event mri_trigger val = 0 at 4549.622410
+sequence 1 event mri_trigger val = 1 at 4549.705911
+sequence 1 event mri_trigger val = 0 at 4549.780786
+sequence 1 event mri_trigger val = 1 at 4549.863869
+sequence 1 event mri_trigger val = 0 at 4549.938741
+sequence 1 event mri_trigger val = 1 at 4550.022234
+sequence 1 event mri_trigger val = 0 at 4550.105616
+sequence 1 event mri_trigger val = 1 at 4550.180613
+sequence 1 event mri_trigger val = 0 at 4550.263986
+sequence 1 event mri_trigger val = 1 at 4550.339110
+sequence 1 event mri_trigger val = 0 at 4550.422361
+sequence 1 trial 5 offset at 4550.503908
+sequence 1 event mri_trigger val = 1 at 4550.507364
+sequence 1 trial 6 onset at 4550.512095
+sequence 1 event mri_trigger val = 0 at 4550.580612
+sequence 1 event mri_trigger val = 1 at 4550.664117
+sequence 1 event mri_trigger val = 0 at 4550.739234
+sequence 1 event mri_trigger val = 1 at 4550.822486
+sequence 1 event mri_trigger val = 0 at 4550.905861
+sequence 1 event mri_trigger val = 1 at 4550.980737
+sequence 1 event mri_trigger val = 0 at 4551.064237
+sequence 1 event mri_trigger val = 1 at 4551.139116
+sequence 1 event mri_trigger val = 0 at 4551.222615
+sequence 1 event mri_trigger val = 1 at 4551.305986
+sequence 1 event mri_trigger val = 0 at 4551.380862
+sequence 1 event mri_trigger val = 1 at 4551.464363
+sequence 1 event mri_trigger val = 0 at 4551.539233
+sequence 1 event mri_trigger val = 1 at 4551.622738
+sequence 1 trial 6 offset at 4551.704093
+sequence 1 event mri_trigger val = 0 at 4551.706363
+sequence 1 trial 7 onset at 4551.712436
+sequence 1 event mri_trigger val = 1 at 4551.780987
+sequence 1 event mri_trigger val = 0 at 4551.864487
+sequence 1 event mri_trigger val = 1 at 4551.939361
+sequence 1 event mri_trigger val = 0 at 4552.022871
+sequence 1 event mri_trigger val = 1 at 4552.106278
+sequence 1 event mri_trigger val = 0 at 4552.181116
+sequence 1 event mri_trigger val = 1 at 4552.264616
+sequence 1 event mri_trigger val = 0 at 4552.339493
+sequence 1 event mri_trigger val = 1 at 4552.422863
+sequence 1 event mri_trigger val = 0 at 4552.498112
+sequence 1 event mri_trigger val = 1 at 4552.581235
+sequence 1 event mri_trigger val = 0 at 4552.664740
+sequence 1 event mri_trigger val = 1 at 4552.739616
+sequence 1 event mri_trigger val = 0 at 4552.823005
+sequence 1 event mri_trigger val = 1 at 4552.898290
+sequence 1 trial 7 offset at 4552.904500
+sequence 1 trial 8 onset at 4552.912837
+sequence 1 event mri_trigger val = 0 at 4552.981625
+sequence 1 event mri_trigger val = 1 at 4553.064866
+sequence 1 event mri_trigger val = 0 at 4553.139737
+sequence 1 event mri_trigger val = 1 at 4553.223111
+sequence 1 event mri_trigger val = 0 at 4553.298111
+sequence 1 event mri_trigger val = 1 at 4553.381512
+sequence 1 event mri_trigger val = 0 at 4553.464864
+sequence 1 event mri_trigger val = 1 at 4553.539861
+sequence 1 event mri_trigger val = 0 at 4553.623234
+sequence 1 event mri_trigger val = 1 at 4553.698562
+sequence 1 event mri_trigger val = 0 at 4553.781619
+sequence 1 event mri_trigger val = 1 at 4553.864987
+sequence 1 event mri_trigger val = 0 at 4553.939984
+sequence 1 event mri_trigger val = 1 at 4554.023358
+sequence 1 event mri_trigger val = 0 at 4554.098234
+sequence 1 trial 8 offset at 4554.104727
+sequence 1 trial 9 onset at 4554.113091
+sequence 1 event mri_trigger val = 1 at 4554.181735
+sequence 1 event mri_trigger val = 0 at 4554.265235
+sequence 1 event mri_trigger val = 1 at 4554.340110
+sequence 1 event mri_trigger val = 0 at 4554.423485
+sequence 1 event mri_trigger val = 1 at 4554.498489
+sequence 1 event mri_trigger val = 0 at 4554.581860
+sequence 1 event mri_trigger val = 1 at 4554.665234
+sequence 1 event mri_trigger val = 0 at 4554.740246
+sequence 1 event mri_trigger val = 1 at 4554.823613
+sequence 1 event mri_trigger val = 0 at 4554.898500
+sequence 1 event mri_trigger val = 1 at 4554.981987
+sequence 1 event mri_trigger val = 0 at 4555.065367
+sequence 1 event mri_trigger val = 1 at 4555.140362
+sequence 1 event mri_trigger val = 0 at 4555.223738
+sequence 1 event mri_trigger val = 1 at 4555.298609
+sequence 1 trial 9 offset at 4555.305065
+sequence 1 trial 10 onset at 4555.313385
+sequence 1 event mri_trigger val = 0 at 4555.382141
+sequence 1 event mri_trigger val = 1 at 4555.465531
+sequence 1 event mri_trigger val = 0 at 4555.540543
+sequence 1 event mri_trigger val = 1 at 4555.624490
+sequence 1 event mri_trigger val = 0 at 4555.698811
+sequence 1 event mri_trigger val = 1 at 4555.782321
+sequence 1 event mri_trigger val = 0 at 4555.865687
+sequence 1 event mri_trigger val = 1 at 4555.940577
+sequence 1 event mri_trigger val = 0 at 4556.024015
+sequence 1 event mri_trigger val = 1 at 4556.099022
+sequence 1 event mri_trigger val = 0 at 4556.182409
+sequence 1 event mri_trigger val = 1 at 4556.265804
+sequence 1 event mri_trigger val = 0 at 4556.340678
+sequence 1 event mri_trigger val = 1 at 4556.424174
+sequence 1 event mri_trigger val = 0 at 4556.499068
+sequence 1 trial 10 offset at 4556.505371
+sequence 1 trial 11 onset at 4556.513719
+sequence 1 event mri_trigger val = 1 at 4556.582561
+sequence 1 event mri_trigger val = 0 at 4556.666590
+sequence 1 event mri_trigger val = 1 at 4556.740808
+sequence 1 event mri_trigger val = 0 at 4556.824563
+sequence 1 event mri_trigger val = 1 at 4556.899158
+sequence 1 event mri_trigger val = 0 at 4556.982559
+sequence 1 event mri_trigger val = 1 at 4557.066057
+sequence 1 event mri_trigger val = 0 at 4557.140930
+sequence 1 event mri_trigger val = 1 at 4557.224480
+sequence 1 event mri_trigger val = 0 at 4557.299299
+sequence 1 event mri_trigger val = 1 at 4557.382803
+sequence 1 event mri_trigger val = 0 at 4557.465933
+sequence 1 event mri_trigger val = 1 at 4557.541060
+sequence 1 event mri_trigger val = 0 at 4557.625059
+sequence 1 event mri_trigger val = 1 at 4557.699430
+sequence 1 trial 11 offset at 4557.705707
+sequence 1 trial 12 onset at 4557.714044
+sequence 1 event mri_trigger val = 0 at 4557.782938
+sequence 1 event mri_trigger val = 1 at 4557.866306
+sequence 1 event mri_trigger val = 0 at 4557.941176
+sequence 1 event mri_trigger val = 1 at 4558.024564
+sequence 1 event mri_trigger val = 0 at 4558.099567
+sequence 1 event mri_trigger val = 1 at 4558.182935
+sequence 1 event mri_trigger val = 0 at 4558.266934
+sequence 1 event mri_trigger val = 1 at 4558.341310
+sequence 1 event mri_trigger val = 0 at 4558.424807
+sequence 1 event mri_trigger val = 1 at 4558.499686
+sequence 1 event mri_trigger val = 0 at 4558.583048
+sequence 1 event mri_trigger val = 1 at 4558.658304
+sequence 1 event mri_trigger val = 0 at 4558.741430
+sequence 1 event mri_trigger val = 1 at 4558.824936
+sequence 1 event mri_trigger val = 0 at 4558.900064
+sequence 1 trial 12 offset at 4558.906020
+sequence 1 trial 13 onset at 4558.914354
+sequence 1 event mri_trigger val = 1 at 4558.983684
+sequence 1 event mri_trigger val = 0 at 4559.058056
+sequence 1 event mri_trigger val = 1 at 4559.141551
+sequence 1 event mri_trigger val = 0 at 4559.225588
+sequence 1 event mri_trigger val = 1 at 4559.299932
+sequence 1 event mri_trigger val = 0 at 4559.383937
+sequence 1 event mri_trigger val = 1 at 4559.458181
+sequence 1 event mri_trigger val = 0 at 4559.541666
+sequence 1 event mri_trigger val = 1 at 4559.624804
+sequence 1 event mri_trigger val = 0 at 4559.700059
+sequence 1 event mri_trigger val = 1 at 4559.783600
+sequence 1 event mri_trigger val = 0 at 4559.858425
+sequence 1 event mri_trigger val = 1 at 4559.941766
+sequence 1 event mri_trigger val = 0 at 4560.024931
+sequence 1 event mri_trigger val = 1 at 4560.100050
+sequence 1 trial 13 offset at 4560.106357
+sequence 1 trial 14 onset at 4560.114691
+sequence 1 event mri_trigger val = 0 at 4560.183563
+sequence 1 event mri_trigger val = 1 at 4560.258445
+sequence 1 event mri_trigger val = 0 at 4560.341924
+sequence 1 event mri_trigger val = 1 at 4560.425053
+sequence 1 event mri_trigger val = 0 at 4560.500289
+sequence 1 event mri_trigger val = 1 at 4560.583685
+sequence 1 event mri_trigger val = 0 at 4560.658562
+sequence 1 event mri_trigger val = 1 at 4560.742082
+sequence 1 event mri_trigger val = 0 at 4560.825136
+sequence 1 event mri_trigger val = 1 at 4560.900423
+sequence 1 event mri_trigger val = 0 at 4560.983503
+sequence 1 event mri_trigger val = 1 at 4561.059179
+sequence 1 event mri_trigger val = 0 at 4561.142140
+sequence 1 event mri_trigger val = 1 at 4561.225588
+sequence 1 event mri_trigger val = 0 at 4561.300460
+sequence 1 trial 14 offset at 4561.306666
+sequence 1 trial 15 onset at 4561.314998
+sequence 1 event mri_trigger val = 1 at 4561.383679
+sequence 1 event mri_trigger val = 0 at 4561.458810
+sequence 1 event mri_trigger val = 1 at 4561.542303
+sequence 1 event mri_trigger val = 0 at 4561.625556
+sequence 1 event mri_trigger val = 1 at 4561.700554
+sequence 1 event mri_trigger val = 0 at 4561.783809
+sequence 1 event mri_trigger val = 1 at 4561.858929
+sequence 1 event mri_trigger val = 0 at 4561.942183
+sequence 1 event mri_trigger val = 1 at 4562.025504
+sequence 1 event mri_trigger val = 0 at 4562.100770
+sequence 1 event mri_trigger val = 1 at 4562.183762
+sequence 1 event mri_trigger val = 0 at 4562.259554
+sequence 1 event mri_trigger val = 1 at 4562.342183
+sequence 1 event mri_trigger val = 0 at 4562.426178
+sequence 1 event mri_trigger val = 1 at 4562.500813
+sequence 1 trial 15 offset at 4562.506986
+sequence 1 trial 16 onset at 4562.515334
+sequence 1 event mri_trigger val = 0 at 4562.584057
+sequence 1 event mri_trigger val = 1 at 4562.659172
+sequence 1 event mri_trigger val = 0 at 4562.742306
+sequence 1 event mri_trigger val = 1 at 4562.825805
+sequence 1 event mri_trigger val = 0 at 4562.900930
+sequence 1 event mri_trigger val = 1 at 4562.984182
+sequence 1 event mri_trigger val = 0 at 4563.059301
+sequence 1 event mri_trigger val = 1 at 4563.142486
+sequence 1 event mri_trigger val = 0 at 4563.226022
+sequence 1 event mri_trigger val = 1 at 4563.301146
+sequence 1 event mri_trigger val = 0 at 4563.384265
+sequence 1 event mri_trigger val = 1 at 4563.459437
+sequence 1 event mri_trigger val = 0 at 4563.542553
+sequence 1 event mri_trigger val = 1 at 4563.626058
+sequence 1 event mri_trigger val = 0 at 4563.701425
+sequence 1 trial 16 offset at 4563.707379
+sequence 1 - 2 missed sync on 2304 frames, 0.1% (mean/median delay = 0.3/0.3 ms)
+sequence 1 stopped at 4563.720455
+sequence 2 started at 4563.720634
+sequence 2 trial 1 onset at 4563.732735
+sequence 2 trial 1 pursuit onset at 4563.733100
+sequence 2 event mri_trigger val = 1 at 4563.784487
+sequence 2 event mri_trigger val = 0 at 4563.859418
+sequence 2 event mri_trigger val = 1 at 4563.942802
+sequence 2 event mri_trigger val = 0 at 4564.026264
+sequence 2 event mri_trigger val = 1 at 4564.101188
+sequence 2 event mri_trigger val = 0 at 4564.184481
+sequence 2 event mri_trigger val = 1 at 4564.259566
+sequence 2 event mri_trigger val = 0 at 4564.343376
+sequence 2 event mri_trigger val = 1 at 4564.418054
+sequence 2 event mri_trigger val = 0 at 4564.501428
+sequence 2 event mri_trigger val = 1 at 4564.584768
+sequence 2 event mri_trigger val = 0 at 4564.659556
+sequence 2 event mri_trigger val = 1 at 4564.743049
+sequence 2 trial 1 pursuit offset at 4564.824315
+sequence 2 event mri_trigger val = 0 at 4564.827164
+sequence 2 event mri_trigger val = 1 at 4564.902170
+sequence 2 trial 1 offset at 4564.924308
+sequence 2 trial 2 onset at 4564.932647
+sequence 2 trial 2 saccade onset at 4564.932786
+sequence 2 event mri_trigger val = 0 at 4564.984801
+sequence 2 event mri_trigger val = 1 at 4565.059681
+sequence 2 event mri_trigger val = 0 at 4565.143141
+sequence 2 event mri_trigger val = 1 at 4565.218052
+sequence 2 event mri_trigger val = 0 at 4565.301559
+sequence 2 event mri_trigger val = 1 at 4565.384929
+sequence 2 event mri_trigger val = 0 at 4565.459803
+sequence 2 event mri_trigger val = 1 at 4565.543500
+sequence 2 event mri_trigger val = 0 at 4565.618427
+sequence 2 event mri_trigger val = 1 at 4565.701927
+sequence 2 event mri_trigger val = 0 at 4565.785053
+sequence 2 event mri_trigger val = 1 at 4565.859929
+sequence 2 event mri_trigger val = 0 at 4565.943480
+sequence 2 event mri_trigger val = 1 at 4566.018295
+sequence 2 event mri_trigger val = 0 at 4566.101799
+sequence 2 trial 2 offset at 4566.124642
+sequence 2 trial 3 onset at 4566.133028
+sequence 2 trial 3 pursuit onset at 4566.133198
+sequence 2 event mri_trigger val = 1 at 4566.184891
+sequence 2 event mri_trigger val = 0 at 4566.260055
+sequence 2 event mri_trigger val = 1 at 4566.343550
+sequence 2 event mri_trigger val = 0 at 4566.418418
+sequence 2 event mri_trigger val = 1 at 4566.501811
+sequence 2 event mri_trigger val = 0 at 4566.585576
+sequence 2 event mri_trigger val = 1 at 4566.660151
+sequence 2 event mri_trigger val = 0 at 4566.743679
+sequence 2 event mri_trigger val = 1 at 4566.818554
+sequence 2 event mri_trigger val = 0 at 4566.901924
+sequence 2 event mri_trigger val = 1 at 4566.985121
+sequence 2 event mri_trigger val = 0 at 4567.060304
+sequence 2 event mri_trigger val = 1 at 4567.144300
+sequence 2 event mri_trigger val = 0 at 4567.219183
+sequence 2 trial 3 pursuit offset at 4567.224948
+sequence 2 event mri_trigger val = 1 at 4567.302484
+sequence 2 trial 3 offset at 4567.325041
+sequence 2 trial 4 onset at 4567.333306
+sequence 2 trial 4 saccade onset at 4567.333445
+sequence 2 event mri_trigger val = 0 at 4567.385571
+sequence 2 event mri_trigger val = 1 at 4567.460428
+sequence 2 event mri_trigger val = 0 at 4567.543677
+sequence 2 event mri_trigger val = 1 at 4567.618803
+sequence 2 event mri_trigger val = 0 at 4567.702173
+sequence 2 event mri_trigger val = 1 at 4567.785295
+sequence 2 event mri_trigger val = 0 at 4567.860560
+sequence 2 event mri_trigger val = 1 at 4567.944554
+sequence 2 event mri_trigger val = 0 at 4568.018931
+sequence 2 event mri_trigger val = 1 at 4568.102293
+sequence 2 event mri_trigger val = 0 at 4568.185538
+sequence 2 event mri_trigger val = 1 at 4568.260677
+sequence 2 event mri_trigger val = 0 at 4568.344050
+sequence 2 event mri_trigger val = 1 at 4568.419010
+sequence 2 event mri_trigger val = 0 at 4568.502479
+sequence 2 trial 4 offset at 4568.525266
+sequence 2 trial 5 onset at 4568.533617
+sequence 2 trial 5 pursuit onset at 4568.533772
+sequence 2 event mri_trigger val = 1 at 4568.585678
+sequence 2 event mri_trigger val = 0 at 4568.660808
+sequence 2 event mri_trigger val = 1 at 4568.743926
+sequence 2 event mri_trigger val = 0 at 4568.819045
+sequence 2 event mri_trigger val = 1 at 4568.902552
+sequence 2 event mri_trigger val = 0 at 4568.986557
+sequence 2 event mri_trigger val = 1 at 4569.060926
+sequence 2 event mri_trigger val = 0 at 4569.144926
+sequence 2 event mri_trigger val = 1 at 4569.219295
+sequence 2 event mri_trigger val = 0 at 4569.302684
+sequence 2 event mri_trigger val = 1 at 4569.386181
+sequence 2 event mri_trigger val = 0 at 4569.461055
+sequence 2 event mri_trigger val = 1 at 4569.544411
+sequence 2 event mri_trigger val = 0 at 4569.619422
+sequence 2 trial 5 pursuit offset at 4569.625592
+sequence 2 event mri_trigger val = 1 at 4569.702552
+sequence 2 trial 5 offset at 4569.725603
+sequence 2 trial 6 onset at 4569.733919
+sequence 2 trial 6 saccade onset at 4569.734062
+sequence 2 event mri_trigger val = 0 at 4569.785926
+sequence 2 event mri_trigger val = 1 at 4569.861170
+sequence 2 event mri_trigger val = 0 at 4569.944291
+sequence 2 event mri_trigger val = 1 at 4570.019430
+sequence 2 event mri_trigger val = 0 at 4570.102679
+sequence 2 event mri_trigger val = 1 at 4570.186293
+sequence 2 event mri_trigger val = 0 at 4570.261229
+sequence 2 event mri_trigger val = 1 at 4570.344480
+sequence 2 event mri_trigger val = 0 at 4570.419476
+sequence 2 event mri_trigger val = 1 at 4570.502805
+sequence 2 event mri_trigger val = 0 at 4570.586197
+sequence 2 event mri_trigger val = 1 at 4570.661170
+sequence 2 event mri_trigger val = 0 at 4570.744549
+sequence 2 event mri_trigger val = 1 at 4570.819635
+sequence 2 event mri_trigger val = 0 at 4570.902755
+sequence 2 trial 6 offset at 4570.925979
+sequence 2 trial 7 onset at 4570.934245
+sequence 2 trial 7 pursuit onset at 4570.934399
+sequence 2 event mri_trigger val = 1 at 4570.978052
+sequence 2 event mri_trigger val = 0 at 4571.061174
+sequence 2 event mri_trigger val = 1 at 4571.144932
+sequence 2 event mri_trigger val = 0 at 4571.219798
+sequence 2 event mri_trigger val = 1 at 4571.303059
+sequence 2 event mri_trigger val = 0 at 4571.378179
+sequence 2 event mri_trigger val = 1 at 4571.461676
+sequence 2 event mri_trigger val = 0 at 4571.544801
+sequence 2 event mri_trigger val = 1 at 4571.619928
+sequence 2 event mri_trigger val = 0 at 4571.703170
+sequence 2 event mri_trigger val = 1 at 4571.778295
+sequence 2 event mri_trigger val = 0 at 4571.861431
+sequence 2 event mri_trigger val = 1 at 4571.945941
+sequence 2 event mri_trigger val = 0 at 4572.020051
+sequence 2 trial 7 pursuit offset at 4572.026251
+sequence 2 event mri_trigger val = 1 at 4572.103169
+sequence 2 trial 7 offset at 4572.126233
+sequence 2 trial 8 onset at 4572.134569
+sequence 2 trial 8 saccade onset at 4572.134723
+sequence 2 event mri_trigger val = 0 at 4572.178924
+sequence 2 event mri_trigger val = 1 at 4572.261549
+sequence 2 event mri_trigger val = 0 at 4572.345035
+sequence 2 event mri_trigger val = 1 at 4572.419929
+sequence 2 event mri_trigger val = 0 at 4572.503301
+sequence 2 event mri_trigger val = 1 at 4572.578554
+sequence 2 event mri_trigger val = 0 at 4572.661671
+sequence 2 event mri_trigger val = 1 at 4572.745174
+sequence 2 event mri_trigger val = 0 at 4572.820053
+sequence 2 event mri_trigger val = 1 at 4572.903480
+sequence 2 event mri_trigger val = 0 at 4572.978570
+sequence 2 event mri_trigger val = 1 at 4573.061801
+sequence 2 event mri_trigger val = 0 at 4573.145569
+sequence 2 event mri_trigger val = 1 at 4573.220417
+sequence 2 event mri_trigger val = 0 at 4573.303553
+sequence 2 trial 8 offset at 4573.326569
+sequence 2 trial 9 onset at 4573.334910
+sequence 2 trial 9 pursuit onset at 4573.335181
+sequence 2 event mri_trigger val = 1 at 4573.378731
+sequence 2 event mri_trigger val = 0 at 4573.461929
+sequence 2 event mri_trigger val = 1 at 4573.545415
+sequence 2 event mri_trigger val = 0 at 4573.620291
+sequence 2 event mri_trigger val = 1 at 4573.703674
+sequence 2 event mri_trigger val = 0 at 4573.778678
+sequence 2 event mri_trigger val = 1 at 4573.862004
+sequence 2 event mri_trigger val = 0 at 4573.945558
+sequence 2 event mri_trigger val = 1 at 4574.020430
+sequence 2 event mri_trigger val = 0 at 4574.103804
+sequence 2 event mri_trigger val = 1 at 4574.179520
+sequence 2 event mri_trigger val = 0 at 4574.262131
+sequence 2 event mri_trigger val = 1 at 4574.345554
+sequence 2 event mri_trigger val = 0 at 4574.420552
+sequence 2 trial 9 pursuit offset at 4574.427061
+sequence 2 event mri_trigger val = 1 at 4574.503934
+sequence 2 trial 9 offset at 4574.526881
+sequence 2 trial 10 onset at 4574.535230
+sequence 2 trial 10 saccade onset at 4574.535484
+sequence 2 event mri_trigger val = 0 at 4574.578906
+sequence 2 event mri_trigger val = 1 at 4574.662297
+sequence 2 event mri_trigger val = 0 at 4574.746296
+sequence 2 event mri_trigger val = 1 at 4574.820670
+sequence 2 event mri_trigger val = 0 at 4574.904044
+sequence 2 event mri_trigger val = 1 at 4574.978923
+sequence 2 event mri_trigger val = 0 at 4575.062473
+sequence 2 event mri_trigger val = 1 at 4575.145732
+sequence 2 event mri_trigger val = 0 at 4575.220683
+sequence 2 event mri_trigger val = 1 at 4575.304175
+sequence 2 event mri_trigger val = 0 at 4575.379048
+sequence 2 event mri_trigger val = 1 at 4575.462536
+sequence 2 event mri_trigger val = 0 at 4575.545928
+sequence 2 event mri_trigger val = 1 at 4575.620753
+sequence 2 event mri_trigger val = 0 at 4575.704296
+sequence 2 trial 10 offset at 4575.727203
+sequence 2 trial 11 onset at 4575.735553
+sequence 2 trial 11 pursuit onset at 4575.735693
+sequence 2 event mri_trigger val = 1 at 4575.779166
+sequence 2 event mri_trigger val = 0 at 4575.862676
+sequence 2 event mri_trigger val = 1 at 4575.946044
+sequence 2 event mri_trigger val = 0 at 4576.021288
+sequence 2 event mri_trigger val = 1 at 4576.104462
+sequence 2 event mri_trigger val = 0 at 4576.179297
+sequence 2 event mri_trigger val = 1 at 4576.262803
+sequence 2 event mri_trigger val = 0 at 4576.346170
+sequence 2 event mri_trigger val = 1 at 4576.421049
+sequence 2 event mri_trigger val = 0 at 4576.504528
+sequence 2 event mri_trigger val = 1 at 4576.579564
+sequence 2 event mri_trigger val = 0 at 4576.663033
+sequence 2 event mri_trigger val = 1 at 4576.738049
+sequence 2 event mri_trigger val = 0 at 4576.821171
+sequence 2 trial 11 pursuit offset at 4576.827515
+sequence 2 event mri_trigger val = 1 at 4576.904675
+sequence 2 trial 11 offset at 4576.927526
+sequence 2 trial 12 onset at 4576.935881
+sequence 2 trial 12 saccade onset at 4576.936013
+sequence 2 event mri_trigger val = 0 at 4576.979547
+sequence 2 event mri_trigger val = 1 at 4577.063048
+sequence 2 event mri_trigger val = 0 at 4577.138166
+sequence 2 event mri_trigger val = 1 at 4577.221253
+sequence 2 event mri_trigger val = 0 at 4577.304802
+sequence 2 event mri_trigger val = 1 at 4577.380298
+sequence 2 event mri_trigger val = 0 at 4577.463046
+sequence 2 event mri_trigger val = 1 at 4577.538303
+sequence 2 event mri_trigger val = 0 at 4577.621709
+sequence 2 event mri_trigger val = 1 at 4577.704926
+sequence 2 event mri_trigger val = 0 at 4577.779801
+sequence 2 event mri_trigger val = 1 at 4577.863531
+sequence 2 event mri_trigger val = 0 at 4577.938166
+sequence 2 event mri_trigger val = 1 at 4578.021548
+sequence 2 event mri_trigger val = 0 at 4578.105042
+sequence 2 trial 12 offset at 4578.127836
+sequence 2 trial 13 onset at 4578.136240
+sequence 2 trial 13 pursuit onset at 4578.136363
+sequence 2 event mri_trigger val = 1 at 4578.179920
+sequence 2 event mri_trigger val = 0 at 4578.263247
+sequence 2 event mri_trigger val = 1 at 4578.338270
+sequence 2 event mri_trigger val = 0 at 4578.421674
+sequence 2 event mri_trigger val = 1 at 4578.505059
+sequence 2 event mri_trigger val = 0 at 4578.580077
+sequence 2 event mri_trigger val = 1 at 4578.663476
+sequence 2 event mri_trigger val = 0 at 4578.738294
+sequence 2 event mri_trigger val = 1 at 4578.821796
+sequence 2 event mri_trigger val = 0 at 4578.905554
+sequence 2 event mri_trigger val = 1 at 4578.980165
+sequence 2 event mri_trigger val = 0 at 4579.063547
+sequence 2 event mri_trigger val = 1 at 4579.138547
+sequence 2 event mri_trigger val = 0 at 4579.221921
+sequence 2 trial 13 pursuit offset at 4579.228144
+sequence 2 event mri_trigger val = 1 at 4579.305050
+sequence 2 trial 13 offset at 4579.328169
+sequence 2 trial 14 onset at 4579.336505
+sequence 2 trial 14 saccade onset at 4579.336631
+sequence 2 event mri_trigger val = 0 at 4579.380295
+sequence 2 event mri_trigger val = 1 at 4579.463677
+sequence 2 event mri_trigger val = 0 at 4579.538672
+sequence 2 event mri_trigger val = 1 at 4579.622053
+sequence 2 event mri_trigger val = 0 at 4579.706049
+sequence 2 event mri_trigger val = 1 at 4579.780436
+sequence 2 event mri_trigger val = 0 at 4579.863793
+sequence 2 event mri_trigger val = 1 at 4579.938667
+sequence 2 event mri_trigger val = 0 at 4580.022163
+sequence 2 event mri_trigger val = 1 at 4580.105548
+sequence 2 event mri_trigger val = 0 at 4580.181045
+sequence 2 event mri_trigger val = 1 at 4580.263921
+sequence 2 event mri_trigger val = 0 at 4580.338797
+sequence 2 event mri_trigger val = 1 at 4580.422287
+sequence 2 event mri_trigger val = 0 at 4580.505557
+sequence 2 trial 14 offset at 4580.528494
+sequence 2 trial 15 onset at 4580.536829
+sequence 2 trial 15 pursuit onset at 4580.536953
+sequence 2 event mri_trigger val = 1 at 4580.580675
+sequence 2 event mri_trigger val = 0 at 4580.664490
+sequence 2 event mri_trigger val = 1 at 4580.738925
+sequence 2 event mri_trigger val = 0 at 4580.822467
+sequence 2 event mri_trigger val = 1 at 4580.905545
+sequence 2 event mri_trigger val = 0 at 4580.980638
+sequence 2 event mri_trigger val = 1 at 4581.064186
+sequence 2 event mri_trigger val = 0 at 4581.139051
+sequence 2 event mri_trigger val = 1 at 4581.222562
+sequence 2 event mri_trigger val = 0 at 4581.305674
+sequence 2 event mri_trigger val = 1 at 4581.380794
+sequence 2 event mri_trigger val = 0 at 4581.464050
+sequence 2 event mri_trigger val = 1 at 4581.539172
+sequence 2 event mri_trigger val = 0 at 4581.622635
+sequence 2 trial 15 pursuit offset at 4581.628791
+sequence 2 event mri_trigger val = 1 at 4581.705806
+sequence 2 trial 15 offset at 4581.728816
+sequence 2 trial 16 onset at 4581.737150
+sequence 2 trial 16 saccade onset at 4581.737273
+sequence 2 event mri_trigger val = 0 at 4581.780925
+sequence 2 event mri_trigger val = 1 at 4581.864173
+sequence 2 event mri_trigger val = 0 at 4581.939289
+sequence 2 event mri_trigger val = 1 at 4582.022795
+sequence 2 event mri_trigger val = 0 at 4582.105920
+sequence 2 event mri_trigger val = 1 at 4582.181044
+sequence 2 event mri_trigger val = 0 at 4582.264251
+sequence 2 event mri_trigger val = 1 at 4582.339469
+sequence 2 event mri_trigger val = 0 at 4582.422545
+sequence 2 event mri_trigger val = 1 at 4582.506047
+sequence 2 event mri_trigger val = 0 at 4582.581544
+sequence 2 event mri_trigger val = 1 at 4582.664667
+sequence 2 event mri_trigger val = 0 at 4582.739535
+sequence 2 event mri_trigger val = 1 at 4582.822671
+sequence 2 event mri_trigger val = 0 at 4582.906170
+sequence 2 trial 16 offset at 4582.929140
+sequence 2 trial 17 onset at 4582.937474
+sequence 2 trial 17 pursuit onset at 4582.937597
+sequence 2 event mri_trigger val = 1 at 4582.981308
+sequence 2 event mri_trigger val = 0 at 4583.064460
+sequence 2 event mri_trigger val = 1 at 4583.139671
+sequence 2 event mri_trigger val = 0 at 4583.222803
+sequence 2 event mri_trigger val = 1 at 4583.298042
+sequence 2 event mri_trigger val = 0 at 4583.381462
+sequence 2 event mri_trigger val = 1 at 4583.465416
+sequence 2 event mri_trigger val = 0 at 4583.540287
+sequence 2 event mri_trigger val = 1 at 4583.622923
+sequence 2 event mri_trigger val = 0 at 4583.698170
+sequence 2 event mri_trigger val = 1 at 4583.781531
+sequence 2 event mri_trigger val = 0 at 4583.865291
+sequence 2 event mri_trigger val = 1 at 4583.939923
+sequence 2 event mri_trigger val = 0 at 4584.023043
+sequence 2 trial 17 pursuit offset at 4584.029430
+sequence 2 event mri_trigger val = 1 at 4584.098163
+sequence 2 trial 17 offset at 4584.129465
+sequence 2 trial 18 onset at 4584.137787
+sequence 2 trial 18 saccade onset at 4584.137910
+sequence 2 event mri_trigger val = 0 at 4584.181672
+sequence 2 event mri_trigger val = 1 at 4584.264796
+sequence 2 event mri_trigger val = 0 at 4584.340048
+sequence 2 event mri_trigger val = 1 at 4584.423165
+sequence 2 event mri_trigger val = 0 at 4584.498468
+sequence 2 event mri_trigger val = 1 at 4584.581547
+sequence 2 event mri_trigger val = 0 at 4584.664917
+sequence 2 event mri_trigger val = 1 at 4584.740165
+sequence 2 event mri_trigger val = 0 at 4584.823593
+sequence 2 event mri_trigger val = 1 at 4584.898547
+sequence 2 event mri_trigger val = 0 at 4584.981670
+sequence 2 event mri_trigger val = 1 at 4585.065040
+sequence 2 event mri_trigger val = 0 at 4585.140547
+sequence 2 event mri_trigger val = 1 at 4585.224543
+sequence 2 event mri_trigger val = 0 at 4585.298548
+sequence 2 trial 18 offset at 4585.329775
+sequence 2 trial 19 onset at 4585.338119
+sequence 2 trial 19 pursuit onset at 4585.338246
+sequence 2 event mri_trigger val = 1 at 4585.381749
+sequence 2 event mri_trigger val = 0 at 4585.465165
+sequence 2 event mri_trigger val = 1 at 4585.540048
+sequence 2 event mri_trigger val = 0 at 4585.623544
+sequence 2 event mri_trigger val = 1 at 4585.698664
+sequence 2 event mri_trigger val = 0 at 4585.781920
+sequence 2 event mri_trigger val = 1 at 4585.865298
+sequence 2 event mri_trigger val = 0 at 4585.940627
+sequence 2 event mri_trigger val = 1 at 4586.023618
+sequence 2 event mri_trigger val = 0 at 4586.098796
+sequence 2 event mri_trigger val = 1 at 4586.181924
+sequence 2 event mri_trigger val = 0 at 4586.265614
+sequence 2 event mri_trigger val = 1 at 4586.340544
+sequence 2 event mri_trigger val = 0 at 4586.423795
+sequence 2 trial 19 pursuit offset at 4586.430085
+sequence 2 event mri_trigger val = 1 at 4586.498925
+sequence 2 trial 19 offset at 4586.530110
+sequence 2 trial 20 onset at 4586.538445
+sequence 2 trial 20 saccade onset at 4586.538569
+sequence 2 event mri_trigger val = 0 at 4586.582159
+sequence 2 event mri_trigger val = 1 at 4586.665547
+sequence 2 event mri_trigger val = 0 at 4586.740465
+sequence 2 event mri_trigger val = 1 at 4586.823917
+sequence 2 event mri_trigger val = 0 at 4586.899044
+sequence 2 event mri_trigger val = 1 at 4586.982797
+sequence 2 event mri_trigger val = 0 at 4587.065668
+sequence 2 event mri_trigger val = 1 at 4587.140540
+sequence 2 event mri_trigger val = 0 at 4587.224137
+sequence 2 event mri_trigger val = 1 at 4587.299170
+sequence 2 event mri_trigger val = 0 at 4587.382292
+sequence 2 event mri_trigger val = 1 at 4587.465798
+sequence 2 event mri_trigger val = 0 at 4587.540904
+sequence 2 event mri_trigger val = 1 at 4587.624166
+sequence 2 event mri_trigger val = 0 at 4587.699039
+sequence 2 trial 20 offset at 4587.730761
+sequence 2 trial 21 onset at 4587.738754
+sequence 2 trial 21 pursuit onset at 4587.738938
+sequence 2 event mri_trigger val = 1 at 4587.782465
+sequence 2 event mri_trigger val = 0 at 4587.865888
+sequence 2 event mri_trigger val = 1 at 4587.941665
+sequence 2 event mri_trigger val = 0 at 4588.024546
+sequence 2 event mri_trigger val = 1 at 4588.099473
+sequence 2 event mri_trigger val = 0 at 4588.182542
+sequence 2 event mri_trigger val = 1 at 4588.266048
+sequence 2 event mri_trigger val = 0 at 4588.341167
+sequence 2 event mri_trigger val = 1 at 4588.424288
+sequence 2 event mri_trigger val = 0 at 4588.499553
+sequence 2 event mri_trigger val = 1 at 4588.582790
+sequence 2 event mri_trigger val = 0 at 4588.666163
+sequence 2 event mri_trigger val = 1 at 4588.741042
+sequence 2 event mri_trigger val = 0 at 4588.824546
+sequence 2 trial 21 pursuit offset at 4588.830730
+sequence 2 event mri_trigger val = 1 at 4588.899478
+sequence 2 trial 21 offset at 4588.930771
+sequence 2 trial 22 onset at 4588.939094
+sequence 2 trial 22 saccade onset at 4588.939220
+sequence 2 event mri_trigger val = 0 at 4588.982901
+sequence 2 event mri_trigger val = 1 at 4589.066290
+sequence 2 event mri_trigger val = 0 at 4589.141167
+sequence 2 event mri_trigger val = 1 at 4589.224757
+sequence 2 event mri_trigger val = 0 at 4589.299669
+sequence 2 event mri_trigger val = 1 at 4589.383037
+sequence 2 event mri_trigger val = 0 at 4589.458036
+sequence 2 event mri_trigger val = 1 at 4589.541292
+sequence 2 event mri_trigger val = 0 at 4589.624668
+sequence 2 event mri_trigger val = 1 at 4589.699669
+sequence 2 event mri_trigger val = 0 at 4589.783043
+sequence 2 event mri_trigger val = 1 at 4589.857923
+sequence 2 event mri_trigger val = 0 at 4589.941346
+sequence 2 event mri_trigger val = 1 at 4590.024800
+sequence 2 event mri_trigger val = 0 at 4590.099790
+sequence 2 trial 22 offset at 4590.131095
+sequence 2 trial 23 onset at 4590.139435
+sequence 2 trial 23 pursuit onset at 4590.139559
+sequence 2 event mri_trigger val = 1 at 4590.183793
+sequence 2 event mri_trigger val = 0 at 4590.258575
+sequence 2 event mri_trigger val = 1 at 4590.341792
+sequence 2 event mri_trigger val = 0 at 4590.424916
+sequence 2 event mri_trigger val = 1 at 4590.499793
+sequence 2 event mri_trigger val = 0 at 4590.583423
+sequence 2 event mri_trigger val = 1 at 4590.658161
+sequence 2 event mri_trigger val = 0 at 4590.742261
+sequence 2 event mri_trigger val = 1 at 4590.825038
+sequence 2 event mri_trigger val = 0 at 4590.899913
+sequence 2 event mri_trigger val = 1 at 4590.983922
+sequence 2 event mri_trigger val = 0 at 4591.058329
+sequence 2 event mri_trigger val = 1 at 4591.141790
+sequence 2 event mri_trigger val = 0 at 4591.225159
+sequence 2 trial 23 pursuit offset at 4591.231391
+sequence 2 event mri_trigger val = 1 at 4591.300038
+sequence 2 trial 23 offset at 4591.331419
+sequence 2 trial 24 onset at 4591.339735
+sequence 2 trial 24 saccade onset at 4591.339861
+sequence 2 event mri_trigger val = 0 at 4591.383543
+sequence 2 event mri_trigger val = 1 at 4591.458474
+sequence 2 event mri_trigger val = 0 at 4591.541789
+sequence 2 event mri_trigger val = 1 at 4591.625290
+sequence 2 event mri_trigger val = 0 at 4591.700166
+sequence 2 event mri_trigger val = 1 at 4591.784180
+sequence 2 event mri_trigger val = 0 at 4591.858541
+sequence 2 event mri_trigger val = 1 at 4591.941909
+sequence 2 event mri_trigger val = 0 at 4592.025426
+sequence 2 event mri_trigger val = 1 at 4592.100284
+sequence 2 event mri_trigger val = 0 at 4592.184657
+sequence 2 event mri_trigger val = 1 at 4592.258661
+sequence 2 event mri_trigger val = 0 at 4592.342166
+sequence 2 event mri_trigger val = 1 at 4592.425499
+sequence 2 event mri_trigger val = 0 at 4592.500669
+sequence 2 trial 24 offset at 4592.531725
+sequence 2 trial 25 onset at 4592.540061
+sequence 2 trial 25 pursuit onset at 4592.540184
+sequence 2 event mri_trigger val = 1 at 4592.583919
+sequence 2 event mri_trigger val = 0 at 4592.658750
+sequence 2 event mri_trigger val = 1 at 4592.742169
+sequence 2 event mri_trigger val = 0 at 4592.825669
+sequence 2 event mri_trigger val = 1 at 4592.900538
+sequence 2 event mri_trigger val = 0 at 4592.984544
+sequence 2 event mri_trigger val = 1 at 4593.058845
+sequence 2 event mri_trigger val = 0 at 4593.142421
+sequence 2 event mri_trigger val = 1 at 4593.225792
+sequence 2 event mri_trigger val = 0 at 4593.300668
+sequence 2 event mri_trigger val = 1 at 4593.384159
+sequence 2 event mri_trigger val = 0 at 4593.459038
+sequence 2 event mri_trigger val = 1 at 4593.542433
+sequence 2 event mri_trigger val = 0 at 4593.625666
+sequence 2 trial 25 pursuit offset at 4593.632036
+sequence 2 event mri_trigger val = 1 at 4593.700792
+sequence 2 trial 25 offset at 4593.732260
+sequence 2 trial 26 onset at 4593.740459
+sequence 2 trial 26 saccade onset at 4593.740585
+sequence 2 event mri_trigger val = 0 at 4593.784539
+sequence 2 event mri_trigger val = 1 at 4593.859164
+sequence 2 event mri_trigger val = 0 at 4593.942538
+sequence 2 event mri_trigger val = 1 at 4594.025775
+sequence 2 event mri_trigger val = 0 at 4594.101029
+sequence 2 event mri_trigger val = 1 at 4594.184916
+sequence 2 event mri_trigger val = 0 at 4594.259283
+sequence 2 event mri_trigger val = 1 at 4594.342669
+sequence 2 event mri_trigger val = 0 at 4594.425916
+sequence 2 event mri_trigger val = 1 at 4594.501046
+sequence 2 event mri_trigger val = 0 at 4594.584159
+sequence 2 event mri_trigger val = 1 at 4594.659486
+sequence 2 event mri_trigger val = 0 at 4594.742793
+sequence 2 event mri_trigger val = 1 at 4594.826004
+sequence 2 event mri_trigger val = 0 at 4594.901159
+sequence 2 trial 26 offset at 4594.932388
+sequence 2 trial 27 onset at 4594.940718
+sequence 2 trial 27 pursuit onset at 4594.940841
+sequence 2 event mri_trigger val = 1 at 4594.984541
+sequence 2 event mri_trigger val = 0 at 4595.059501
+sequence 2 event mri_trigger val = 1 at 4595.142924
+sequence 2 event mri_trigger val = 0 at 4595.226012
+sequence 2 event mri_trigger val = 1 at 4595.301282
+sequence 2 event mri_trigger val = 0 at 4595.385288
+sequence 2 event mri_trigger val = 1 at 4595.459699
+sequence 2 event mri_trigger val = 0 at 4595.543166
+sequence 2 event mri_trigger val = 1 at 4595.617913
+sequence 2 event mri_trigger val = 0 at 4595.701388
+sequence 2 event mri_trigger val = 1 at 4595.784789
+sequence 2 event mri_trigger val = 0 at 4595.859787
+sequence 2 event mri_trigger val = 1 at 4595.943163
+sequence 2 event mri_trigger val = 0 at 4596.018034
+sequence 2 trial 27 pursuit offset at 4596.032829
+sequence 2 event mri_trigger val = 1 at 4596.101538
+sequence 2 trial 27 offset at 4596.132777
+sequence 2 trial 28 onset at 4596.141030
+sequence 2 trial 28 saccade onset at 4596.141153
+sequence 2 event mri_trigger val = 0 at 4596.184917
+sequence 2 event mri_trigger val = 1 at 4596.260645
+sequence 2 event mri_trigger val = 0 at 4596.343290
+sequence 2 event mri_trigger val = 1 at 4596.418159
+sequence 2 event mri_trigger val = 0 at 4596.501665
+sequence 2 event mri_trigger val = 1 at 4596.584792
+sequence 2 event mri_trigger val = 0 at 4596.659913
+sequence 2 event mri_trigger val = 1 at 4596.743157
+sequence 2 event mri_trigger val = 0 at 4596.818285
+sequence 2 event mri_trigger val = 1 at 4596.901789
+sequence 2 event mri_trigger val = 0 at 4596.984916
+sequence 2 event mri_trigger val = 1 at 4597.060038
+sequence 2 event mri_trigger val = 0 at 4597.143542
+sequence 2 event mri_trigger val = 1 at 4597.218475
+sequence 2 event mri_trigger val = 0 at 4597.302164
+sequence 2 trial 28 offset at 4597.333034
+sequence 2 trial 29 onset at 4597.341354
+sequence 2 trial 29 pursuit onset at 4597.341478
+sequence 2 event mri_trigger val = 1 at 4597.385537
+sequence 2 event mri_trigger val = 0 at 4597.460168
+sequence 2 event mri_trigger val = 1 at 4597.543373
+sequence 2 event mri_trigger val = 0 at 4597.618533
+sequence 2 event mri_trigger val = 1 at 4597.702033
+sequence 2 event mri_trigger val = 0 at 4597.785165
+sequence 2 event mri_trigger val = 1 at 4597.860283
+sequence 2 event mri_trigger val = 0 at 4597.943911
+sequence 2 event mri_trigger val = 1 at 4598.018915
+sequence 2 event mri_trigger val = 0 at 4598.101995
+sequence 2 event mri_trigger val = 1 at 4598.185535
+sequence 2 event mri_trigger val = 0 at 4598.260489
+sequence 2 event mri_trigger val = 1 at 4598.343542
+sequence 2 event mri_trigger val = 0 at 4598.418787
+sequence 2 trial 29 pursuit offset at 4598.433353
+sequence 2 event mri_trigger val = 1 at 4598.501912
+sequence 2 trial 29 offset at 4598.533361
+sequence 2 trial 30 onset at 4598.541687
+sequence 2 trial 30 saccade onset at 4598.541811
+sequence 2 event mri_trigger val = 0 at 4598.585474
+sequence 2 event mri_trigger val = 1 at 4598.660542
+sequence 2 event mri_trigger val = 0 at 4598.744388
+sequence 2 event mri_trigger val = 1 at 4598.818912
+sequence 2 event mri_trigger val = 0 at 4598.902032
+sequence 2 event mri_trigger val = 1 at 4598.985645
+sequence 2 event mri_trigger val = 0 at 4599.060660
+sequence 2 event mri_trigger val = 1 at 4599.143919
+sequence 2 event mri_trigger val = 0 at 4599.219034
+sequence 2 event mri_trigger val = 1 at 4599.302164
+sequence 2 event mri_trigger val = 0 at 4599.385538
+sequence 2 event mri_trigger val = 1 at 4599.460791
+sequence 2 event mri_trigger val = 0 at 4599.543911
+sequence 2 event mri_trigger val = 1 at 4599.619157
+sequence 2 event mri_trigger val = 0 at 4599.702281
+sequence 2 trial 30 offset at 4599.733676
+sequence 2 trial 31 onset at 4599.742010
+sequence 2 trial 31 pursuit onset at 4599.742133
+sequence 2 event mri_trigger val = 1 at 4599.785790
+sequence 2 event mri_trigger val = 0 at 4599.861000
+sequence 2 event mri_trigger val = 1 at 4599.944038
+sequence 2 event mri_trigger val = 0 at 4600.019254
+sequence 2 event mri_trigger val = 1 at 4600.102432
+sequence 2 event mri_trigger val = 0 at 4600.185914
+sequence 2 event mri_trigger val = 1 at 4600.261261
+sequence 2 event mri_trigger val = 0 at 4600.344160
+sequence 2 event mri_trigger val = 1 at 4600.419286
+sequence 2 event mri_trigger val = 0 at 4600.502798
+sequence 2 event mri_trigger val = 1 at 4600.585915
+sequence 2 event mri_trigger val = 0 at 4600.660913
+sequence 2 event mri_trigger val = 1 at 4600.744407
+sequence 2 event mri_trigger val = 0 at 4600.819504
+sequence 2 trial 31 pursuit offset at 4600.834042
+sequence 2 event mri_trigger val = 1 at 4600.902663
+sequence 2 trial 31 offset at 4600.934000
+sequence 2 trial 32 onset at 4600.942327
+sequence 2 trial 32 saccade onset at 4600.942450
+sequence 2 event mri_trigger val = 0 at 4600.986037
+sequence 2 event mri_trigger val = 1 at 4601.061033
+sequence 2 event mri_trigger val = 0 at 4601.144451
+sequence 2 event mri_trigger val = 1 at 4601.219661
+sequence 2 event mri_trigger val = 0 at 4601.302904
+sequence 2 event mri_trigger val = 1 at 4601.377921
+sequence 2 event mri_trigger val = 0 at 4601.461041
+sequence 2 event mri_trigger val = 1 at 4601.544538
+sequence 2 event mri_trigger val = 0 at 4601.619661
+sequence 2 event mri_trigger val = 1 at 4601.702907
+sequence 2 event mri_trigger val = 0 at 4601.778541
+sequence 2 event mri_trigger val = 1 at 4601.862029
+sequence 2 event mri_trigger val = 0 at 4601.944662
+sequence 2 event mri_trigger val = 1 at 4602.019536
+sequence 2 event mri_trigger val = 0 at 4602.103032
+sequence 2 trial 32 offset at 4602.134311
+sequence 2 - 1 missed sync on 4608 frames, 0.0% (mean/median delay = 7.9/7.9 ms)
+sequence 2 stopped at 4602.139758
+sequence 3 started at 4602.139933
+sequence 3 trial 1 onset at 4602.151014
+sequence 3 event mri_trigger val = 1 at 4602.178155
+sequence 3 event mri_trigger val = 0 at 4602.261274
+sequence 3 event mri_trigger val = 1 at 4602.344661
+sequence 3 event mri_trigger val = 0 at 4602.419916
+sequence 3 event mri_trigger val = 1 at 4602.503038
+sequence 3 event mri_trigger val = 0 at 4602.578158
+sequence 3 event mri_trigger val = 1 at 4602.661663
+sequence 3 event mri_trigger val = 0 at 4602.744783
+sequence 3 event mri_trigger val = 1 at 4602.819989
+sequence 3 event mri_trigger val = 0 at 4602.903159
+sequence 3 event mri_trigger val = 1 at 4602.978259
+sequence 3 event mri_trigger val = 0 at 4603.061536
+sequence 3 event mri_trigger val = 1 at 4603.144912
+sequence 3 event mri_trigger val = 0 at 4603.220155
+sequence 3 event mri_trigger val = 1 at 4603.303286
+sequence 3 trial 1 offset at 4603.342972
+sequence 3 trial 2 onset at 4603.351365
+sequence 3 event mri_trigger val = 0 at 4603.378451
+sequence 3 event mri_trigger val = 1 at 4603.461669
+sequence 3 event mri_trigger val = 0 at 4603.545032
+sequence 3 event mri_trigger val = 1 at 4603.620155
+sequence 3 event mri_trigger val = 0 at 4603.703434
+sequence 3 event mri_trigger val = 1 at 4603.778538
+sequence 3 event mri_trigger val = 0 at 4603.861659
+sequence 3 event mri_trigger val = 1 at 4603.945161
+sequence 3 event mri_trigger val = 0 at 4604.020280
+sequence 3 event mri_trigger val = 1 at 4604.103555
+sequence 3 event mri_trigger val = 0 at 4604.178664
+sequence 3 event mri_trigger val = 1 at 4604.261906
+sequence 3 event mri_trigger val = 0 at 4604.345285
+sequence 3 event mri_trigger val = 1 at 4604.420471
+sequence 3 event mri_trigger val = 0 at 4604.503667
+sequence 3 trial 2 offset at 4604.543969
+sequence 3 trial 3 onset at 4604.551615
+sequence 3 event mri_trigger val = 1 at 4604.578788
+sequence 3 event mri_trigger val = 0 at 4604.661912
+sequence 3 event mri_trigger val = 1 at 4604.745456
+sequence 3 event mri_trigger val = 0 at 4604.820279
+sequence 3 event mri_trigger val = 1 at 4604.903782
+sequence 3 event mri_trigger val = 0 at 4604.978911
+sequence 3 event mri_trigger val = 1 at 4605.062030
+sequence 3 event mri_trigger val = 0 at 4605.145534
+sequence 3 event mri_trigger val = 1 at 4605.220462
+sequence 3 event mri_trigger val = 0 at 4605.303912
+sequence 3 event mri_trigger val = 1 at 4605.379037
+sequence 3 event mri_trigger val = 0 at 4605.462541
+sequence 3 event mri_trigger val = 1 at 4605.545911
+sequence 3 event mri_trigger val = 0 at 4605.620534
+sequence 3 event mri_trigger val = 1 at 4605.704165
+sequence 3 trial 3 offset at 4605.743612
+sequence 3 trial 4 onset at 4605.751939
+sequence 3 event mri_trigger val = 0 at 4605.779157
+sequence 3 event mri_trigger val = 1 at 4605.862540
+sequence 3 event mri_trigger val = 0 at 4605.945787
+sequence 3 event mri_trigger val = 1 at 4606.020911
+sequence 3 event mri_trigger val = 0 at 4606.104036
+sequence 3 event mri_trigger val = 1 at 4606.178993
+sequence 3 event mri_trigger val = 0 at 4606.262420
+sequence 3 event mri_trigger val = 1 at 4606.345911
+sequence 3 event mri_trigger val = 0 at 4606.421031
+sequence 3 event mri_trigger val = 1 at 4606.504215
+sequence 3 event mri_trigger val = 0 at 4606.579274
+sequence 3 event mri_trigger val = 1 at 4606.662783
+sequence 3 event mri_trigger val = 0 at 4606.746033
+sequence 3 event mri_trigger val = 1 at 4606.820910
+sequence 3 event mri_trigger val = 0 at 4606.904285
+sequence 3 trial 4 offset at 4606.943928
+sequence 3 trial 5 onset at 4606.952260
+sequence 3 event mri_trigger val = 1 at 4606.979536
+sequence 3 event mri_trigger val = 0 at 4607.062665
+sequence 3 event mri_trigger val = 1 at 4607.137783
+sequence 3 event mri_trigger val = 0 at 4607.220964
+sequence 3 event mri_trigger val = 1 at 4607.304420
+sequence 3 event mri_trigger val = 0 at 4607.379462
+sequence 3 event mri_trigger val = 1 at 4607.462909
+sequence 3 event mri_trigger val = 0 at 4607.538036
+sequence 3 event mri_trigger val = 1 at 4607.621152
+sequence 3 event mri_trigger val = 0 at 4607.704533
+sequence 3 event mri_trigger val = 1 at 4607.779535
+sequence 3 event mri_trigger val = 0 at 4607.862909
+sequence 3 event mri_trigger val = 1 at 4607.938033
+sequence 3 event mri_trigger val = 0 at 4608.021536
+sequence 3 event mri_trigger val = 1 at 4608.104663
+sequence 3 trial 5 offset at 4608.144252
+sequence 3 trial 6 onset at 4608.152586
+sequence 3 event mri_trigger val = 0 at 4608.179475
+sequence 3 event mri_trigger val = 1 at 4608.263024
+sequence 3 event mri_trigger val = 0 at 4608.337907
+sequence 3 event mri_trigger val = 1 at 4608.421443
+sequence 3 event mri_trigger val = 0 at 4608.504789
+sequence 3 event mri_trigger val = 1 at 4608.579667
+sequence 3 event mri_trigger val = 0 at 4608.663665
+sequence 3 event mri_trigger val = 1 at 4608.738281
+sequence 3 event mri_trigger val = 0 at 4608.821533
+sequence 3 event mri_trigger val = 1 at 4608.904999
+sequence 3 event mri_trigger val = 0 at 4608.979786
+sequence 3 event mri_trigger val = 1 at 4609.063278
+sequence 3 event mri_trigger val = 0 at 4609.138464
+sequence 3 event mri_trigger val = 1 at 4609.221532
+sequence 3 event mri_trigger val = 0 at 4609.305017
+sequence 3 trial 6 offset at 4609.344575
+sequence 3 trial 7 onset at 4609.352909
+sequence 3 event mri_trigger val = 1 at 4609.379887
+sequence 3 event mri_trigger val = 0 at 4609.463429
+sequence 3 event mri_trigger val = 1 at 4609.538276
+sequence 3 event mri_trigger val = 0 at 4609.621821
+sequence 3 event mri_trigger val = 1 at 4609.705660
+sequence 3 event mri_trigger val = 0 at 4609.779963
+sequence 3 event mri_trigger val = 1 at 4609.863540
+sequence 3 event mri_trigger val = 0 at 4609.938455
+sequence 3 event mri_trigger val = 1 at 4610.021915
+sequence 3 event mri_trigger val = 0 at 4610.105277
+sequence 3 event mri_trigger val = 1 at 4610.180257
+sequence 3 event mri_trigger val = 0 at 4610.263664
+sequence 3 event mri_trigger val = 1 at 4610.338533
+sequence 3 event mri_trigger val = 0 at 4610.421911
+sequence 3 event mri_trigger val = 1 at 4610.505456
+sequence 3 trial 7 offset at 4610.544911
+sequence 3 trial 8 onset at 4610.553247
+sequence 3 event mri_trigger val = 0 at 4610.580275
+sequence 3 event mri_trigger val = 1 at 4610.663787
+sequence 3 event mri_trigger val = 0 at 4610.738659
+sequence 3 event mri_trigger val = 1 at 4610.822028
+sequence 3 event mri_trigger val = 0 at 4610.905537
+sequence 3 event mri_trigger val = 1 at 4610.980458
+sequence 3 event mri_trigger val = 0 at 4611.064377
+sequence 3 event mri_trigger val = 1 at 4611.138670
+sequence 3 event mri_trigger val = 0 at 4611.222158
+sequence 3 event mri_trigger val = 1 at 4611.305780
+sequence 3 event mri_trigger val = 0 at 4611.380537
+sequence 3 event mri_trigger val = 1 at 4611.463910
+sequence 3 event mri_trigger val = 0 at 4611.538909
+sequence 3 event mri_trigger val = 1 at 4611.622392
+sequence 3 event mri_trigger val = 0 at 4611.705786
+sequence 3 trial 8 offset at 4611.745225
+sequence 3 trial 9 onset at 4611.753574
+sequence 3 event mri_trigger val = 1 at 4611.780659
+sequence 3 event mri_trigger val = 0 at 4611.864026
+sequence 3 event mri_trigger val = 1 at 4611.939026
+sequence 3 event mri_trigger val = 0 at 4612.022417
+sequence 3 event mri_trigger val = 1 at 4612.105657
+sequence 3 event mri_trigger val = 0 at 4612.180779
+sequence 3 event mri_trigger val = 1 at 4612.264149
+sequence 3 event mri_trigger val = 0 at 4612.339025
+sequence 3 event mri_trigger val = 1 at 4612.422531
+sequence 3 event mri_trigger val = 0 at 4612.506017
+sequence 3 event mri_trigger val = 1 at 4612.580907
+sequence 3 event mri_trigger val = 0 at 4612.664424
+sequence 3 event mri_trigger val = 1 at 4612.739281
+sequence 3 event mri_trigger val = 0 at 4612.822658
+sequence 3 event mri_trigger val = 1 at 4612.905780
+sequence 3 trial 9 offset at 4612.945651
+sequence 3 trial 10 onset at 4612.953898
+sequence 3 event mri_trigger val = 0 at 4612.981026
+sequence 3 event mri_trigger val = 1 at 4613.064405
+sequence 3 event mri_trigger val = 0 at 4613.139453
+sequence 3 event mri_trigger val = 1 at 4613.222783
+sequence 3 event mri_trigger val = 0 at 4613.305903
+sequence 3 event mri_trigger val = 1 at 4613.381157
+sequence 3 event mri_trigger val = 0 at 4613.464506
+sequence 3 event mri_trigger val = 1 at 4613.539415
+sequence 3 event mri_trigger val = 0 at 4613.622905
+sequence 3 event mri_trigger val = 1 at 4613.706030
+sequence 3 event mri_trigger val = 0 at 4613.781281
+sequence 3 event mri_trigger val = 1 at 4613.864417
+sequence 3 event mri_trigger val = 0 at 4613.939533
+sequence 3 event mri_trigger val = 1 at 4614.023021
+sequence 3 event mri_trigger val = 0 at 4614.097905
+sequence 3 trial 10 offset at 4614.145870
+sequence 3 trial 11 onset at 4614.154220
+sequence 3 event mri_trigger val = 1 at 4614.181446
+sequence 3 event mri_trigger val = 0 at 4614.264486
+sequence 3 event mri_trigger val = 1 at 4614.339665
+sequence 3 event mri_trigger val = 0 at 4614.423129
+sequence 3 event mri_trigger val = 1 at 4614.498121
+sequence 3 event mri_trigger val = 0 at 4614.581438
+sequence 3 event mri_trigger val = 1 at 4614.664611
+sequence 3 event mri_trigger val = 0 at 4614.739778
+sequence 3 event mri_trigger val = 1 at 4614.823539
+sequence 3 event mri_trigger val = 0 at 4614.898154
+sequence 3 event mri_trigger val = 1 at 4614.981529
+sequence 3 event mri_trigger val = 0 at 4615.064812
+sequence 3 event mri_trigger val = 1 at 4615.139912
+sequence 3 event mri_trigger val = 0 at 4615.223154
+sequence 3 event mri_trigger val = 1 at 4615.298295
+sequence 3 trial 11 offset at 4615.346207
+sequence 3 trial 12 onset at 4615.354527
+sequence 3 event mri_trigger val = 0 at 4615.381777
+sequence 3 event mri_trigger val = 1 at 4615.464913
+sequence 3 event mri_trigger val = 0 at 4615.540026
+sequence 3 event mri_trigger val = 1 at 4615.623151
+sequence 3 event mri_trigger val = 0 at 4615.698447
+sequence 3 event mri_trigger val = 1 at 4615.781783
+sequence 3 event mri_trigger val = 0 at 4615.865282
+sequence 3 event mri_trigger val = 1 at 4615.940110
+sequence 3 event mri_trigger val = 0 at 4616.023244
+sequence 3 event mri_trigger val = 1 at 4616.098533
+sequence 3 event mri_trigger val = 0 at 4616.181902
+sequence 3 event mri_trigger val = 1 at 4616.265162
+sequence 3 event mri_trigger val = 0 at 4616.340281
+sequence 3 event mri_trigger val = 1 at 4616.423422
+sequence 3 event mri_trigger val = 0 at 4616.498662
+sequence 3 trial 12 offset at 4616.546533
+sequence 3 trial 13 onset at 4616.554868
+sequence 3 event mri_trigger val = 1 at 4616.583003
+sequence 3 event mri_trigger val = 0 at 4616.665154
+sequence 3 event mri_trigger val = 1 at 4616.740455
+sequence 3 event mri_trigger val = 0 at 4616.823781
+sequence 3 event mri_trigger val = 1 at 4616.898786
+sequence 3 event mri_trigger val = 0 at 4616.982147
+sequence 3 event mri_trigger val = 1 at 4617.065442
+sequence 3 event mri_trigger val = 0 at 4617.140528
+sequence 3 event mri_trigger val = 1 at 4617.223658
+sequence 3 event mri_trigger val = 0 at 4617.298908
+sequence 3 event mri_trigger val = 1 at 4617.382025
+sequence 3 event mri_trigger val = 0 at 4617.465528
+sequence 3 event mri_trigger val = 1 at 4617.540444
+sequence 3 event mri_trigger val = 0 at 4617.623739
+sequence 3 event mri_trigger val = 1 at 4617.698906
+sequence 3 trial 13 offset at 4617.746856
+sequence 3 trial 14 onset at 4617.755244
+sequence 3 event mri_trigger val = 0 at 4617.782149
+sequence 3 event mri_trigger val = 1 at 4617.865529
+sequence 3 event mri_trigger val = 0 at 4617.940784
+sequence 3 event mri_trigger val = 1 at 4618.024152
+sequence 3 event mri_trigger val = 0 at 4618.099149
+sequence 3 event mri_trigger val = 1 at 4618.182273
+sequence 3 event mri_trigger val = 0 at 4618.265654
+sequence 3 event mri_trigger val = 1 at 4618.341396
+sequence 3 event mri_trigger val = 0 at 4618.424031
+sequence 3 event mri_trigger val = 1 at 4618.499532
+sequence 3 event mri_trigger val = 0 at 4618.582408
+sequence 3 event mri_trigger val = 1 at 4618.657910
+sequence 3 event mri_trigger val = 0 at 4618.740781
+sequence 3 event mri_trigger val = 1 at 4618.824657
+sequence 3 event mri_trigger val = 0 at 4618.899422
+sequence 3 trial 14 offset at 4618.947181
+sequence 3 trial 15 onset at 4618.955500
+sequence 3 event mri_trigger val = 1 at 4618.982528
+sequence 3 event mri_trigger val = 0 at 4619.065907
+sequence 3 event mri_trigger val = 1 at 4619.141404
+sequence 3 event mri_trigger val = 0 at 4619.224359
+sequence 3 event mri_trigger val = 1 at 4619.299438
+sequence 3 event mri_trigger val = 0 at 4619.382764
+sequence 3 event mri_trigger val = 1 at 4619.457783
+sequence 3 event mri_trigger val = 0 at 4619.540902
+sequence 3 event mri_trigger val = 1 at 4619.624405
+sequence 3 event mri_trigger val = 0 at 4619.699287
+sequence 3 event mri_trigger val = 1 at 4619.782734
+sequence 3 event mri_trigger val = 0 at 4619.858011
+sequence 3 event mri_trigger val = 1 at 4619.941275
+sequence 3 event mri_trigger val = 0 at 4620.025278
+sequence 3 event mri_trigger val = 1 at 4620.099656
+sequence 3 trial 15 offset at 4620.147489
+sequence 3 trial 16 onset at 4620.155835
+sequence 3 event mri_trigger val = 0 at 4620.182904
+sequence 3 event mri_trigger val = 1 at 4620.258020
+sequence 3 event mri_trigger val = 0 at 4620.341260
+sequence 3 event mri_trigger val = 1 at 4620.424656
+sequence 3 event mri_trigger val = 0 at 4620.500446
+sequence 3 event mri_trigger val = 1 at 4620.583025
+sequence 3 event mri_trigger val = 0 at 4620.657906
+sequence 3 event mri_trigger val = 1 at 4620.741645
+sequence 3 event mri_trigger val = 0 at 4620.824778
+sequence 3 event mri_trigger val = 1 at 4620.899654
+sequence 3 event mri_trigger val = 0 at 4620.983040
+sequence 3 event mri_trigger val = 1 at 4621.058302
+sequence 3 event mri_trigger val = 0 at 4621.141400
+sequence 3 event mri_trigger val = 1 at 4621.225147
+sequence 3 event mri_trigger val = 0 at 4621.299780
+sequence 3 trial 16 offset at 4621.348054
+sequence 3 - 7 missed sync on 2304 frames, 0.3% (mean/median delay = 1.5/0.4 ms)
+sequence 3 stopped at 4621.352019
+sequence 4 started at 4621.352198
+sequence 4 trial 1 onset at 4621.356426
+sequence 4 trial 1 pursuit onset at 4621.356571
+sequence 4 event mri_trigger val = 1 at 4621.383564
+sequence 4 event mri_trigger val = 0 at 4621.458146
+sequence 4 event mri_trigger val = 1 at 4621.541522
+sequence 4 event mri_trigger val = 0 at 4621.625151
+sequence 4 event mri_trigger val = 1 at 4621.699905
+sequence 4 event mri_trigger val = 0 at 4621.783256
+sequence 4 event mri_trigger val = 1 at 4621.858294
+sequence 4 event mri_trigger val = 0 at 4621.941648
+sequence 4 event mri_trigger val = 1 at 4622.025291
+sequence 4 event mri_trigger val = 0 at 4622.100783
+sequence 4 event mri_trigger val = 1 at 4622.183405
+sequence 4 event mri_trigger val = 0 at 4622.258293
+sequence 4 event mri_trigger val = 1 at 4622.341775
+sequence 4 event mri_trigger val = 0 at 4622.425152
+sequence 4 trial 1 pursuit offset at 4622.448117
+sequence 4 event mri_trigger val = 1 at 4622.500152
+sequence 4 trial 1 offset at 4622.548138
+sequence 4 trial 2 onset at 4622.556475
+sequence 4 trial 2 saccade onset at 4622.556600
+sequence 4 event mri_trigger val = 0 at 4622.583529
+sequence 4 event mri_trigger val = 1 at 4622.658528
+sequence 4 event mri_trigger val = 0 at 4622.741912
+sequence 4 event mri_trigger val = 1 at 4622.825456
+sequence 4 event mri_trigger val = 0 at 4622.900294
+sequence 4 event mri_trigger val = 1 at 4622.983656
+sequence 4 event mri_trigger val = 0 at 4623.058652
+sequence 4 event mri_trigger val = 1 at 4623.142033
+sequence 4 event mri_trigger val = 0 at 4623.226022
+sequence 4 event mri_trigger val = 1 at 4623.300438
+sequence 4 event mri_trigger val = 0 at 4623.383776
+sequence 4 event mri_trigger val = 1 at 4623.458654
+sequence 4 event mri_trigger val = 0 at 4623.542150
+sequence 4 event mri_trigger val = 1 at 4623.625905
+sequence 4 event mri_trigger val = 0 at 4623.701027
+sequence 4 trial 2 offset at 4623.748463
+sequence 4 trial 3 onset at 4623.756798
+sequence 4 trial 3 pursuit onset at 4623.756922
+sequence 4 event mri_trigger val = 1 at 4623.783904
+sequence 4 event mri_trigger val = 0 at 4623.859155
+sequence 4 event mri_trigger val = 1 at 4623.942276
+sequence 4 event mri_trigger val = 0 at 4624.025649
+sequence 4 event mri_trigger val = 1 at 4624.100598
+sequence 4 event mri_trigger val = 0 at 4624.184030
+sequence 4 event mri_trigger val = 1 at 4624.258904
+sequence 4 event mri_trigger val = 0 at 4624.342488
+sequence 4 event mri_trigger val = 1 at 4624.425883
+sequence 4 event mri_trigger val = 0 at 4624.500658
+sequence 4 event mri_trigger val = 1 at 4624.584153
+sequence 4 event mri_trigger val = 0 at 4624.659020
+sequence 4 event mri_trigger val = 1 at 4624.743027
+sequence 4 event mri_trigger val = 0 at 4624.825945
+sequence 4 trial 3 pursuit offset at 4624.848889
+sequence 4 event mri_trigger val = 1 at 4624.900949
+sequence 4 trial 3 offset at 4624.948770
+sequence 4 trial 4 onset at 4624.957121
+sequence 4 trial 4 saccade onset at 4624.957246
+sequence 4 event mri_trigger val = 0 at 4624.984276
+sequence 4 event mri_trigger val = 1 at 4625.059149
+sequence 4 event mri_trigger val = 0 at 4625.142657
+sequence 4 event mri_trigger val = 1 at 4625.226035
+sequence 4 event mri_trigger val = 0 at 4625.300904
+sequence 4 event mri_trigger val = 1 at 4625.384406
+sequence 4 event mri_trigger val = 0 at 4625.459273
+sequence 4 event mri_trigger val = 1 at 4625.543027
+sequence 4 event mri_trigger val = 0 at 4625.625915
+sequence 4 event mri_trigger val = 1 at 4625.701023
+sequence 4 event mri_trigger val = 0 at 4625.784527
+sequence 4 event mri_trigger val = 1 at 4625.859434
+sequence 4 event mri_trigger val = 0 at 4625.942902
+sequence 4 event mri_trigger val = 1 at 4626.017774
+sequence 4 event mri_trigger val = 0 at 4626.101150
+sequence 4 trial 4 offset at 4626.149095
+sequence 4 trial 5 onset at 4626.157438
+sequence 4 trial 5 pursuit onset at 4626.157573
+sequence 4 event mri_trigger val = 1 at 4626.184586
+sequence 4 event mri_trigger val = 0 at 4626.259522
+sequence 4 event mri_trigger val = 1 at 4626.343026
+sequence 4 event mri_trigger val = 0 at 4626.417903
+sequence 4 event mri_trigger val = 1 at 4626.501297
+sequence 4 event mri_trigger val = 0 at 4626.584773
+sequence 4 event mri_trigger val = 1 at 4626.659653
+sequence 4 event mri_trigger val = 0 at 4626.743027
+sequence 4 event mri_trigger val = 1 at 4626.818018
+sequence 4 event mri_trigger val = 0 at 4626.901423
+sequence 4 event mri_trigger val = 1 at 4626.984897
+sequence 4 event mri_trigger val = 0 at 4627.059779
+sequence 4 event mri_trigger val = 1 at 4627.143231
+sequence 4 event mri_trigger val = 0 at 4627.218191
+sequence 4 trial 5 pursuit offset at 4627.249394
+sequence 4 event mri_trigger val = 1 at 4627.301528
+sequence 4 trial 5 offset at 4627.349413
+sequence 4 trial 6 onset at 4627.357750
+sequence 4 trial 6 saccade onset at 4627.357874
+sequence 4 event mri_trigger val = 0 at 4627.385023
+sequence 4 event mri_trigger val = 1 at 4627.459901
+sequence 4 event mri_trigger val = 0 at 4627.543260
+sequence 4 event mri_trigger val = 1 at 4627.618107
+sequence 4 event mri_trigger val = 0 at 4627.701649
+sequence 4 event mri_trigger val = 1 at 4627.784776
+sequence 4 event mri_trigger val = 0 at 4627.860021
+sequence 4 event mri_trigger val = 1 at 4627.943327
+sequence 4 event mri_trigger val = 0 at 4628.018428
+sequence 4 event mri_trigger val = 1 at 4628.102385
+sequence 4 event mri_trigger val = 0 at 4628.184899
+sequence 4 event mri_trigger val = 1 at 4628.260147
+sequence 4 event mri_trigger val = 0 at 4628.343284
+sequence 4 event mri_trigger val = 1 at 4628.418522
+sequence 4 event mri_trigger val = 0 at 4628.501902
+sequence 4 trial 6 offset at 4628.549727
+sequence 4 trial 7 onset at 4628.558074
+sequence 4 trial 7 pursuit onset at 4628.558198
+sequence 4 event mri_trigger val = 1 at 4628.585907
+sequence 4 event mri_trigger val = 0 at 4628.660397
+sequence 4 event mri_trigger val = 1 at 4628.743657
+sequence 4 event mri_trigger val = 0 at 4628.818527
+sequence 4 event mri_trigger val = 1 at 4628.902018
+sequence 4 event mri_trigger val = 0 at 4628.985144
+sequence 4 event mri_trigger val = 1 at 4629.060429
+sequence 4 event mri_trigger val = 0 at 4629.143522
+sequence 4 event mri_trigger val = 1 at 4629.218648
+sequence 4 event mri_trigger val = 0 at 4629.302144
+sequence 4 event mri_trigger val = 1 at 4629.385876
+sequence 4 event mri_trigger val = 0 at 4629.460631
+sequence 4 event mri_trigger val = 1 at 4629.543653
+sequence 4 event mri_trigger val = 0 at 4629.618775
+sequence 4 trial 7 pursuit offset at 4629.650091
+sequence 4 event mri_trigger val = 1 at 4629.702273
+sequence 4 trial 7 offset at 4629.750050
+sequence 4 trial 8 onset at 4629.758386
+sequence 4 trial 8 saccade onset at 4629.758509
+sequence 4 event mri_trigger val = 0 at 4629.785446
+sequence 4 event mri_trigger val = 1 at 4629.860526
+sequence 4 event mri_trigger val = 0 at 4629.943776
+sequence 4 event mri_trigger val = 1 at 4630.018897
+sequence 4 event mri_trigger val = 0 at 4630.102140
+sequence 4 event mri_trigger val = 1 at 4630.185521
+sequence 4 event mri_trigger val = 0 at 4630.260605
+sequence 4 event mri_trigger val = 1 at 4630.343859
+sequence 4 event mri_trigger val = 0 at 4630.419022
+sequence 4 event mri_trigger val = 1 at 4630.502401
+sequence 4 event mri_trigger val = 0 at 4630.585644
+sequence 4 event mri_trigger val = 1 at 4630.660843
+sequence 4 event mri_trigger val = 0 at 4630.744029
+sequence 4 event mri_trigger val = 1 at 4630.819152
+sequence 4 event mri_trigger val = 0 at 4630.902750
+sequence 4 trial 8 offset at 4630.950386
+sequence 4 trial 9 onset at 4630.958907
+sequence 4 trial 9 pursuit onset at 4630.959294
+sequence 4 event mri_trigger val = 1 at 4630.977778
+sequence 4 event mri_trigger val = 0 at 4631.060897
+sequence 4 event mri_trigger val = 1 at 4631.144152
+sequence 4 event mri_trigger val = 0 at 4631.219267
+sequence 4 event mri_trigger val = 1 at 4631.302426
+sequence 4 event mri_trigger val = 0 at 4631.386656
+sequence 4 event mri_trigger val = 1 at 4631.460778
+sequence 4 event mri_trigger val = 0 at 4631.544276
+sequence 4 event mri_trigger val = 1 at 4631.619421
+sequence 4 event mri_trigger val = 0 at 4631.703145
+sequence 4 event mri_trigger val = 1 at 4631.777776
+sequence 4 event mri_trigger val = 0 at 4631.861142
+sequence 4 event mri_trigger val = 1 at 4631.944272
+sequence 4 event mri_trigger val = 0 at 4632.019523
+sequence 4 trial 9 pursuit offset at 4632.050712
+sequence 4 event mri_trigger val = 1 at 4632.102650
+sequence 4 trial 9 offset at 4632.150741
+sequence 4 trial 10 onset at 4632.159073
+sequence 4 trial 10 saccade onset at 4632.159266
+sequence 4 event mri_trigger val = 0 at 4632.177893
+sequence 4 event mri_trigger val = 1 at 4632.261012
+sequence 4 event mri_trigger val = 0 at 4632.344521
+sequence 4 event mri_trigger val = 1 at 4632.419652
+sequence 4 event mri_trigger val = 0 at 4632.502776
+sequence 4 event mri_trigger val = 1 at 4632.578016
+sequence 4 event mri_trigger val = 0 at 4632.661401
+sequence 4 event mri_trigger val = 1 at 4632.745148
+sequence 4 event mri_trigger val = 0 at 4632.819480
+sequence 4 event mri_trigger val = 1 at 4632.902896
+sequence 4 event mri_trigger val = 0 at 4632.978015
+sequence 4 event mri_trigger val = 1 at 4633.061383
+sequence 4 event mri_trigger val = 0 at 4633.144647
+sequence 4 event mri_trigger val = 1 at 4633.219528
+sequence 4 event mri_trigger val = 0 at 4633.303014
+sequence 4 trial 10 offset at 4633.351030
+sequence 4 trial 11 onset at 4633.359368
+sequence 4 trial 11 pursuit onset at 4633.359491
+sequence 4 event mri_trigger val = 1 at 4633.378264
+sequence 4 event mri_trigger val = 0 at 4633.461606
+sequence 4 event mri_trigger val = 1 at 4633.544867
+sequence 4 event mri_trigger val = 0 at 4633.619776
+sequence 4 event mri_trigger val = 1 at 4633.703138
+sequence 4 event mri_trigger val = 0 at 4633.778435
+sequence 4 event mri_trigger val = 1 at 4633.862020
+sequence 4 event mri_trigger val = 0 at 4633.944941
+sequence 4 event mri_trigger val = 1 at 4634.019774
+sequence 4 event mri_trigger val = 0 at 4634.103325
+sequence 4 event mri_trigger val = 1 at 4634.178358
+sequence 4 event mri_trigger val = 0 at 4634.261647
+sequence 4 event mri_trigger val = 1 at 4634.345659
+sequence 4 event mri_trigger val = 0 at 4634.419890
+sequence 4 trial 11 pursuit offset at 4634.451393
+sequence 4 event mri_trigger val = 1 at 4634.503417
+sequence 4 trial 11 offset at 4634.551357
+sequence 4 trial 12 onset at 4634.559689
+sequence 4 trial 12 saccade onset at 4634.559814
+sequence 4 event mri_trigger val = 0 at 4634.578261
+sequence 4 event mri_trigger val = 1 at 4634.661771
+sequence 4 event mri_trigger val = 0 at 4634.745729
+sequence 4 event mri_trigger val = 1 at 4634.820019
+sequence 4 event mri_trigger val = 0 at 4634.903520
+sequence 4 event mri_trigger val = 1 at 4634.978406
+sequence 4 event mri_trigger val = 0 at 4635.061896
+sequence 4 event mri_trigger val = 1 at 4635.145266
+sequence 4 event mri_trigger val = 0 at 4635.220139
+sequence 4 event mri_trigger val = 1 at 4635.303645
+sequence 4 event mri_trigger val = 0 at 4635.378518
+sequence 4 event mri_trigger val = 1 at 4635.461903
+sequence 4 event mri_trigger val = 0 at 4635.545438
+sequence 4 event mri_trigger val = 1 at 4635.620263
+sequence 4 event mri_trigger val = 0 at 4635.703777
+sequence 4 trial 12 offset at 4635.751669
+sequence 4 trial 13 onset at 4635.760014
+sequence 4 trial 13 pursuit onset at 4635.760138
+sequence 4 event mri_trigger val = 1 at 4635.778648
+sequence 4 event mri_trigger val = 0 at 4635.862138
+sequence 4 event mri_trigger val = 1 at 4635.945521
+sequence 4 event mri_trigger val = 0 at 4636.020404
+sequence 4 event mri_trigger val = 1 at 4636.103900
+sequence 4 event mri_trigger val = 0 at 4636.179042
+sequence 4 event mri_trigger val = 1 at 4636.262140
+sequence 4 event mri_trigger val = 0 at 4636.345647
+sequence 4 event mri_trigger val = 1 at 4636.420523
+sequence 4 event mri_trigger val = 0 at 4636.503998
+sequence 4 event mri_trigger val = 1 at 4636.578899
+sequence 4 event mri_trigger val = 0 at 4636.662244
+sequence 4 event mri_trigger val = 1 at 4636.746265
+sequence 4 event mri_trigger val = 0 at 4636.820641
+sequence 4 trial 13 pursuit offset at 4636.851973
+sequence 4 event mri_trigger val = 1 at 4636.904643
+sequence 4 trial 13 offset at 4636.952000
+sequence 4 trial 14 onset at 4636.960334
+sequence 4 trial 14 saccade onset at 4636.960458
+sequence 4 event mri_trigger val = 0 at 4636.979532
+sequence 4 event mri_trigger val = 1 at 4637.062394
+sequence 4 event mri_trigger val = 0 at 4637.145853
+sequence 4 event mri_trigger val = 1 at 4637.220769
+sequence 4 event mri_trigger val = 0 at 4637.304524
+sequence 4 event mri_trigger val = 1 at 4637.379176
+sequence 4 event mri_trigger val = 0 at 4637.462524
+sequence 4 event mri_trigger val = 1 at 4637.537772
+sequence 4 event mri_trigger val = 0 at 4637.620899
+sequence 4 event mri_trigger val = 1 at 4637.704313
+sequence 4 event mri_trigger val = 0 at 4637.779265
+sequence 4 event mri_trigger val = 1 at 4637.862649
+sequence 4 event mri_trigger val = 0 at 4637.946137
+sequence 4 event mri_trigger val = 1 at 4638.021899
+sequence 4 event mri_trigger val = 0 at 4638.104524
+sequence 4 trial 14 offset at 4638.152514
+sequence 4 trial 15 onset at 4638.160662
+sequence 4 trial 15 pursuit onset at 4638.160787
+sequence 4 event mri_trigger val = 1 at 4638.179432
+sequence 4 event mri_trigger val = 0 at 4638.262772
+sequence 4 event mri_trigger val = 1 at 4638.337773
+sequence 4 event mri_trigger val = 0 at 4638.421096
+sequence 4 event mri_trigger val = 1 at 4638.505424
+sequence 4 event mri_trigger val = 0 at 4638.579424
+sequence 4 event mri_trigger val = 1 at 4638.662906
+sequence 4 event mri_trigger val = 0 at 4638.737769
+sequence 4 event mri_trigger val = 1 at 4638.821267
+sequence 4 event mri_trigger val = 0 at 4638.904641
+sequence 4 event mri_trigger val = 1 at 4638.980144
+sequence 4 event mri_trigger val = 0 at 4639.063017
+sequence 4 event mri_trigger val = 1 at 4639.137896
+sequence 4 event mri_trigger val = 0 at 4639.221390
+sequence 4 trial 15 pursuit offset at 4639.252625
+sequence 4 event mri_trigger val = 1 at 4639.304765
+sequence 4 trial 15 offset at 4639.352665
+sequence 4 trial 16 onset at 4639.360984
+sequence 4 trial 16 saccade onset at 4639.361108
+sequence 4 event mri_trigger val = 0 at 4639.379805
+sequence 4 event mri_trigger val = 1 at 4639.463150
+sequence 4 event mri_trigger val = 0 at 4639.538397
+sequence 4 event mri_trigger val = 1 at 4639.621462
+sequence 4 event mri_trigger val = 0 at 4639.704894
+sequence 4 event mri_trigger val = 1 at 4639.779771
+sequence 4 event mri_trigger val = 0 at 4639.863314
+sequence 4 event mri_trigger val = 1 at 4639.938138
+sequence 4 event mri_trigger val = 0 at 4640.022136
+sequence 4 event mri_trigger val = 1 at 4640.105012
+sequence 4 event mri_trigger val = 0 at 4640.179888
+sequence 4 event mri_trigger val = 1 at 4640.263393
+sequence 4 event mri_trigger val = 0 at 4640.338262
+sequence 4 event mri_trigger val = 1 at 4640.421772
+sequence 4 event mri_trigger val = 0 at 4640.505468
+sequence 4 trial 16 offset at 4640.552993
+sequence 4 trial 17 onset at 4640.561314
+sequence 4 trial 17 pursuit onset at 4640.561437
+sequence 4 event mri_trigger val = 1 at 4640.580015
+sequence 4 event mri_trigger val = 0 at 4640.664008
+sequence 4 event mri_trigger val = 1 at 4640.738406
+sequence 4 event mri_trigger val = 0 at 4640.821769
+sequence 4 event mri_trigger val = 1 at 4640.905017
+sequence 4 event mri_trigger val = 0 at 4640.980140
+sequence 4 event mri_trigger val = 1 at 4641.063645
+sequence 4 event mri_trigger val = 0 at 4641.139021
+sequence 4 event mri_trigger val = 1 at 4641.222018
+sequence 4 event mri_trigger val = 0 at 4641.305137
+sequence 4 event mri_trigger val = 1 at 4641.380268
+sequence 4 event mri_trigger val = 0 at 4641.463525
+sequence 4 event mri_trigger val = 1 at 4641.538645
+sequence 4 event mri_trigger val = 0 at 4641.622014
+sequence 4 trial 17 pursuit offset at 4641.653279
+sequence 4 event mri_trigger val = 1 at 4641.705476
+sequence 4 trial 17 offset at 4641.753313
+sequence 4 trial 18 onset at 4641.761650
+sequence 4 trial 18 saccade onset at 4641.761774
+sequence 4 event mri_trigger val = 0 at 4641.780401
+sequence 4 event mri_trigger val = 1 at 4641.863894
+sequence 4 event mri_trigger val = 0 at 4641.938768
+sequence 4 event mri_trigger val = 1 at 4642.022135
+sequence 4 event mri_trigger val = 0 at 4642.105443
+sequence 4 event mri_trigger val = 1 at 4642.180521
+sequence 4 event mri_trigger val = 0 at 4642.263647
+sequence 4 event mri_trigger val = 1 at 4642.338893
+sequence 4 event mri_trigger val = 0 at 4642.422893
+sequence 4 event mri_trigger val = 1 at 4642.506268
+sequence 4 event mri_trigger val = 0 at 4642.580643
+sequence 4 event mri_trigger val = 1 at 4642.663891
+sequence 4 event mri_trigger val = 0 at 4642.739137
+sequence 4 event mri_trigger val = 1 at 4642.822399
+sequence 4 event mri_trigger val = 0 at 4642.906396
+sequence 4 trial 18 offset at 4642.953690
+sequence 4 trial 19 onset at 4642.961957
+sequence 4 trial 19 pursuit onset at 4642.962081
+sequence 4 event mri_trigger val = 1 at 4642.980766
+sequence 4 event mri_trigger val = 0 at 4643.063881
+sequence 4 event mri_trigger val = 1 at 4643.139142
+sequence 4 event mri_trigger val = 0 at 4643.222517
+sequence 4 event mri_trigger val = 1 at 4643.305871
+sequence 4 event mri_trigger val = 0 at 4643.380891
+sequence 4 event mri_trigger val = 1 at 4643.464020
+sequence 4 event mri_trigger val = 0 at 4643.539389
+sequence 4 event mri_trigger val = 1 at 4643.622750
+sequence 4 event mri_trigger val = 0 at 4643.705893
+sequence 4 event mri_trigger val = 1 at 4643.780977
+sequence 4 event mri_trigger val = 0 at 4643.864148
+sequence 4 event mri_trigger val = 1 at 4643.939393
+sequence 4 event mri_trigger val = 0 at 4644.022722
+sequence 4 trial 19 pursuit offset at 4644.053915
+sequence 4 event mri_trigger val = 1 at 4644.106276
+sequence 4 trial 19 offset at 4644.153945
+sequence 4 trial 20 onset at 4644.162283
+sequence 4 trial 20 saccade onset at 4644.162406
+sequence 4 event mri_trigger val = 0 at 4644.181892
+sequence 4 event mri_trigger val = 1 at 4644.264517
+sequence 4 event mri_trigger val = 0 at 4644.339517
+sequence 4 event mri_trigger val = 1 at 4644.422643
+sequence 4 event mri_trigger val = 0 at 4644.497774
+sequence 4 event mri_trigger val = 1 at 4644.581260
+sequence 4 event mri_trigger val = 0 at 4644.665015
+sequence 4 event mri_trigger val = 1 at 4644.739642
+sequence 4 event mri_trigger val = 0 at 4644.822968
+sequence 4 event mri_trigger val = 1 at 4644.897897
+sequence 4 event mri_trigger val = 0 at 4644.981390
+sequence 4 event mri_trigger val = 1 at 4645.064513
+sequence 4 event mri_trigger val = 0 at 4645.139639
+sequence 4 event mri_trigger val = 1 at 4645.222996
+sequence 4 event mri_trigger val = 0 at 4645.298012
+sequence 4 trial 20 offset at 4645.354287
+sequence 4 trial 21 onset at 4645.362618
+sequence 4 trial 21 pursuit onset at 4645.362743
+sequence 4 event mri_trigger val = 1 at 4645.381518
+sequence 4 event mri_trigger val = 0 at 4645.464891
+sequence 4 event mri_trigger val = 1 at 4645.540399
+sequence 4 event mri_trigger val = 0 at 4645.623323
+sequence 4 event mri_trigger val = 1 at 4645.698140
+sequence 4 event mri_trigger val = 0 at 4645.781640
+sequence 4 event mri_trigger val = 1 at 4645.864700
+sequence 4 event mri_trigger val = 0 at 4645.939997
+sequence 4 event mri_trigger val = 1 at 4646.023395
+sequence 4 event mri_trigger val = 0 at 4646.098359
+sequence 4 event mri_trigger val = 1 at 4646.181487
+sequence 4 event mri_trigger val = 0 at 4646.264892
+sequence 4 event mri_trigger val = 1 at 4646.340122
+sequence 4 event mri_trigger val = 0 at 4646.423520
+sequence 4 trial 21 pursuit offset at 4646.454567
+sequence 4 event mri_trigger val = 1 at 4646.498395
+sequence 4 trial 21 offset at 4646.554605
+sequence 4 trial 22 onset at 4646.562924
+sequence 4 trial 22 saccade onset at 4646.563047
+sequence 4 event mri_trigger val = 0 at 4646.581519
+sequence 4 event mri_trigger val = 1 at 4646.665007
+sequence 4 event mri_trigger val = 0 at 4646.740135
+sequence 4 event mri_trigger val = 1 at 4646.823397
+sequence 4 event mri_trigger val = 0 at 4646.898565
+sequence 4 event mri_trigger val = 1 at 4646.981646
+sequence 4 event mri_trigger val = 0 at 4647.065141
+sequence 4 event mri_trigger val = 1 at 4647.140396
+sequence 4 event mri_trigger val = 0 at 4647.223389
+sequence 4 event mri_trigger val = 1 at 4647.298640
+sequence 4 event mri_trigger val = 0 at 4647.381768
+sequence 4 event mri_trigger val = 1 at 4647.465270
+sequence 4 event mri_trigger val = 0 at 4647.540131
+sequence 4 event mri_trigger val = 1 at 4647.623515
+sequence 4 event mri_trigger val = 0 at 4647.698761
+sequence 4 trial 22 offset at 4647.754917
+sequence 4 trial 23 onset at 4647.763405
+sequence 4 trial 23 pursuit onset at 4647.763528
+sequence 4 event mri_trigger val = 1 at 4647.781893
+sequence 4 event mri_trigger val = 0 at 4647.865405
+sequence 4 event mri_trigger val = 1 at 4647.940524
+sequence 4 event mri_trigger val = 0 at 4648.023627
+sequence 4 event mri_trigger val = 1 at 4648.098644
+sequence 4 event mri_trigger val = 0 at 4648.182102
+sequence 4 event mri_trigger val = 1 at 4648.266019
+sequence 4 event mri_trigger val = 0 at 4648.340386
+sequence 4 event mri_trigger val = 1 at 4648.423724
+sequence 4 event mri_trigger val = 0 at 4648.499018
+sequence 4 event mri_trigger val = 1 at 4648.582133
+sequence 4 event mri_trigger val = 0 at 4648.665514
+sequence 4 event mri_trigger val = 1 at 4648.740518
+sequence 4 event mri_trigger val = 0 at 4648.823894
+sequence 4 trial 23 pursuit offset at 4648.855213
+sequence 4 event mri_trigger val = 1 at 4648.899099
+sequence 4 trial 23 offset at 4648.955316
+sequence 4 trial 24 onset at 4648.963592
+sequence 4 trial 24 saccade onset at 4648.963720
+sequence 4 event mri_trigger val = 0 at 4648.982327
+sequence 4 event mri_trigger val = 1 at 4649.065766
+sequence 4 event mri_trigger val = 0 at 4649.140644
+sequence 4 event mri_trigger val = 1 at 4649.224009
+sequence 4 event mri_trigger val = 0 at 4649.299138
+sequence 4 event mri_trigger val = 1 at 4649.382388
+sequence 4 event mri_trigger val = 0 at 4649.465769
+sequence 4 event mri_trigger val = 1 at 4649.541265
+sequence 4 event mri_trigger val = 0 at 4649.624139
+sequence 4 event mri_trigger val = 1 at 4649.699892
+sequence 4 event mri_trigger val = 0 at 4649.782513
+sequence 4 event mri_trigger val = 1 at 4649.857637
+sequence 4 event mri_trigger val = 0 at 4649.941636
+sequence 4 event mri_trigger val = 1 at 4650.024242
+sequence 4 event mri_trigger val = 0 at 4650.099146
+sequence 4 trial 24 offset at 4650.155575
+sequence 4 trial 25 onset at 4650.163910
+sequence 4 trial 25 pursuit onset at 4650.164033
+sequence 4 event mri_trigger val = 1 at 4650.182638
+sequence 4 event mri_trigger val = 0 at 4650.265954
+sequence 4 event mri_trigger val = 1 at 4650.340894
+sequence 4 event mri_trigger val = 0 at 4650.424388
+sequence 4 event mri_trigger val = 1 at 4650.499408
+sequence 4 event mri_trigger val = 0 at 4650.582767
+sequence 4 event mri_trigger val = 1 at 4650.657888
+sequence 4 event mri_trigger val = 0 at 4650.740991
+sequence 4 event mri_trigger val = 1 at 4650.824513
+sequence 4 event mri_trigger val = 0 at 4650.899393
+sequence 4 event mri_trigger val = 1 at 4650.982884
+sequence 4 event mri_trigger val = 0 at 4651.057857
+sequence 4 event mri_trigger val = 1 at 4651.141133
+sequence 4 event mri_trigger val = 0 at 4651.224635
+sequence 4 trial 25 pursuit offset at 4651.255884
+sequence 4 event mri_trigger val = 1 at 4651.299517
+sequence 4 trial 25 offset at 4651.355890
+sequence 4 trial 26 onset at 4651.364223
+sequence 4 trial 26 saccade onset at 4651.364347
+sequence 4 event mri_trigger val = 0 at 4651.382957
+sequence 4 event mri_trigger val = 1 at 4651.458146
+sequence 4 event mri_trigger val = 0 at 4651.541221
+sequence 4 event mri_trigger val = 1 at 4651.624723
+sequence 4 event mri_trigger val = 0 at 4651.699883
+sequence 4 event mri_trigger val = 1 at 4651.783389
+sequence 4 event mri_trigger val = 0 at 4651.858261
+sequence 4 event mri_trigger val = 1 at 4651.941343
+sequence 4 event mri_trigger val = 0 at 4652.024885
+sequence 4 event mri_trigger val = 1 at 4652.099768
+sequence 4 event mri_trigger val = 0 at 4652.183313
+sequence 4 event mri_trigger val = 1 at 4652.258141
+sequence 4 event mri_trigger val = 0 at 4652.341505
+sequence 4 event mri_trigger val = 1 at 4652.425015
+sequence 4 event mri_trigger val = 0 at 4652.499893
+sequence 4 trial 26 offset at 4652.556312
+sequence 4 trial 27 onset at 4652.564570
+sequence 4 trial 27 pursuit onset at 4652.564694
+sequence 4 event mri_trigger val = 1 at 4652.583348
+sequence 4 event mri_trigger val = 0 at 4652.658260
+sequence 4 event mri_trigger val = 1 at 4652.741638
+sequence 4 event mri_trigger val = 0 at 4652.825093
+sequence 4 event mri_trigger val = 1 at 4652.900009
+sequence 4 event mri_trigger val = 0 at 4652.983391
+sequence 4 event mri_trigger val = 1 at 4653.058395
+sequence 4 event mri_trigger val = 0 at 4653.141786
+sequence 4 event mri_trigger val = 1 at 4653.225263
+sequence 4 event mri_trigger val = 0 at 4653.300192
+sequence 4 event mri_trigger val = 1 at 4653.383516
+sequence 4 event mri_trigger val = 0 at 4653.458516
+sequence 4 event mri_trigger val = 1 at 4653.541894
+sequence 4 event mri_trigger val = 0 at 4653.625259
+sequence 4 trial 27 pursuit offset at 4653.656520
+sequence 4 event mri_trigger val = 1 at 4653.700383
+sequence 4 trial 27 offset at 4653.756530
+sequence 4 trial 28 onset at 4653.764882
+sequence 4 trial 28 saccade onset at 4653.765006
+sequence 4 event mri_trigger val = 0 at 4653.783639
+sequence 4 event mri_trigger val = 1 at 4653.858514
+sequence 4 event mri_trigger val = 0 at 4653.942011
+sequence 4 event mri_trigger val = 1 at 4654.025515
+sequence 4 event mri_trigger val = 0 at 4654.100388
+sequence 4 event mri_trigger val = 1 at 4654.183769
+sequence 4 event mri_trigger val = 0 at 4654.258765
+sequence 4 event mri_trigger val = 1 at 4654.342138
+sequence 4 event mri_trigger val = 0 at 4654.425639
+sequence 4 event mri_trigger val = 1 at 4654.500525
+sequence 4 event mri_trigger val = 0 at 4654.583891
+sequence 4 event mri_trigger val = 1 at 4654.658891
+sequence 4 event mri_trigger val = 0 at 4654.742233
+sequence 4 event mri_trigger val = 1 at 4654.825639
+sequence 4 event mri_trigger val = 0 at 4654.900640
+sequence 4 trial 28 offset at 4654.956870
+sequence 4 trial 29 onset at 4654.965457
+sequence 4 trial 29 pursuit onset at 4654.965853
+sequence 4 event mri_trigger val = 1 at 4654.984002
+sequence 4 event mri_trigger val = 0 at 4655.058883
+sequence 4 event mri_trigger val = 1 at 4655.142390
+sequence 4 event mri_trigger val = 0 at 4655.225518
+sequence 4 event mri_trigger val = 1 at 4655.300764
+sequence 4 event mri_trigger val = 0 at 4655.384133
+sequence 4 event mri_trigger val = 1 at 4655.459010
+sequence 4 event mri_trigger val = 0 at 4655.542509
+sequence 4 event mri_trigger val = 1 at 4655.625592
+sequence 4 event mri_trigger val = 0 at 4655.700889
+sequence 4 event mri_trigger val = 1 at 4655.784342
+sequence 4 event mri_trigger val = 0 at 4655.859135
+sequence 4 event mri_trigger val = 1 at 4655.942638
+sequence 4 event mri_trigger val = 0 at 4656.018005
+sequence 4 trial 29 pursuit offset at 4656.057150
+sequence 4 event mri_trigger val = 1 at 4656.100881
+sequence 4 trial 29 offset at 4656.157181
+sequence 4 trial 30 onset at 4656.165531
+sequence 4 trial 30 saccade onset at 4656.165656
+sequence 4 event mri_trigger val = 0 at 4656.184166
+sequence 4 event mri_trigger val = 1 at 4656.259272
+sequence 4 event mri_trigger val = 0 at 4656.342767
+sequence 4 event mri_trigger val = 1 at 4656.417636
+sequence 4 event mri_trigger val = 0 at 4656.501006
+sequence 4 event mri_trigger val = 1 at 4656.584322
+sequence 4 event mri_trigger val = 0 at 4656.659393
+sequence 4 event mri_trigger val = 1 at 4656.742886
+sequence 4 event mri_trigger val = 0 at 4656.817766
+sequence 4 event mri_trigger val = 1 at 4656.901130
+sequence 4 event mri_trigger val = 0 at 4656.984640
+sequence 4 event mri_trigger val = 1 at 4657.059515
+sequence 4 event mri_trigger val = 0 at 4657.143004
+sequence 4 event mri_trigger val = 1 at 4657.217886
+sequence 4 event mri_trigger val = 0 at 4657.301294
+sequence 4 trial 30 offset at 4657.357500
+sequence 4 trial 31 onset at 4657.365848
+sequence 4 trial 31 pursuit onset at 4657.365973
+sequence 4 event mri_trigger val = 1 at 4657.384512
+sequence 4 event mri_trigger val = 0 at 4657.459638
+sequence 4 event mri_trigger val = 1 at 4657.543133
+sequence 4 event mri_trigger val = 0 at 4657.617959
+sequence 4 event mri_trigger val = 1 at 4657.701494
+sequence 4 event mri_trigger val = 0 at 4657.784634
+sequence 4 event mri_trigger val = 1 at 4657.859762
+sequence 4 event mri_trigger val = 0 at 4657.943012
+sequence 4 event mri_trigger val = 1 at 4658.018641
+sequence 4 event mri_trigger val = 0 at 4658.101511
+sequence 4 event mri_trigger val = 1 at 4658.184640
+sequence 4 event mri_trigger val = 0 at 4658.259885
+sequence 4 event mri_trigger val = 1 at 4658.343307
+sequence 4 event mri_trigger val = 0 at 4658.418250
+sequence 4 trial 31 pursuit offset at 4658.457799
+sequence 4 event mri_trigger val = 1 at 4658.501640
+sequence 4 trial 31 offset at 4658.557839
+sequence 4 trial 32 onset at 4658.566174
+sequence 4 trial 32 saccade onset at 4658.566298
+sequence 4 event mri_trigger val = 0 at 4658.584886
+sequence 4 event mri_trigger val = 1 at 4658.660010
+sequence 4 event mri_trigger val = 0 at 4658.743130
+sequence 4 event mri_trigger val = 1 at 4658.818383
+sequence 4 event mri_trigger val = 0 at 4658.901765
+sequence 4 event mri_trigger val = 1 at 4658.985006
+sequence 4 event mri_trigger val = 0 at 4659.060131
+sequence 4 event mri_trigger val = 1 at 4659.143257
+sequence 4 event mri_trigger val = 0 at 4659.218387
+sequence 4 event mri_trigger val = 1 at 4659.301884
+sequence 4 event mri_trigger val = 0 at 4659.385020
+sequence 4 event mri_trigger val = 1 at 4659.460261
+sequence 4 event mri_trigger val = 0 at 4659.543390
+sequence 4 event mri_trigger val = 1 at 4659.618637
+sequence 4 event mri_trigger val = 0 at 4659.701761
+sequence 4 trial 32 offset at 4659.758217
+sequence 4 - 0 missed sync on 4608 frames, 0.0% (mean/median delay = NaN/NaN ms)
+sequence 4 stopped at 4659.763925
+sequence 5 started at 4659.764227
+sequence 5 trial 1 onset at 4659.774825
+sequence 5 event mri_trigger val = 1 at 4659.785129
+sequence 5 event mri_trigger val = 0 at 4659.860267
+sequence 5 event mri_trigger val = 1 at 4659.943513
+sequence 5 event mri_trigger val = 0 at 4660.018634
+sequence 5 event mri_trigger val = 1 at 4660.102388
+sequence 5 event mri_trigger val = 0 at 4660.185089
+sequence 5 event mri_trigger val = 1 at 4660.260381
+sequence 5 event mri_trigger val = 0 at 4660.343763
+sequence 5 event mri_trigger val = 1 at 4660.419013
+sequence 5 event mri_trigger val = 0 at 4660.502137
+sequence 5 event mri_trigger val = 1 at 4660.585494
+sequence 5 event mri_trigger val = 0 at 4660.660510
+sequence 5 event mri_trigger val = 1 at 4660.743858
+sequence 5 event mri_trigger val = 0 at 4660.818888
+sequence 5 event mri_trigger val = 1 at 4660.902318
+sequence 5 trial 1 offset at 4660.966865
+sequence 5 trial 2 onset at 4660.975144
+sequence 5 event mri_trigger val = 0 at 4660.986010
+sequence 5 event mri_trigger val = 1 at 4661.060638
+sequence 5 event mri_trigger val = 0 at 4661.144371
+sequence 5 event mri_trigger val = 1 at 4661.219002
+sequence 5 event mri_trigger val = 0 at 4661.302385
+sequence 5 event mri_trigger val = 1 at 4661.377888
+sequence 5 event mri_trigger val = 0 at 4661.460762
+sequence 5 event mri_trigger val = 1 at 4661.544129
+sequence 5 event mri_trigger val = 0 at 4661.619144
+sequence 5 event mri_trigger val = 1 at 4661.702506
+sequence 5 event mri_trigger val = 0 at 4661.785633
+sequence 5 event mri_trigger val = 1 at 4661.860884
+sequence 5 event mri_trigger val = 0 at 4661.944000
+sequence 5 event mri_trigger val = 1 at 4662.019407
+sequence 5 event mri_trigger val = 0 at 4662.102633
+sequence 5 trial 2 offset at 4662.167117
+sequence 5 trial 3 onset at 4662.175468
+sequence 5 event mri_trigger val = 1 at 4662.185761
+sequence 5 event mri_trigger val = 0 at 4662.261098
+sequence 5 event mri_trigger val = 1 at 4662.344127
+sequence 5 event mri_trigger val = 0 at 4662.419211
+sequence 5 event mri_trigger val = 1 at 4662.502749
+sequence 5 event mri_trigger val = 0 at 4662.577634
+sequence 5 event mri_trigger val = 1 at 4662.661132
+sequence 5 event mri_trigger val = 0 at 4662.745399
+sequence 5 event mri_trigger val = 1 at 4662.819372
+sequence 5 event mri_trigger val = 0 at 4662.902632
+sequence 5 event mri_trigger val = 1 at 4662.977759
+sequence 5 event mri_trigger val = 0 at 4663.061247
+sequence 5 event mri_trigger val = 1 at 4663.144386
+sequence 5 event mri_trigger val = 0 at 4663.219511
+sequence 5 event mri_trigger val = 1 at 4663.302757
+sequence 5 trial 3 offset at 4663.367456
+sequence 5 trial 4 onset at 4663.375790
+sequence 5 event mri_trigger val = 0 at 4663.377881
+sequence 5 event mri_trigger val = 1 at 4663.461187
+sequence 5 event mri_trigger val = 0 at 4663.545004
+sequence 5 event mri_trigger val = 1 at 4663.619633
+sequence 5 event mri_trigger val = 0 at 4663.702877
+sequence 5 event mri_trigger val = 1 at 4663.777962
+sequence 5 event mri_trigger val = 0 at 4663.861142
+sequence 5 event mri_trigger val = 1 at 4663.944635
+sequence 5 event mri_trigger val = 0 at 4664.019760
+sequence 5 event mri_trigger val = 1 at 4664.103019
+sequence 5 event mri_trigger val = 0 at 4664.178129
+sequence 5 event mri_trigger val = 1 at 4664.261482
+sequence 5 event mri_trigger val = 0 at 4664.344960
+sequence 5 event mri_trigger val = 1 at 4664.419884
+sequence 5 event mri_trigger val = 0 at 4664.502942
+sequence 5 trial 4 offset at 4664.567766
+sequence 5 trial 5 onset at 4664.576101
+sequence 5 event mri_trigger val = 1 at 4664.578379
+sequence 5 event mri_trigger val = 0 at 4664.661627
+sequence 5 event mri_trigger val = 1 at 4664.744875
+sequence 5 event mri_trigger val = 0 at 4664.820000
+sequence 5 event mri_trigger val = 1 at 4664.903644
+sequence 5 event mri_trigger val = 0 at 4664.978471
+sequence 5 event mri_trigger val = 1 at 4665.061507
+sequence 5 event mri_trigger val = 0 at 4665.144963
+sequence 5 event mri_trigger val = 1 at 4665.220129
+sequence 5 event mri_trigger val = 0 at 4665.303634
+sequence 5 event mri_trigger val = 1 at 4665.378506
+sequence 5 event mri_trigger val = 0 at 4665.461631
+sequence 5 event mri_trigger val = 1 at 4665.545095
+sequence 5 event mri_trigger val = 0 at 4665.620501
+sequence 5 event mri_trigger val = 1 at 4665.703384
+sequence 5 trial 5 offset at 4665.768101
+sequence 5 trial 6 onset at 4665.776438
+sequence 5 event mri_trigger val = 0 at 4665.778635
+sequence 5 event mri_trigger val = 1 at 4665.861756
+sequence 5 event mri_trigger val = 0 at 4665.945328
+sequence 5 event mri_trigger val = 1 at 4666.020129
+sequence 5 event mri_trigger val = 0 at 4666.103509
+sequence 5 event mri_trigger val = 1 at 4666.178758
+sequence 5 event mri_trigger val = 0 at 4666.261878
+sequence 5 event mri_trigger val = 1 at 4666.345382
+sequence 5 event mri_trigger val = 0 at 4666.420300
+sequence 5 event mri_trigger val = 1 at 4666.503632
+sequence 5 event mri_trigger val = 0 at 4666.578886
+sequence 5 event mri_trigger val = 1 at 4666.662099
+sequence 5 event mri_trigger val = 0 at 4666.745378
+sequence 5 event mri_trigger val = 1 at 4666.820384
+sequence 5 event mri_trigger val = 0 at 4666.903762
+sequence 5 trial 6 offset at 4666.968628
+sequence 5 trial 7 onset at 4666.976789
+sequence 5 event mri_trigger val = 1 at 4666.979007
+sequence 5 event mri_trigger val = 0 at 4667.062128
+sequence 5 event mri_trigger val = 1 at 4667.145511
+sequence 5 event mri_trigger val = 0 at 4667.220505
+sequence 5 event mri_trigger val = 1 at 4667.303875
+sequence 5 event mri_trigger val = 0 at 4667.378757
+sequence 5 event mri_trigger val = 1 at 4667.462221
+sequence 5 event mri_trigger val = 0 at 4667.545631
+sequence 5 event mri_trigger val = 1 at 4667.620563
+sequence 5 event mri_trigger val = 0 at 4667.704005
+sequence 5 event mri_trigger val = 1 at 4667.779139
+sequence 5 event mri_trigger val = 0 at 4667.862382
+sequence 5 event mri_trigger val = 1 at 4667.945757
+sequence 5 event mri_trigger val = 0 at 4668.021316
+sequence 5 event mri_trigger val = 1 at 4668.104130
+sequence 5 trial 7 offset at 4668.168734
+sequence 5 trial 8 onset at 4668.177069
+sequence 5 event mri_trigger val = 0 at 4668.179379
+sequence 5 event mri_trigger val = 1 at 4668.263305
+sequence 5 event mri_trigger val = 0 at 4668.337632
+sequence 5 event mri_trigger val = 1 at 4668.420880
+sequence 5 event mri_trigger val = 0 at 4668.504287
+sequence 5 event mri_trigger val = 1 at 4668.579768
+sequence 5 event mri_trigger val = 0 at 4668.662656
+sequence 5 event mri_trigger val = 1 at 4668.746002
+sequence 5 event mri_trigger val = 0 at 4668.821513
+sequence 5 event mri_trigger val = 1 at 4668.904412
+sequence 5 event mri_trigger val = 0 at 4668.979378
+sequence 5 event mri_trigger val = 1 at 4669.062724
+sequence 5 event mri_trigger val = 0 at 4669.137630
+sequence 5 event mri_trigger val = 1 at 4669.221000
+sequence 5 event mri_trigger val = 0 at 4669.304506
+sequence 5 trial 8 offset at 4669.369074
+sequence 5 trial 9 onset at 4669.377471
+sequence 5 event mri_trigger val = 1 at 4669.379632
+sequence 5 event mri_trigger val = 0 at 4669.462881
+sequence 5 event mri_trigger val = 1 at 4669.537845
+sequence 5 event mri_trigger val = 0 at 4669.621125
+sequence 5 event mri_trigger val = 1 at 4669.704886
+sequence 5 event mri_trigger val = 0 at 4669.779508
+sequence 5 event mri_trigger val = 1 at 4669.863001
+sequence 5 event mri_trigger val = 0 at 4669.938868
+sequence 5 event mri_trigger val = 1 at 4670.022382
+sequence 5 event mri_trigger val = 0 at 4670.104753
+sequence 5 event mri_trigger val = 1 at 4670.179883
+sequence 5 event mri_trigger val = 0 at 4670.263382
+sequence 5 event mri_trigger val = 1 at 4670.337947
+sequence 5 event mri_trigger val = 0 at 4670.422001
+sequence 5 event mri_trigger val = 1 at 4670.504881
+sequence 5 trial 9 offset at 4670.569396
+sequence 5 trial 10 onset at 4670.577720
+sequence 5 event mri_trigger val = 0 at 4670.580004
+sequence 5 event mri_trigger val = 1 at 4670.663295
+sequence 5 event mri_trigger val = 0 at 4670.738218
+sequence 5 event mri_trigger val = 1 at 4670.821506
+sequence 5 event mri_trigger val = 0 at 4670.904996
+sequence 5 event mri_trigger val = 1 at 4670.979884
+sequence 5 event mri_trigger val = 0 at 4671.063311
+sequence 5 event mri_trigger val = 1 at 4671.138523
+sequence 5 event mri_trigger val = 0 at 4671.221585
+sequence 5 event mri_trigger val = 1 at 4671.305381
+sequence 5 event mri_trigger val = 0 at 4671.380009
+sequence 5 event mri_trigger val = 1 at 4671.463490
+sequence 5 event mri_trigger val = 0 at 4671.538518
+sequence 5 event mri_trigger val = 1 at 4671.621757
+sequence 5 event mri_trigger val = 0 at 4671.705268
+sequence 5 trial 10 offset at 4671.769758
+sequence 5 trial 11 onset at 4671.778136
+sequence 5 event mri_trigger val = 1 at 4671.780385
+sequence 5 event mri_trigger val = 0 at 4671.864127
+sequence 5 event mri_trigger val = 1 at 4671.938505
+sequence 5 event mri_trigger val = 0 at 4672.021879
+sequence 5 event mri_trigger val = 1 at 4672.105471
+sequence 5 event mri_trigger val = 0 at 4672.180309
+sequence 5 event mri_trigger val = 1 at 4672.263631
+sequence 5 event mri_trigger val = 0 at 4672.338503
+sequence 5 event mri_trigger val = 1 at 4672.422502
+sequence 5 event mri_trigger val = 0 at 4672.505380
+sequence 5 event mri_trigger val = 1 at 4672.580383
+sequence 5 event mri_trigger val = 0 at 4672.663753
+sequence 5 event mri_trigger val = 1 at 4672.738632
+sequence 5 event mri_trigger val = 0 at 4672.822212
+sequence 5 event mri_trigger val = 1 at 4672.905504
+sequence 5 trial 11 offset at 4672.970099
+sequence 5 trial 12 onset at 4672.978365
+sequence 5 event mri_trigger val = 0 at 4672.980507
+sequence 5 event mri_trigger val = 1 at 4673.063889
+sequence 5 event mri_trigger val = 0 at 4673.138751
+sequence 5 event mri_trigger val = 1 at 4673.222282
+sequence 5 event mri_trigger val = 0 at 4673.305631
+sequence 5 event mri_trigger val = 1 at 4673.380505
+sequence 5 event mri_trigger val = 0 at 4673.464007
+sequence 5 event mri_trigger val = 1 at 4673.538836
+sequence 5 event mri_trigger val = 0 at 4673.622377
+sequence 5 event mri_trigger val = 1 at 4673.705757
+sequence 5 event mri_trigger val = 0 at 4673.781267
+sequence 5 event mri_trigger val = 1 at 4673.864131
+sequence 5 event mri_trigger val = 0 at 4673.939087
+sequence 5 event mri_trigger val = 1 at 4674.022504
+sequence 5 event mri_trigger val = 0 at 4674.105626
+sequence 5 trial 12 offset at 4674.170561
+sequence 5 trial 13 onset at 4674.178690
+sequence 5 event mri_trigger val = 1 at 4674.180875
+sequence 5 event mri_trigger val = 0 at 4674.264005
+sequence 5 event mri_trigger val = 1 at 4674.339055
+sequence 5 event mri_trigger val = 0 at 4674.422630
+sequence 5 event mri_trigger val = 1 at 4674.505755
+sequence 5 event mri_trigger val = 0 at 4674.580982
+sequence 5 event mri_trigger val = 1 at 4674.664381
+sequence 5 event mri_trigger val = 0 at 4674.739299
+sequence 5 event mri_trigger val = 1 at 4674.822708
+sequence 5 event mri_trigger val = 0 at 4674.897632
+sequence 5 event mri_trigger val = 1 at 4674.981380
+sequence 5 event mri_trigger val = 0 at 4675.064214
+sequence 5 event mri_trigger val = 1 at 4675.139361
+sequence 5 event mri_trigger val = 0 at 4675.222875
+sequence 5 event mri_trigger val = 1 at 4675.297749
+sequence 5 trial 13 offset at 4675.370692
+sequence 5 trial 14 onset at 4675.379029
+sequence 5 event mri_trigger val = 0 at 4675.382301
+sequence 5 event mri_trigger val = 1 at 4675.464283
+sequence 5 event mri_trigger val = 0 at 4675.540000
+sequence 5 event mri_trigger val = 1 at 4675.623494
+sequence 5 event mri_trigger val = 0 at 4675.697871
+sequence 5 event mri_trigger val = 1 at 4675.781291
+sequence 5 event mri_trigger val = 0 at 4675.864505
+sequence 5 event mri_trigger val = 1 at 4675.939617
+sequence 5 event mri_trigger val = 0 at 4676.022757
+sequence 5 event mri_trigger val = 1 at 4676.097997
+sequence 5 event mri_trigger val = 0 at 4676.181381
+sequence 5 event mri_trigger val = 1 at 4676.264629
+sequence 5 event mri_trigger val = 0 at 4676.339710
+sequence 5 event mri_trigger val = 1 at 4676.422873
+sequence 5 event mri_trigger val = 0 at 4676.498378
+sequence 5 trial 14 offset at 4676.571000
+sequence 5 trial 15 onset at 4676.579350
+sequence 5 event mri_trigger val = 1 at 4676.581753
+sequence 5 event mri_trigger val = 0 at 4676.664626
+sequence 5 event mri_trigger val = 1 at 4676.739874
+sequence 5 event mri_trigger val = 0 at 4676.823278
+sequence 5 event mri_trigger val = 1 at 4676.898307
+sequence 5 event mri_trigger val = 0 at 4676.981633
+sequence 5 event mri_trigger val = 1 at 4677.064768
+sequence 5 event mri_trigger val = 0 at 4677.140088
+sequence 5 event mri_trigger val = 1 at 4677.223146
+sequence 5 event mri_trigger val = 0 at 4677.298381
+sequence 5 event mri_trigger val = 1 at 4677.381505
+sequence 5 event mri_trigger val = 0 at 4677.464872
+sequence 5 event mri_trigger val = 1 at 4677.540127
+sequence 5 event mri_trigger val = 0 at 4677.623445
+sequence 5 event mri_trigger val = 1 at 4677.698381
+sequence 5 trial 15 offset at 4677.771383
+sequence 5 trial 16 onset at 4677.779656
+sequence 5 event mri_trigger val = 0 at 4677.781874
+sequence 5 event mri_trigger val = 1 at 4677.864998
+sequence 5 event mri_trigger val = 0 at 4677.940305
+sequence 5 event mri_trigger val = 1 at 4678.023379
+sequence 5 event mri_trigger val = 0 at 4678.098504
+sequence 5 event mri_trigger val = 1 at 4678.181756
+sequence 5 event mri_trigger val = 0 at 4678.265237
+sequence 5 event mri_trigger val = 1 at 4678.340363
+sequence 5 event mri_trigger val = 0 at 4678.423504
+sequence 5 event mri_trigger val = 1 at 4678.498631
+sequence 5 event mri_trigger val = 0 at 4678.582228
+sequence 5 event mri_trigger val = 1 at 4678.665305
+sequence 5 event mri_trigger val = 0 at 4678.740380
+sequence 5 event mri_trigger val = 1 at 4678.823625
+sequence 5 event mri_trigger val = 0 at 4678.898751
+sequence 5 trial 16 offset at 4678.971645
+sequence 5 - 0 missed sync on 2304 frames, 0.0% (mean/median delay = NaN/NaN ms)
+sequence 5 stopped at 4678.977018
+sequence 6 started at 4678.977808
+sequence 6 trial 1 onset at 4678.979974
+sequence 6 trial 1 pursuit onset at 4678.980096
+sequence 6 event mri_trigger val = 1 at 4678.982401
+sequence 6 event mri_trigger val = 0 at 4679.065382
+sequence 6 event mri_trigger val = 1 at 4679.140502
+sequence 6 event mri_trigger val = 0 at 4679.223753
+sequence 6 event mri_trigger val = 1 at 4679.298873
+sequence 6 event mri_trigger val = 0 at 4679.382376
+sequence 6 event mri_trigger val = 1 at 4679.465503
+sequence 6 event mri_trigger val = 0 at 4679.540755
+sequence 6 event mri_trigger val = 1 at 4679.623881
+sequence 6 event mri_trigger val = 0 at 4679.698995
+sequence 6 event mri_trigger val = 1 at 4679.782120
+sequence 6 event mri_trigger val = 0 at 4679.865630
+sequence 6 event mri_trigger val = 1 at 4679.940504
+sequence 6 event mri_trigger val = 0 at 4680.023998
+sequence 6 trial 1 pursuit offset at 4680.071933
+sequence 6 event mri_trigger val = 1 at 4680.099123
+sequence 6 trial 1 offset at 4680.171959
+sequence 6 trial 2 onset at 4680.180283
+sequence 6 trial 2 saccade onset at 4680.180406
+sequence 6 event mri_trigger val = 0 at 4680.182625
+sequence 6 event mri_trigger val = 1 at 4680.265749
+sequence 6 event mri_trigger val = 0 at 4680.340584
+sequence 6 event mri_trigger val = 1 at 4680.424135
+sequence 6 event mri_trigger val = 0 at 4680.499302
+sequence 6 event mri_trigger val = 1 at 4680.582376
+sequence 6 event mri_trigger val = 0 at 4680.665873
+sequence 6 event mri_trigger val = 1 at 4680.740751
+sequence 6 event mri_trigger val = 0 at 4680.824595
+sequence 6 event mri_trigger val = 1 at 4680.899382
+sequence 6 event mri_trigger val = 0 at 4680.982499
+sequence 6 event mri_trigger val = 1 at 4681.058305
+sequence 6 event mri_trigger val = 0 at 4681.140876
+sequence 6 event mri_trigger val = 1 at 4681.224267
+sequence 6 event mri_trigger val = 0 at 4681.299300
+sequence 6 trial 2 offset at 4681.372281
+sequence 6 trial 3 onset at 4681.380616
+sequence 6 trial 3 pursuit onset at 4681.380740
+sequence 6 event mri_trigger val = 1 at 4681.382877
+sequence 6 event mri_trigger val = 0 at 4681.457877
+sequence 6 event mri_trigger val = 1 at 4681.540995
+sequence 6 event mri_trigger val = 0 at 4681.624503
+sequence 6 event mri_trigger val = 1 at 4681.699376
+sequence 6 event mri_trigger val = 0 at 4681.782749
+sequence 6 event mri_trigger val = 1 at 4681.857998
+sequence 6 event mri_trigger val = 0 at 4681.941370
+sequence 6 event mri_trigger val = 1 at 4682.024503
+sequence 6 event mri_trigger val = 0 at 4682.099430
+sequence 6 event mri_trigger val = 1 at 4682.182875
+sequence 6 event mri_trigger val = 0 at 4682.257989
+sequence 6 event mri_trigger val = 1 at 4682.341204
+sequence 6 event mri_trigger val = 0 at 4682.424628
+sequence 6 trial 3 pursuit offset at 4682.472567
+sequence 6 event mri_trigger val = 1 at 4682.499626
+sequence 6 trial 3 offset at 4682.572594
+sequence 6 trial 4 onset at 4682.580933
+sequence 6 trial 4 saccade onset at 4682.581056
+sequence 6 event mri_trigger val = 0 at 4682.583279
+sequence 6 event mri_trigger val = 1 at 4682.657869
+sequence 6 event mri_trigger val = 0 at 4682.741374
+sequence 6 event mri_trigger val = 1 at 4682.824745
+sequence 6 event mri_trigger val = 0 at 4682.899749
+sequence 6 event mri_trigger val = 1 at 4682.983126
+sequence 6 event mri_trigger val = 0 at 4683.057992
+sequence 6 event mri_trigger val = 1 at 4683.141477
+sequence 6 event mri_trigger val = 0 at 4683.224875
+sequence 6 event mri_trigger val = 1 at 4683.299875
+sequence 6 event mri_trigger val = 0 at 4683.383198
+sequence 6 event mri_trigger val = 1 at 4683.458360
+sequence 6 event mri_trigger val = 0 at 4683.541617
+sequence 6 event mri_trigger val = 1 at 4683.624992
+sequence 6 event mri_trigger val = 0 at 4683.699873
+sequence 6 trial 4 offset at 4683.772931
+sequence 6 trial 5 onset at 4683.781265
+sequence 6 trial 5 pursuit onset at 4683.781390
+sequence 6 event mri_trigger val = 1 at 4683.783631
+sequence 6 event mri_trigger val = 0 at 4683.858299
+sequence 6 event mri_trigger val = 1 at 4683.941868
+sequence 6 event mri_trigger val = 0 at 4684.025120
+sequence 6 event mri_trigger val = 1 at 4684.099995
+sequence 6 event mri_trigger val = 0 at 4684.183508
+sequence 6 event mri_trigger val = 1 at 4684.258627
+sequence 6 event mri_trigger val = 0 at 4684.341738
+sequence 6 event mri_trigger val = 1 at 4684.425222
+sequence 6 event mri_trigger val = 0 at 4684.500121
+sequence 6 event mri_trigger val = 1 at 4684.583628
+sequence 6 event mri_trigger val = 0 at 4684.658496
+sequence 6 event mri_trigger val = 1 at 4684.742001
+sequence 6 event mri_trigger val = 0 at 4684.825372
+sequence 6 trial 5 pursuit offset at 4684.873227
+sequence 6 event mri_trigger val = 1 at 4684.900304
+sequence 6 trial 5 offset at 4684.973243
+sequence 6 trial 6 onset at 4684.981589
+sequence 6 trial 6 saccade onset at 4684.981712
+sequence 6 event mri_trigger val = 0 at 4684.983998
+sequence 6 event mri_trigger val = 1 at 4685.058622
+sequence 6 event mri_trigger val = 0 at 4685.142128
+sequence 6 event mri_trigger val = 1 at 4685.225508
+sequence 6 event mri_trigger val = 0 at 4685.300865
+sequence 6 event mri_trigger val = 1 at 4685.383875
+sequence 6 event mri_trigger val = 0 at 4685.458754
+sequence 6 event mri_trigger val = 1 at 4685.542152
+sequence 6 event mri_trigger val = 0 at 4685.625733
+sequence 6 event mri_trigger val = 1 at 4685.700504
+sequence 6 event mri_trigger val = 0 at 4685.783956
+sequence 6 event mri_trigger val = 1 at 4685.858873
+sequence 6 event mri_trigger val = 0 at 4685.942349
+sequence 6 event mri_trigger val = 1 at 4686.025751
+sequence 6 event mri_trigger val = 0 at 4686.100623
+sequence 6 trial 6 offset at 4686.173577
+sequence 6 trial 7 onset at 4686.181911
+sequence 6 trial 7 pursuit onset at 4686.182034
+sequence 6 event mri_trigger val = 1 at 4686.184376
+sequence 6 event mri_trigger val = 0 at 4686.259007
+sequence 6 event mri_trigger val = 1 at 4686.342373
+sequence 6 event mri_trigger val = 0 at 4686.417624
+sequence 6 event mri_trigger val = 1 at 4686.500992
+sequence 6 event mri_trigger val = 0 at 4686.584122
+sequence 6 event mri_trigger val = 1 at 4686.659375
+sequence 6 event mri_trigger val = 0 at 4686.742495
+sequence 6 event mri_trigger val = 1 at 4686.826499
+sequence 6 event mri_trigger val = 0 at 4686.900827
+sequence 6 event mri_trigger val = 1 at 4686.984372
+sequence 6 event mri_trigger val = 0 at 4687.059306
+sequence 6 event mri_trigger val = 1 at 4687.142622
+sequence 6 event mri_trigger val = 0 at 4687.217623
+sequence 6 trial 7 pursuit offset at 4687.273876
+sequence 6 event mri_trigger val = 1 at 4687.301304
+sequence 6 trial 7 offset at 4687.373887
+sequence 6 trial 8 onset at 4687.382235
+sequence 6 trial 8 saccade onset at 4687.382360
+sequence 6 event mri_trigger val = 0 at 4687.384626
+sequence 6 event mri_trigger val = 1 at 4687.459303
+sequence 6 event mri_trigger val = 0 at 4687.542859
+sequence 6 event mri_trigger val = 1 at 4687.617624
+sequence 6 event mri_trigger val = 0 at 4687.701115
+sequence 6 event mri_trigger val = 1 at 4687.784502
+sequence 6 event mri_trigger val = 0 at 4687.859499
+sequence 6 event mri_trigger val = 1 at 4687.942864
+sequence 6 event mri_trigger val = 0 at 4688.018334
+sequence 6 event mri_trigger val = 1 at 4688.101293
+sequence 6 event mri_trigger val = 0 at 4688.184369
+sequence 6 event mri_trigger val = 1 at 4688.259621
+sequence 6 event mri_trigger val = 0 at 4688.343091
+sequence 6 event mri_trigger val = 1 at 4688.417873
+sequence 6 event mri_trigger val = 0 at 4688.501380
+sequence 6 trial 8 offset at 4688.574304
+sequence 6 trial 9 onset at 4688.582830
+sequence 6 trial 9 pursuit onset at 4688.583179
+sequence 6 event mri_trigger val = 1 at 4688.585876
+sequence 6 event mri_trigger val = 0 at 4688.659630
+sequence 6 event mri_trigger val = 1 at 4688.743626
+sequence 6 event mri_trigger val = 0 at 4688.818004
+sequence 6 event mri_trigger val = 1 at 4688.901493
+sequence 6 event mri_trigger val = 0 at 4688.984869
+sequence 6 event mri_trigger val = 1 at 4689.059742
+sequence 6 event mri_trigger val = 0 at 4689.143182
+sequence 6 event mri_trigger val = 1 at 4689.218121
+sequence 6 event mri_trigger val = 0 at 4689.301621
+sequence 6 event mri_trigger val = 1 at 4689.384998
+sequence 6 event mri_trigger val = 0 at 4689.459993
+sequence 6 event mri_trigger val = 1 at 4689.543875
+sequence 6 event mri_trigger val = 0 at 4689.618301
+sequence 6 trial 9 pursuit offset at 4689.674526
+sequence 6 event mri_trigger val = 1 at 4689.702261
+sequence 6 trial 9 offset at 4689.774597
+sequence 6 trial 10 onset at 4689.782917
+sequence 6 trial 10 saccade onset at 4689.783040
+sequence 6 event mri_trigger val = 0 at 4689.785373
+sequence 6 event mri_trigger val = 1 at 4689.859997
+sequence 6 event mri_trigger val = 0 at 4689.943257
+sequence 6 event mri_trigger val = 1 at 4690.018369
+sequence 6 event mri_trigger val = 0 at 4690.101864
+sequence 6 event mri_trigger val = 1 at 4690.184987
+sequence 6 event mri_trigger val = 0 at 4690.260120
+sequence 6 event mri_trigger val = 1 at 4690.343374
+sequence 6 event mri_trigger val = 0 at 4690.418500
+sequence 6 event mri_trigger val = 1 at 4690.501993
+sequence 6 event mri_trigger val = 0 at 4690.585119
+sequence 6 event mri_trigger val = 1 at 4690.660299
+sequence 6 event mri_trigger val = 0 at 4690.743376
+sequence 6 event mri_trigger val = 1 at 4690.818625
+sequence 6 event mri_trigger val = 0 at 4690.901991
+sequence 6 trial 10 offset at 4690.974872
+sequence 6 trial 11 onset at 4690.983222
+sequence 6 trial 11 pursuit onset at 4690.983345
+sequence 6 event mri_trigger val = 1 at 4690.985499
+sequence 6 event mri_trigger val = 0 at 4691.060368
+sequence 6 event mri_trigger val = 1 at 4691.143870
+sequence 6 event mri_trigger val = 0 at 4691.218745
+sequence 6 event mri_trigger val = 1 at 4691.301868
+sequence 6 event mri_trigger val = 0 at 4691.385368
+sequence 6 event mri_trigger val = 1 at 4691.460621
+sequence 6 event mri_trigger val = 0 at 4691.543748
+sequence 6 event mri_trigger val = 1 at 4691.618865
+sequence 6 event mri_trigger val = 0 at 4691.701995
+sequence 6 event mri_trigger val = 1 at 4691.785367
+sequence 6 event mri_trigger val = 0 at 4691.860623
+sequence 6 event mri_trigger val = 1 at 4691.944082
+sequence 6 event mri_trigger val = 0 at 4692.018995
+sequence 6 trial 11 pursuit offset at 4692.075172
+sequence 6 event mri_trigger val = 1 at 4692.102109
+sequence 6 trial 11 offset at 4692.175198
+sequence 6 trial 12 onset at 4692.183549
+sequence 6 trial 12 saccade onset at 4692.183673
+sequence 6 event mri_trigger val = 0 at 4692.185825
+sequence 6 event mri_trigger val = 1 at 4692.261279
+sequence 6 event mri_trigger val = 0 at 4692.343870
+sequence 6 event mri_trigger val = 1 at 4692.419136
+sequence 6 event mri_trigger val = 0 at 4692.502500
+sequence 6 event mri_trigger val = 1 at 4692.585748
+sequence 6 event mri_trigger val = 0 at 4692.660623
+sequence 6 event mri_trigger val = 1 at 4692.744382
+sequence 6 event mri_trigger val = 0 at 4692.819114
+sequence 6 event mri_trigger val = 1 at 4692.902373
+sequence 6 event mri_trigger val = 0 at 4692.977496
+sequence 6 event mri_trigger val = 1 at 4693.060991
+sequence 6 event mri_trigger val = 0 at 4693.144142
+sequence 6 event mri_trigger val = 1 at 4693.219367
+sequence 6 event mri_trigger val = 0 at 4693.302496
+sequence 6 trial 12 offset at 4693.375565
+sequence 6 event mri_trigger val = 1 at 4693.377706
+sequence 6 trial 13 onset at 4693.383877
+sequence 6 trial 13 pursuit onset at 4693.383999
+sequence 6 event mri_trigger val = 0 at 4693.460867
+sequence 6 event mri_trigger val = 1 at 4693.544184
+sequence 6 event mri_trigger val = 0 at 4693.619499
+sequence 6 event mri_trigger val = 1 at 4693.702618
+sequence 6 event mri_trigger val = 0 at 4693.777741
+sequence 6 event mri_trigger val = 1 at 4693.860993
+sequence 6 event mri_trigger val = 0 at 4693.944367
+sequence 6 event mri_trigger val = 1 at 4694.019495
+sequence 6 event mri_trigger val = 0 at 4694.103484
+sequence 6 event mri_trigger val = 1 at 4694.177864
+sequence 6 event mri_trigger val = 0 at 4694.261366
+sequence 6 event mri_trigger val = 1 at 4694.344584
+sequence 6 event mri_trigger val = 0 at 4694.419622
+sequence 6 trial 13 pursuit offset at 4694.475836
+sequence 6 event mri_trigger val = 1 at 4694.502871
+sequence 6 trial 13 offset at 4694.575917
+sequence 6 event mri_trigger val = 0 at 4694.578281
+sequence 6 trial 14 onset at 4694.584179
+sequence 6 trial 14 saccade onset at 4694.584304
+sequence 6 event mri_trigger val = 1 at 4694.661269
+sequence 6 event mri_trigger val = 0 at 4694.744617
+sequence 6 event mri_trigger val = 1 at 4694.819498
+sequence 6 event mri_trigger val = 0 at 4694.902984
+sequence 6 event mri_trigger val = 1 at 4694.978083
+sequence 6 event mri_trigger val = 0 at 4695.061289
+sequence 6 event mri_trigger val = 1 at 4695.144830
+sequence 6 event mri_trigger val = 0 at 4695.219866
+sequence 6 event mri_trigger val = 1 at 4695.303112
+sequence 6 event mri_trigger val = 0 at 4695.378273
+sequence 6 event mri_trigger val = 1 at 4695.461373
+sequence 6 event mri_trigger val = 0 at 4695.544863
+sequence 6 event mri_trigger val = 1 at 4695.619745
+sequence 6 event mri_trigger val = 0 at 4695.703244
+sequence 6 trial 14 offset at 4695.776168
+sequence 6 event mri_trigger val = 1 at 4695.778367
+sequence 6 trial 15 onset at 4695.784504
+sequence 6 trial 15 pursuit onset at 4695.784626
+sequence 6 event mri_trigger val = 0 at 4695.861863
+sequence 6 event mri_trigger val = 1 at 4695.945030
+sequence 6 event mri_trigger val = 0 at 4696.019871
+sequence 6 event mri_trigger val = 1 at 4696.103312
+sequence 6 event mri_trigger val = 0 at 4696.178498
+sequence 6 event mri_trigger val = 1 at 4696.261622
+sequence 6 event mri_trigger val = 0 at 4696.345112
+sequence 6 event mri_trigger val = 1 at 4696.419988
+sequence 6 event mri_trigger val = 0 at 4696.503369
+sequence 6 event mri_trigger val = 1 at 4696.578368
+sequence 6 event mri_trigger val = 0 at 4696.661746
+sequence 6 event mri_trigger val = 1 at 4696.745279
+sequence 6 event mri_trigger val = 0 at 4696.820133
+sequence 6 trial 15 pursuit offset at 4696.876482
+sequence 6 event mri_trigger val = 1 at 4696.903618
+sequence 6 trial 15 offset at 4696.976506
+sequence 6 event mri_trigger val = 0 at 4696.978736
+sequence 6 trial 16 onset at 4696.984825
+sequence 6 trial 16 saccade onset at 4696.984947
+sequence 6 event mri_trigger val = 1 at 4697.061868
+sequence 6 event mri_trigger val = 0 at 4697.145367
+sequence 6 event mri_trigger val = 1 at 4697.220285
+sequence 6 event mri_trigger val = 0 at 4697.303620
+sequence 6 event mri_trigger val = 1 at 4697.378501
+sequence 6 event mri_trigger val = 0 at 4697.462498
+sequence 6 event mri_trigger val = 1 at 4697.545475
+sequence 6 event mri_trigger val = 0 at 4697.620351
+sequence 6 event mri_trigger val = 1 at 4697.703748
+sequence 6 event mri_trigger val = 0 at 4697.778960
+sequence 6 event mri_trigger val = 1 at 4697.862131
+sequence 6 event mri_trigger val = 0 at 4697.945618
+sequence 6 event mri_trigger val = 1 at 4698.020492
+sequence 6 event mri_trigger val = 0 at 4698.103861
+sequence 6 trial 16 offset at 4698.176835
+sequence 6 event mri_trigger val = 1 at 4698.178995
+sequence 6 trial 17 onset at 4698.185165
+sequence 6 trial 17 pursuit onset at 4698.185287
+sequence 6 event mri_trigger val = 0 at 4698.262241
+sequence 6 event mri_trigger val = 1 at 4698.345618
+sequence 6 event mri_trigger val = 0 at 4698.420615
+sequence 6 event mri_trigger val = 1 at 4698.503996
+sequence 6 event mri_trigger val = 0 at 4698.578864
+sequence 6 event mri_trigger val = 1 at 4698.662294
+sequence 6 event mri_trigger val = 0 at 4698.737494
+sequence 6 event mri_trigger val = 1 at 4698.820746
+sequence 6 event mri_trigger val = 0 at 4698.904109
+sequence 6 event mri_trigger val = 1 at 4698.979618
+sequence 6 event mri_trigger val = 0 at 4699.062489
+sequence 6 event mri_trigger val = 1 at 4699.145954
+sequence 6 event mri_trigger val = 0 at 4699.220866
+sequence 6 trial 17 pursuit offset at 4699.277138
+sequence 6 event mri_trigger val = 1 at 4699.304244
+sequence 6 trial 17 offset at 4699.377143
+sequence 6 event mri_trigger val = 0 at 4699.379367
+sequence 6 trial 18 onset at 4699.385480
+sequence 6 trial 18 saccade onset at 4699.385603
+sequence 6 event mri_trigger val = 1 at 4699.462575
+sequence 6 event mri_trigger val = 0 at 4699.537521
+sequence 6 event mri_trigger val = 1 at 4699.621496
+sequence 6 event mri_trigger val = 0 at 4699.704374
+sequence 6 event mri_trigger val = 1 at 4699.779295
+sequence 6 event mri_trigger val = 0 at 4699.862741
+sequence 6 event mri_trigger val = 1 at 4699.937615
+sequence 6 event mri_trigger val = 0 at 4700.021368
+sequence 6 event mri_trigger val = 1 at 4700.104490
+sequence 6 event mri_trigger val = 0 at 4700.179369
+sequence 6 event mri_trigger val = 1 at 4700.262858
+sequence 6 event mri_trigger val = 0 at 4700.337746
+sequence 6 event mri_trigger val = 1 at 4700.421408
+sequence 6 event mri_trigger val = 0 at 4700.504617
+sequence 6 trial 18 offset at 4700.577506
+sequence 6 event mri_trigger val = 1 at 4700.579740
+sequence 6 trial 19 onset at 4700.585816
+sequence 6 trial 19 pursuit onset at 4700.585940
+sequence 6 event mri_trigger val = 0 at 4700.663095
+sequence 6 event mri_trigger val = 1 at 4700.737871
+sequence 6 event mri_trigger val = 0 at 4700.821277
+sequence 6 event mri_trigger val = 1 at 4700.904741
+sequence 6 event mri_trigger val = 0 at 4700.979616
+sequence 6 event mri_trigger val = 1 at 4701.063262
+sequence 6 event mri_trigger val = 0 at 4701.137984
+sequence 6 event mri_trigger val = 1 at 4701.221365
+sequence 6 event mri_trigger val = 0 at 4701.304867
+sequence 6 event mri_trigger val = 1 at 4701.380622
+sequence 6 event mri_trigger val = 0 at 4701.463194
+sequence 6 event mri_trigger val = 1 at 4701.538365
+sequence 6 event mri_trigger val = 0 at 4701.621493
+sequence 6 trial 19 pursuit offset at 4701.677779
+sequence 6 event mri_trigger val = 1 at 4701.704988
+sequence 6 trial 19 offset at 4701.777794
+sequence 6 event mri_trigger val = 0 at 4701.780045
+sequence 6 trial 20 onset at 4701.786157
+sequence 6 trial 20 saccade onset at 4701.786296
+sequence 6 event mri_trigger val = 1 at 4701.863250
+sequence 6 event mri_trigger val = 0 at 4701.938269
+sequence 6 event mri_trigger val = 1 at 4702.021618
+sequence 6 event mri_trigger val = 0 at 4702.105111
+sequence 6 event mri_trigger val = 1 at 4702.179982
+sequence 6 event mri_trigger val = 0 at 4702.263492
+sequence 6 event mri_trigger val = 1 at 4702.338368
+sequence 6 event mri_trigger val = 0 at 4702.421742
+sequence 6 event mri_trigger val = 1 at 4702.504986
+sequence 6 event mri_trigger val = 0 at 4702.580103
+sequence 6 event mri_trigger val = 1 at 4702.663494
+sequence 6 event mri_trigger val = 0 at 4702.738366
+sequence 6 event mri_trigger val = 1 at 4702.821866
+sequence 6 event mri_trigger val = 0 at 4702.905862
+sequence 6 trial 20 offset at 4702.978187
+sequence 6 event mri_trigger val = 1 at 4702.980488
+sequence 6 trial 21 onset at 4702.986446
+sequence 6 trial 21 pursuit onset at 4702.986568
+sequence 6 event mri_trigger val = 0 at 4703.063613
+sequence 6 event mri_trigger val = 1 at 4703.138612
+sequence 6 event mri_trigger val = 0 at 4703.221980
+sequence 6 event mri_trigger val = 1 at 4703.305110
+sequence 6 event mri_trigger val = 0 at 4703.380369
+sequence 6 event mri_trigger val = 1 at 4703.463487
+sequence 6 event mri_trigger val = 0 at 4703.538696
+sequence 6 event mri_trigger val = 1 at 4703.622114
+sequence 6 event mri_trigger val = 0 at 4703.705490
+sequence 6 event mri_trigger val = 1 at 4703.780485
+sequence 6 event mri_trigger val = 0 at 4703.863874
+sequence 6 event mri_trigger val = 1 at 4703.938735
+sequence 6 event mri_trigger val = 0 at 4704.022188
+sequence 6 trial 21 pursuit offset at 4704.078426
+sequence 6 event mri_trigger val = 1 at 4704.105613
+sequence 6 trial 21 offset at 4704.178435
+sequence 6 event mri_trigger val = 0 at 4704.180613
+sequence 6 trial 22 onset at 4704.186784
+sequence 6 trial 22 saccade onset at 4704.186906
+sequence 6 event mri_trigger val = 1 at 4704.263737
+sequence 6 event mri_trigger val = 0 at 4704.338860
+sequence 6 event mri_trigger val = 1 at 4704.422363
+sequence 6 event mri_trigger val = 0 at 4704.505496
+sequence 6 event mri_trigger val = 1 at 4704.580828
+sequence 6 event mri_trigger val = 0 at 4704.663858
+sequence 6 event mri_trigger val = 1 at 4704.739367
+sequence 6 event mri_trigger val = 0 at 4704.822488
+sequence 6 event mri_trigger val = 1 at 4704.905617
+sequence 6 event mri_trigger val = 0 at 4704.980730
+sequence 6 event mri_trigger val = 1 at 4705.063989
+sequence 6 event mri_trigger val = 0 at 4705.139744
+sequence 6 event mri_trigger val = 1 at 4705.222366
+sequence 6 event mri_trigger val = 0 at 4705.297489
+sequence 6 trial 22 offset at 4705.378774
+sequence 6 event mri_trigger val = 1 at 4705.380941
+sequence 6 trial 23 onset at 4705.387094
+sequence 6 trial 23 pursuit onset at 4705.387215
+sequence 6 event mri_trigger val = 0 at 4705.464369
+sequence 6 event mri_trigger val = 1 at 4705.539264
+sequence 6 event mri_trigger val = 0 at 4705.622492
+sequence 6 event mri_trigger val = 1 at 4705.697617
+sequence 6 event mri_trigger val = 0 at 4705.781365
+sequence 6 event mri_trigger val = 1 at 4705.864495
+sequence 6 event mri_trigger val = 0 at 4705.939369
+sequence 6 event mri_trigger val = 1 at 4706.022861
+sequence 6 event mri_trigger val = 0 at 4706.097740
+sequence 6 event mri_trigger val = 1 at 4706.181112
+sequence 6 event mri_trigger val = 0 at 4706.264362
+sequence 6 event mri_trigger val = 1 at 4706.340367
+sequence 6 event mri_trigger val = 0 at 4706.422609
+sequence 6 trial 23 pursuit offset at 4706.479069
+sequence 6 event mri_trigger val = 1 at 4706.498367
+sequence 6 trial 23 offset at 4706.579098
+sequence 6 event mri_trigger val = 0 at 4706.581260
+sequence 6 trial 24 onset at 4706.587433
+sequence 6 trial 24 saccade onset at 4706.587555
+sequence 6 event mri_trigger val = 1 at 4706.664488
+sequence 6 event mri_trigger val = 0 at 4706.739624
+sequence 6 event mri_trigger val = 1 at 4706.822806
+sequence 6 event mri_trigger val = 0 at 4706.897987
+sequence 6 event mri_trigger val = 1 at 4706.981351
+sequence 6 event mri_trigger val = 0 at 4707.065369
+sequence 6 event mri_trigger val = 1 at 4707.139736
+sequence 6 event mri_trigger val = 0 at 4707.222975
+sequence 6 event mri_trigger val = 1 at 4707.298128
+sequence 6 event mri_trigger val = 0 at 4707.381490
+sequence 6 event mri_trigger val = 1 at 4707.464725
+sequence 6 event mri_trigger val = 0 at 4707.540367
+sequence 6 event mri_trigger val = 1 at 4707.622984
+sequence 6 event mri_trigger val = 0 at 4707.698272
+sequence 6 trial 24 offset at 4707.779406
+sequence 6 event mri_trigger val = 1 at 4707.781612
+sequence 6 trial 25 onset at 4707.787756
+sequence 6 trial 25 pursuit onset at 4707.787878
+sequence 6 event mri_trigger val = 0 at 4707.864860
+sequence 6 event mri_trigger val = 1 at 4707.939981
+sequence 6 event mri_trigger val = 0 at 4708.023096
+sequence 6 event mri_trigger val = 1 at 4708.098273
+sequence 6 event mri_trigger val = 0 at 4708.181495
+sequence 6 event mri_trigger val = 1 at 4708.264862
+sequence 6 event mri_trigger val = 0 at 4708.340105
+sequence 6 event mri_trigger val = 1 at 4708.423499
+sequence 6 event mri_trigger val = 0 at 4708.498493
+sequence 6 event mri_trigger val = 1 at 4708.581702
+sequence 6 event mri_trigger val = 0 at 4708.664980
+sequence 6 event mri_trigger val = 1 at 4708.739982
+sequence 6 event mri_trigger val = 0 at 4708.823367
+sequence 6 trial 25 pursuit offset at 4708.879774
+sequence 6 event mri_trigger val = 1 at 4708.898616
+sequence 6 trial 25 offset at 4708.979732
+sequence 6 event mri_trigger val = 0 at 4708.981990
+sequence 6 trial 26 onset at 4708.988068
+sequence 6 trial 26 saccade onset at 4708.988190
+sequence 6 event mri_trigger val = 1 at 4709.065140
+sequence 6 event mri_trigger val = 0 at 4709.140364
+sequence 6 event mri_trigger val = 1 at 4709.223491
+sequence 6 event mri_trigger val = 0 at 4709.298613
+sequence 6 event mri_trigger val = 1 at 4709.381821
+sequence 6 event mri_trigger val = 0 at 4709.465280
+sequence 6 event mri_trigger val = 1 at 4709.540111
+sequence 6 event mri_trigger val = 0 at 4709.623615
+sequence 6 event mri_trigger val = 1 at 4709.698483
+sequence 6 event mri_trigger val = 0 at 4709.781990
+sequence 6 event mri_trigger val = 1 at 4709.857846
+sequence 6 event mri_trigger val = 0 at 4709.940357
+sequence 6 event mri_trigger val = 1 at 4710.023740
+sequence 6 event mri_trigger val = 0 at 4710.098616
+sequence 6 trial 26 offset at 4710.180071
+sequence 6 event mri_trigger val = 1 at 4710.182364
+sequence 6 trial 27 onset at 4710.188389
+sequence 6 trial 27 pursuit onset at 4710.188511
+sequence 6 event mri_trigger val = 0 at 4710.265491
+sequence 6 event mri_trigger val = 1 at 4710.340366
+sequence 6 event mri_trigger val = 0 at 4710.424255
+sequence 6 event mri_trigger val = 1 at 4710.498982
+sequence 6 event mri_trigger val = 0 at 4710.582241
+sequence 6 event mri_trigger val = 1 at 4710.665611
+sequence 6 event mri_trigger val = 0 at 4710.740490
+sequence 6 event mri_trigger val = 1 at 4710.823980
+sequence 6 event mri_trigger val = 0 at 4710.899107
+sequence 6 event mri_trigger val = 1 at 4710.982365
+sequence 6 event mri_trigger val = 0 at 4711.057484
+sequence 6 event mri_trigger val = 1 at 4711.140704
+sequence 6 event mri_trigger val = 0 at 4711.224231
+sequence 6 trial 27 pursuit offset at 4711.280353
+sequence 6 event mri_trigger val = 1 at 4711.298987
+sequence 6 trial 27 offset at 4711.380393
+sequence 6 event mri_trigger val = 0 at 4711.382740
+sequence 6 trial 28 onset at 4711.388730
+sequence 6 trial 28 saccade onset at 4711.388852
+sequence 6 event mri_trigger val = 1 at 4711.457615
+sequence 6 event mri_trigger val = 0 at 4711.540739
+sequence 6 event mri_trigger val = 1 at 4711.624214
+sequence 6 event mri_trigger val = 0 at 4711.699245
+sequence 6 event mri_trigger val = 1 at 4711.782486
+sequence 6 event mri_trigger val = 0 at 4711.857987
+sequence 6 event mri_trigger val = 1 at 4711.941463
+sequence 6 event mri_trigger val = 0 at 4712.024359
+sequence 6 event mri_trigger val = 1 at 4712.099251
+sequence 6 event mri_trigger val = 0 at 4712.182612
+sequence 6 event mri_trigger val = 1 at 4712.257614
+sequence 6 event mri_trigger val = 0 at 4712.341070
+sequence 6 event mri_trigger val = 1 at 4712.424363
+sequence 6 event mri_trigger val = 0 at 4712.500243
+sequence 6 trial 28 offset at 4712.580714
+sequence 6 event mri_trigger val = 1 at 4712.582979
+sequence 6 trial 29 onset at 4712.589037
+sequence 6 trial 29 pursuit onset at 4712.589163
+sequence 6 event mri_trigger val = 0 at 4712.657612
+sequence 6 event mri_trigger val = 1 at 4712.741108
+sequence 6 event mri_trigger val = 0 at 4712.824615
+sequence 6 event mri_trigger val = 1 at 4712.899489
+sequence 6 event mri_trigger val = 0 at 4712.982945
+sequence 6 event mri_trigger val = 1 at 4713.057856
+sequence 6 event mri_trigger val = 0 at 4713.141231
+sequence 6 event mri_trigger val = 1 at 4713.224739
+sequence 6 event mri_trigger val = 0 at 4713.299609
+sequence 6 event mri_trigger val = 1 at 4713.382924
+sequence 6 event mri_trigger val = 0 at 4713.457986
+sequence 6 event mri_trigger val = 1 at 4713.541360
+sequence 6 event mri_trigger val = 0 at 4713.624734
+sequence 6 trial 29 pursuit offset at 4713.681015
+sequence 6 event mri_trigger val = 1 at 4713.699978
+sequence 6 trial 29 offset at 4713.781043
+sequence 6 event mri_trigger val = 0 at 4713.783117
+sequence 6 trial 30 onset at 4713.789378
+sequence 6 trial 30 saccade onset at 4713.789500
+sequence 6 event mri_trigger val = 1 at 4713.857979
+sequence 6 event mri_trigger val = 0 at 4713.941475
+sequence 6 event mri_trigger val = 1 at 4714.024860
+sequence 6 event mri_trigger val = 0 at 4714.099855
+sequence 6 event mri_trigger val = 1 at 4714.183169
+sequence 6 event mri_trigger val = 0 at 4714.258226
+sequence 6 event mri_trigger val = 1 at 4714.341606
+sequence 6 event mri_trigger val = 0 at 4714.425609
+sequence 6 event mri_trigger val = 1 at 4714.499924
+sequence 6 event mri_trigger val = 0 at 4714.583338
+sequence 6 event mri_trigger val = 1 at 4714.658258
+sequence 6 event mri_trigger val = 0 at 4714.741736
+sequence 6 event mri_trigger val = 1 at 4714.825187
+sequence 6 event mri_trigger val = 0 at 4714.900363
+sequence 6 trial 30 offset at 4714.981351
+sequence 6 event mri_trigger val = 1 at 4714.983485
+sequence 6 trial 31 onset at 4714.989698
+sequence 6 trial 31 pursuit onset at 4714.989820
+sequence 6 event mri_trigger val = 0 at 4715.058359
+sequence 6 event mri_trigger val = 1 at 4715.141859
+sequence 6 event mri_trigger val = 0 at 4715.225277
+sequence 6 event mri_trigger val = 1 at 4715.300369
+sequence 6 event mri_trigger val = 0 at 4715.383614
+sequence 6 event mri_trigger val = 1 at 4715.458489
+sequence 6 event mri_trigger val = 0 at 4715.541985
+sequence 6 event mri_trigger val = 1 at 4715.625370
+sequence 6 event mri_trigger val = 0 at 4715.700241
+sequence 6 event mri_trigger val = 1 at 4715.783734
+sequence 6 event mri_trigger val = 0 at 4715.858855
+sequence 6 event mri_trigger val = 1 at 4715.942160
+sequence 6 event mri_trigger val = 0 at 4716.025486
+sequence 6 trial 31 pursuit offset at 4716.081663
+sequence 6 event mri_trigger val = 1 at 4716.100360
+sequence 6 trial 31 offset at 4716.181687
+sequence 6 event mri_trigger val = 0 at 4716.183861
+sequence 6 trial 32 onset at 4716.190011
+sequence 6 trial 32 saccade onset at 4716.190133
+sequence 6 event mri_trigger val = 1 at 4716.258731
+sequence 6 event mri_trigger val = 0 at 4716.342237
+sequence 6 event mri_trigger val = 1 at 4716.425490
+sequence 6 event mri_trigger val = 0 at 4716.500481
+sequence 6 event mri_trigger val = 1 at 4716.583974
+sequence 6 event mri_trigger val = 0 at 4716.658962
+sequence 6 event mri_trigger val = 1 at 4716.742363
+sequence 6 event mri_trigger val = 0 at 4716.825738
+sequence 6 event mri_trigger val = 1 at 4716.900781
+sequence 6 event mri_trigger val = 0 at 4716.984259
+sequence 6 event mri_trigger val = 1 at 4717.059486
+sequence 6 event mri_trigger val = 0 at 4717.142357
+sequence 6 event mri_trigger val = 1 at 4717.225610
+sequence 6 event mri_trigger val = 0 at 4717.301119
+sequence 6 trial 32 offset at 4717.382001
+sequence 6 event mri_trigger val = 1 at 4717.384233
+sequence 6 - 0 missed sync on 4608 frames, 0.0% (mean/median delay = NaN/NaN ms)
+sequence 6 stopped at 4717.384820
+sequence 7 started at 4717.385576
+sequence 7 trial 1 onset at 4717.390388
+sequence 7 event mri_trigger val = 0 at 4717.459101
+sequence 7 event mri_trigger val = 1 at 4717.542951
+sequence 7 event mri_trigger val = 0 at 4717.617513
+sequence 7 event mri_trigger val = 1 at 4717.700859
+sequence 7 event mri_trigger val = 0 at 4717.784360
+sequence 7 event mri_trigger val = 1 at 4717.859250
+sequence 7 event mri_trigger val = 0 at 4717.942726
+sequence 7 event mri_trigger val = 1 at 4718.017592
+sequence 7 event mri_trigger val = 0 at 4718.101485
+sequence 7 event mri_trigger val = 1 at 4718.185255
+sequence 7 event mri_trigger val = 0 at 4718.259362
+sequence 7 event mri_trigger val = 1 at 4718.342662
+sequence 7 event mri_trigger val = 0 at 4718.417984
+sequence 7 event mri_trigger val = 1 at 4718.501235
+sequence 7 trial 1 offset at 4718.582317
+sequence 7 event mri_trigger val = 0 at 4718.584642
+sequence 7 trial 2 onset at 4718.590645
+sequence 7 event mri_trigger val = 1 at 4718.659485
+sequence 7 event mri_trigger val = 0 at 4718.742608
+sequence 7 event mri_trigger val = 1 at 4718.817857
+sequence 7 event mri_trigger val = 0 at 4718.901173
+sequence 7 event mri_trigger val = 1 at 4718.984608
+sequence 7 event mri_trigger val = 0 at 4719.059610
+sequence 7 event mri_trigger val = 1 at 4719.143487
+sequence 7 event mri_trigger val = 0 at 4719.218136
+sequence 7 event mri_trigger val = 1 at 4719.301326
+sequence 7 event mri_trigger val = 0 at 4719.384485
+sequence 7 event mri_trigger val = 1 at 4719.459692
+sequence 7 event mri_trigger val = 0 at 4719.542960
+sequence 7 event mri_trigger val = 1 at 4719.618068
+sequence 7 event mri_trigger val = 0 at 4719.701479
+sequence 7 trial 2 offset at 4719.782633
+sequence 7 event mri_trigger val = 1 at 4719.784784
+sequence 7 trial 3 onset at 4719.790983
+sequence 7 event mri_trigger val = 0 at 4719.859858
+sequence 7 event mri_trigger val = 1 at 4719.943854
+sequence 7 event mri_trigger val = 0 at 4720.018108
+sequence 7 event mri_trigger val = 1 at 4720.101614
+sequence 7 event mri_trigger val = 0 at 4720.184728
+sequence 7 event mri_trigger val = 1 at 4720.259849
+sequence 7 event mri_trigger val = 0 at 4720.343165
+sequence 7 event mri_trigger val = 1 at 4720.418206
+sequence 7 event mri_trigger val = 0 at 4720.501736
+sequence 7 event mri_trigger val = 1 at 4720.584850
+sequence 7 event mri_trigger val = 0 at 4720.659981
+sequence 7 event mri_trigger val = 1 at 4720.743485
+sequence 7 event mri_trigger val = 0 at 4720.818355
+sequence 7 event mri_trigger val = 1 at 4720.901610
+sequence 7 trial 3 offset at 4720.982970
+sequence 7 event mri_trigger val = 0 at 4720.985259
+sequence 7 trial 4 onset at 4720.991308
+sequence 7 event mri_trigger val = 1 at 4721.060263
+sequence 7 event mri_trigger val = 0 at 4721.143361
+sequence 7 event mri_trigger val = 1 at 4721.218481
+sequence 7 event mri_trigger val = 0 at 4721.301847
+sequence 7 event mri_trigger val = 1 at 4721.385100
+sequence 7 event mri_trigger val = 0 at 4721.460166
+sequence 7 event mri_trigger val = 1 at 4721.543491
+sequence 7 event mri_trigger val = 0 at 4721.618607
+sequence 7 event mri_trigger val = 1 at 4721.701726
+sequence 7 event mri_trigger val = 0 at 4721.785289
+sequence 7 event mri_trigger val = 1 at 4721.860355
+sequence 7 event mri_trigger val = 0 at 4721.943606
+sequence 7 event mri_trigger val = 1 at 4722.018820
+sequence 7 event mri_trigger val = 0 at 4722.101979
+sequence 7 event mri_trigger val = 1 at 4722.177359
+sequence 7 trial 4 offset at 4722.183284
+sequence 7 trial 5 onset at 4722.191700
+sequence 7 event mri_trigger val = 0 at 4722.260487
+sequence 7 event mri_trigger val = 1 at 4722.343542
+sequence 7 event mri_trigger val = 0 at 4722.418851
+sequence 7 event mri_trigger val = 1 at 4722.501993
+sequence 7 event mri_trigger val = 0 at 4722.585424
+sequence 7 event mri_trigger val = 1 at 4722.660349
+sequence 7 event mri_trigger val = 0 at 4722.743851
+sequence 7 event mri_trigger val = 1 at 4722.818980
+sequence 7 event mri_trigger val = 0 at 4722.902163
+sequence 7 event mri_trigger val = 1 at 4722.985698
+sequence 7 event mri_trigger val = 0 at 4723.060481
+sequence 7 event mri_trigger val = 1 at 4723.143974
+sequence 7 event mri_trigger val = 0 at 4723.219106
+sequence 7 event mri_trigger val = 1 at 4723.302730
+sequence 7 event mri_trigger val = 0 at 4723.377975
+sequence 7 trial 5 offset at 4723.383649
+sequence 7 trial 6 onset at 4723.391969
+sequence 7 event mri_trigger val = 1 at 4723.460815
+sequence 7 event mri_trigger val = 0 at 4723.544033
+sequence 7 event mri_trigger val = 1 at 4723.619231
+sequence 7 event mri_trigger val = 0 at 4723.702358
+sequence 7 event mri_trigger val = 1 at 4723.777605
+sequence 7 event mri_trigger val = 0 at 4723.860733
+sequence 7 event mri_trigger val = 1 at 4723.944161
+sequence 7 event mri_trigger val = 0 at 4724.019102
+sequence 7 event mri_trigger val = 1 at 4724.102583
+sequence 7 event mri_trigger val = 0 at 4724.177355
+sequence 7 event mri_trigger val = 1 at 4724.261354
+sequence 7 event mri_trigger val = 0 at 4724.344231
+sequence 7 event mri_trigger val = 1 at 4724.419099
+sequence 7 event mri_trigger val = 0 at 4724.502612
+sequence 7 event mri_trigger val = 1 at 4724.577663
+sequence 7 trial 6 offset at 4724.583948
+sequence 7 trial 7 onset at 4724.592265
+sequence 7 event mri_trigger val = 0 at 4724.661228
+sequence 7 event mri_trigger val = 1 at 4724.744356
+sequence 7 event mri_trigger val = 0 at 4724.819230
+sequence 7 event mri_trigger val = 1 at 4724.902725
+sequence 7 event mri_trigger val = 0 at 4724.977832
+sequence 7 event mri_trigger val = 1 at 4725.061221
+sequence 7 event mri_trigger val = 0 at 4725.144483
+sequence 7 event mri_trigger val = 1 at 4725.219567
+sequence 7 event mri_trigger val = 0 at 4725.302848
+sequence 7 event mri_trigger val = 1 at 4725.378606
+sequence 7 event mri_trigger val = 0 at 4725.461980
+sequence 7 event mri_trigger val = 1 at 4725.544604
+sequence 7 event mri_trigger val = 0 at 4725.619731
+sequence 7 event mri_trigger val = 1 at 4725.703230
+sequence 7 event mri_trigger val = 0 at 4725.778098
+sequence 7 trial 7 offset at 4725.784266
+sequence 7 trial 8 onset at 4725.792655
+sequence 7 event mri_trigger val = 1 at 4725.861604
+sequence 7 event mri_trigger val = 0 at 4725.944729
+sequence 7 event mri_trigger val = 1 at 4726.019604
+sequence 7 event mri_trigger val = 0 at 4726.103283
+sequence 7 event mri_trigger val = 1 at 4726.178004
+sequence 7 event mri_trigger val = 0 at 4726.261480
+sequence 7 event mri_trigger val = 1 at 4726.344810
+sequence 7 event mri_trigger val = 0 at 4726.419725
+sequence 7 event mri_trigger val = 1 at 4726.503231
+sequence 7 event mri_trigger val = 0 at 4726.578314
+sequence 7 event mri_trigger val = 1 at 4726.661487
+sequence 7 event mri_trigger val = 0 at 4726.744977
+sequence 7 event mri_trigger val = 1 at 4726.820097
+sequence 7 event mri_trigger val = 0 at 4726.903856
+sequence 7 event mri_trigger val = 1 at 4726.978232
+sequence 7 trial 8 offset at 4726.984631
+sequence 7 trial 9 onset at 4726.992966
+sequence 7 event mri_trigger val = 0 at 4727.061604
+sequence 7 event mri_trigger val = 1 at 4727.145097
+sequence 7 event mri_trigger val = 0 at 4727.220850
+sequence 7 event mri_trigger val = 1 at 4727.303477
+sequence 7 event mri_trigger val = 0 at 4727.379253
+sequence 7 event mri_trigger val = 1 at 4727.461852
+sequence 7 event mri_trigger val = 0 at 4727.545271
+sequence 7 event mri_trigger val = 1 at 4727.620686
+sequence 7 event mri_trigger val = 0 at 4727.704082
+sequence 7 event mri_trigger val = 1 at 4727.778478
+sequence 7 event mri_trigger val = 0 at 4727.861834
+sequence 7 event mri_trigger val = 1 at 4727.945354
+sequence 7 event mri_trigger val = 0 at 4728.020228
+sequence 7 event mri_trigger val = 1 at 4728.103600
+sequence 7 event mri_trigger val = 0 at 4728.178695
+sequence 7 trial 9 offset at 4728.184955
+sequence 7 trial 10 onset at 4728.193231
+sequence 7 event mri_trigger val = 1 at 4728.261973
+sequence 7 event mri_trigger val = 0 at 4728.345476
+sequence 7 event mri_trigger val = 1 at 4728.420464
+sequence 7 event mri_trigger val = 0 at 4728.503860
+sequence 7 event mri_trigger val = 1 at 4728.578728
+sequence 7 event mri_trigger val = 0 at 4728.662148
+sequence 7 event mri_trigger val = 1 at 4728.746068
+sequence 7 event mri_trigger val = 0 at 4728.820477
+sequence 7 event mri_trigger val = 1 at 4728.903849
+sequence 7 event mri_trigger val = 0 at 4728.979103
+sequence 7 event mri_trigger val = 1 at 4729.062227
+sequence 7 event mri_trigger val = 0 at 4729.146177
+sequence 7 event mri_trigger val = 1 at 4729.220604
+sequence 7 event mri_trigger val = 0 at 4729.303977
+sequence 7 event mri_trigger val = 1 at 4729.379001
+sequence 7 trial 10 offset at 4729.385412
+sequence 7 trial 11 onset at 4729.393558
+sequence 7 event mri_trigger val = 0 at 4729.462352
+sequence 7 event mri_trigger val = 1 at 4729.545853
+sequence 7 event mri_trigger val = 0 at 4729.620728
+sequence 7 event mri_trigger val = 1 at 4729.704151
+sequence 7 event mri_trigger val = 0 at 4729.779107
+sequence 7 event mri_trigger val = 1 at 4729.862478
+sequence 7 event mri_trigger val = 0 at 4729.937352
+sequence 7 event mri_trigger val = 1 at 4730.021334
+sequence 7 event mri_trigger val = 0 at 4730.104226
+sequence 7 event mri_trigger val = 1 at 4730.179097
+sequence 7 event mri_trigger val = 0 at 4730.262601
+sequence 7 event mri_trigger val = 1 at 4730.337485
+sequence 7 event mri_trigger val = 0 at 4730.420971
+sequence 7 event mri_trigger val = 1 at 4730.504466
+sequence 7 event mri_trigger val = 0 at 4730.579263
+sequence 7 trial 11 offset at 4730.585547
+sequence 7 trial 12 onset at 4730.593880
+sequence 7 event mri_trigger val = 1 at 4730.662723
+sequence 7 event mri_trigger val = 0 at 4730.737579
+sequence 7 event mri_trigger val = 1 at 4730.821130
+sequence 7 event mri_trigger val = 0 at 4730.904200
+sequence 7 event mri_trigger val = 1 at 4730.979969
+sequence 7 event mri_trigger val = 0 at 4731.062849
+sequence 7 event mri_trigger val = 1 at 4731.137687
+sequence 7 event mri_trigger val = 0 at 4731.221224
+sequence 7 event mri_trigger val = 1 at 4731.305145
+sequence 7 event mri_trigger val = 0 at 4731.379477
+sequence 7 event mri_trigger val = 1 at 4731.462982
+sequence 7 event mri_trigger val = 0 at 4731.537847
+sequence 7 event mri_trigger val = 1 at 4731.621353
+sequence 7 event mri_trigger val = 0 at 4731.704477
+sequence 7 event mri_trigger val = 1 at 4731.779599
+sequence 7 trial 12 offset at 4731.785858
+sequence 7 trial 13 onset at 4731.794191
+sequence 7 event mri_trigger val = 0 at 4731.862801
+sequence 7 event mri_trigger val = 1 at 4731.937905
+sequence 7 event mri_trigger val = 0 at 4732.021355
+sequence 7 event mri_trigger val = 1 at 4732.104605
+sequence 7 event mri_trigger val = 0 at 4732.179726
+sequence 7 event mri_trigger val = 1 at 4732.263226
+sequence 7 event mri_trigger val = 0 at 4732.338241
+sequence 7 event mri_trigger val = 1 at 4732.421489
+sequence 7 event mri_trigger val = 0 at 4732.504684
+sequence 7 event mri_trigger val = 1 at 4732.579848
+sequence 7 event mri_trigger val = 0 at 4732.663382
+sequence 7 event mri_trigger val = 1 at 4732.738185
+sequence 7 event mri_trigger val = 0 at 4732.821964
+sequence 7 event mri_trigger val = 1 at 4732.904825
+sequence 7 event mri_trigger val = 0 at 4732.979979
+sequence 7 trial 13 offset at 4732.986397
+sequence 7 trial 14 onset at 4732.994529
+sequence 7 event mri_trigger val = 1 at 4733.063485
+sequence 7 event mri_trigger val = 0 at 4733.138937
+sequence 7 event mri_trigger val = 1 at 4733.221724
+sequence 7 event mri_trigger val = 0 at 4733.305279
+sequence 7 event mri_trigger val = 1 at 4733.380072
+sequence 7 event mri_trigger val = 0 at 4733.463233
+sequence 7 event mri_trigger val = 1 at 4733.538476
+sequence 7 event mri_trigger val = 0 at 4733.621845
+sequence 7 event mri_trigger val = 1 at 4733.705106
+sequence 7 event mri_trigger val = 0 at 4733.780224
+sequence 7 event mri_trigger val = 1 at 4733.864223
+sequence 7 event mri_trigger val = 0 at 4733.938636
+sequence 7 event mri_trigger val = 1 at 4734.021723
+sequence 7 event mri_trigger val = 0 at 4734.105231
+sequence 7 event mri_trigger val = 1 at 4734.180355
+sequence 7 trial 14 offset at 4734.186509
+sequence 7 trial 15 onset at 4734.194853
+sequence 7 event mri_trigger val = 0 at 4734.264355
+sequence 7 event mri_trigger val = 1 at 4734.338853
+sequence 7 event mri_trigger val = 0 at 4734.421804
+sequence 7 event mri_trigger val = 1 at 4734.497605
+sequence 7 event mri_trigger val = 0 at 4734.580475
+sequence 7 event mri_trigger val = 1 at 4734.663600
+sequence 7 event mri_trigger val = 0 at 4734.738845
+sequence 7 event mri_trigger val = 1 at 4734.821970
+sequence 7 event mri_trigger val = 0 at 4734.905913
+sequence 7 event mri_trigger val = 1 at 4734.980603
+sequence 7 event mri_trigger val = 0 at 4735.063728
+sequence 7 event mri_trigger val = 1 at 4735.138967
+sequence 7 event mri_trigger val = 0 at 4735.222152
+sequence 7 event mri_trigger val = 1 at 4735.305473
+sequence 7 event mri_trigger val = 0 at 4735.381349
+sequence 7 trial 15 offset at 4735.386931
+sequence 7 trial 16 onset at 4735.395269
+sequence 7 event mri_trigger val = 1 at 4735.464641
+sequence 7 event mri_trigger val = 0 at 4735.539848
+sequence 7 event mri_trigger val = 1 at 4735.622533
+sequence 7 event mri_trigger val = 0 at 4735.697433
+sequence 7 event mri_trigger val = 1 at 4735.781034
+sequence 7 event mri_trigger val = 0 at 4735.865331
+sequence 7 event mri_trigger val = 1 at 4735.939890
+sequence 7 event mri_trigger val = 0 at 4736.023148
+sequence 7 event mri_trigger val = 1 at 4736.097563
+sequence 7 event mri_trigger val = 0 at 4736.181553
+sequence 7 event mri_trigger val = 1 at 4736.265108
+sequence 7 event mri_trigger val = 0 at 4736.340278
+sequence 7 event mri_trigger val = 1 at 4736.423056
+sequence 7 event mri_trigger val = 0 at 4736.497663
+sequence 7 event mri_trigger val = 1 at 4736.582199
+sequence 7 trial 16 offset at 4736.587512
+sequence 7 - 0 missed sync on 2304 frames, 0.0% (mean/median delay = NaN/NaN ms)
+sequence 7 stopped at 4736.592304
+sequence 8 started at 4736.592613
+sequence 8 trial 1 onset at 4736.595739
+sequence 8 trial 1 pursuit onset at 4736.596118
+sequence 8 event mri_trigger val = 0 at 4736.665649
+sequence 8 event mri_trigger val = 1 at 4736.740781
+sequence 8 event mri_trigger val = 0 at 4736.823901
+sequence 8 event mri_trigger val = 1 at 4736.899206
+sequence 8 event mri_trigger val = 0 at 4736.982205
+sequence 8 event mri_trigger val = 1 at 4737.064961
+sequence 8 event mri_trigger val = 0 at 4737.139615
+sequence 8 event mri_trigger val = 1 at 4737.223220
+sequence 8 event mri_trigger val = 0 at 4737.298051
+sequence 8 event mri_trigger val = 1 at 4737.381361
+sequence 8 event mri_trigger val = 0 at 4737.464486
+sequence 8 event mri_trigger val = 1 at 4737.540272
+sequence 8 event mri_trigger val = 0 at 4737.623807
+sequence 8 trial 1 pursuit offset at 4737.687742
+sequence 8 event mri_trigger val = 1 at 4737.698688
+sequence 8 event mri_trigger val = 0 at 4737.782393
+sequence 8 trial 1 offset at 4737.787602
+sequence 8 trial 2 onset at 4737.796032
+sequence 8 trial 2 saccade onset at 4737.796427
+sequence 8 event mri_trigger val = 1 at 4737.865005
+sequence 8 event mri_trigger val = 0 at 4737.940874
+sequence 8 event mri_trigger val = 1 at 4738.024522
+sequence 8 event mri_trigger val = 0 at 4738.099173
+sequence 8 event mri_trigger val = 1 at 4738.182117
+sequence 8 event mri_trigger val = 0 at 4738.265086
+sequence 8 event mri_trigger val = 1 at 4738.340085
+sequence 8 event mri_trigger val = 0 at 4738.423660
+sequence 8 event mri_trigger val = 1 at 4738.498606
+sequence 8 event mri_trigger val = 0 at 4738.581816
+sequence 8 event mri_trigger val = 1 at 4738.665557
+sequence 8 event mri_trigger val = 0 at 4738.740026
+sequence 8 event mri_trigger val = 1 at 4738.824034
+sequence 8 event mri_trigger val = 0 at 4738.898867
+sequence 8 event mri_trigger val = 1 at 4738.981780
+sequence 8 trial 2 offset at 4738.987864
+sequence 8 trial 3 onset at 4738.996417
+sequence 8 trial 3 pursuit onset at 4738.996782
+sequence 8 event mri_trigger val = 0 at 4739.065324
+sequence 8 event mri_trigger val = 1 at 4739.140185
+sequence 8 event mri_trigger val = 0 at 4739.224083
+sequence 8 event mri_trigger val = 1 at 4739.298668
+sequence 8 event mri_trigger val = 0 at 4739.382080
+sequence 8 event mri_trigger val = 1 at 4739.465241
+sequence 8 event mri_trigger val = 0 at 4739.541433
+sequence 8 event mri_trigger val = 1 at 4739.624564
+sequence 8 event mri_trigger val = 0 at 4739.699317
+sequence 8 event mri_trigger val = 1 at 4739.782735
+sequence 8 event mri_trigger val = 0 at 4739.857942
+sequence 8 event mri_trigger val = 1 at 4739.941126
+sequence 8 event mri_trigger val = 0 at 4740.023851
+sequence 8 trial 3 pursuit offset at 4740.088247
+sequence 8 event mri_trigger val = 1 at 4740.099321
+sequence 8 event mri_trigger val = 0 at 4740.182135
+sequence 8 trial 3 offset at 4740.188232
+sequence 8 trial 4 onset at 4740.196576
+sequence 8 trial 4 saccade onset at 4740.196780
+sequence 8 event mri_trigger val = 1 at 4740.257636
+sequence 8 event mri_trigger val = 0 at 4740.340252
+sequence 8 event mri_trigger val = 1 at 4740.424491
+sequence 8 event mri_trigger val = 0 at 4740.499378
+sequence 8 event mri_trigger val = 1 at 4740.582411
+sequence 8 event mri_trigger val = 0 at 4740.657532
+sequence 8 event mri_trigger val = 1 at 4740.741127
+sequence 8 event mri_trigger val = 0 at 4740.825183
+sequence 8 event mri_trigger val = 1 at 4740.899742
+sequence 8 event mri_trigger val = 0 at 4740.982670
+sequence 8 event mri_trigger val = 1 at 4741.058066
+sequence 8 event mri_trigger val = 0 at 4741.140787
+sequence 8 event mri_trigger val = 1 at 4741.223839
+sequence 8 event mri_trigger val = 0 at 4741.299074
+sequence 8 event mri_trigger val = 1 at 4741.382217
+sequence 8 trial 4 offset at 4741.388505
+sequence 8 trial 5 onset at 4741.396904
+sequence 8 trial 5 pursuit onset at 4741.397043
+sequence 8 event mri_trigger val = 0 at 4741.458207
+sequence 8 event mri_trigger val = 1 at 4741.540907
+sequence 8 event mri_trigger val = 0 at 4741.624908
+sequence 8 event mri_trigger val = 1 at 4741.699435
+sequence 8 event mri_trigger val = 0 at 4741.782959
+sequence 8 event mri_trigger val = 1 at 4741.857591
+sequence 8 event mri_trigger val = 0 at 4741.941277
+sequence 8 event mri_trigger val = 1 at 4742.024207
+sequence 8 event mri_trigger val = 0 at 4742.099283
+sequence 8 event mri_trigger val = 1 at 4742.182738
+sequence 8 event mri_trigger val = 0 at 4742.257601
+sequence 8 event mri_trigger val = 1 at 4742.340814
+sequence 8 event mri_trigger val = 0 at 4742.424224
+sequence 8 trial 5 pursuit offset at 4742.488758
+sequence 8 event mri_trigger val = 1 at 4742.499351
+sequence 8 event mri_trigger val = 0 at 4742.582814
+sequence 8 trial 5 offset at 4742.588997
+sequence 8 trial 6 onset at 4742.597137
+sequence 8 trial 6 saccade onset at 4742.597268
+sequence 8 event mri_trigger val = 1 at 4742.657721
+sequence 8 event mri_trigger val = 0 at 4742.740871
+sequence 8 event mri_trigger val = 1 at 4742.824352
+sequence 8 event mri_trigger val = 0 at 4742.899527
+sequence 8 event mri_trigger val = 1 at 4742.983222
+sequence 8 event mri_trigger val = 0 at 4743.057855
+sequence 8 event mri_trigger val = 1 at 4743.140991
+sequence 8 event mri_trigger val = 0 at 4743.224964
+sequence 8 event mri_trigger val = 1 at 4743.299539
+sequence 8 event mri_trigger val = 0 at 4743.382746
+sequence 8 event mri_trigger val = 1 at 4743.458264
+sequence 8 event mri_trigger val = 0 at 4743.541153
+sequence 8 event mri_trigger val = 1 at 4743.624598
+sequence 8 event mri_trigger val = 0 at 4743.699474
+sequence 8 event mri_trigger val = 1 at 4743.783263
+sequence 8 trial 6 offset at 4743.789126
+sequence 8 trial 7 onset at 4743.797489
+sequence 8 trial 7 pursuit onset at 4743.797616
+sequence 8 event mri_trigger val = 0 at 4743.858269
+sequence 8 event mri_trigger val = 1 at 4743.941900
+sequence 8 event mri_trigger val = 0 at 4744.024594
+sequence 8 event mri_trigger val = 1 at 4744.099497
+sequence 8 event mri_trigger val = 0 at 4744.183149
+sequence 8 event mri_trigger val = 1 at 4744.258227
+sequence 8 event mri_trigger val = 0 at 4744.341343
+sequence 8 event mri_trigger val = 1 at 4744.424808
+sequence 8 event mri_trigger val = 0 at 4744.499735
+sequence 8 event mri_trigger val = 1 at 4744.583181
+sequence 8 event mri_trigger val = 0 at 4744.658585
+sequence 8 event mri_trigger val = 1 at 4744.741554
+sequence 8 event mri_trigger val = 0 at 4744.824945
+sequence 8 trial 7 pursuit offset at 4744.889434
+sequence 8 event mri_trigger val = 1 at 4744.900427
+sequence 8 event mri_trigger val = 0 at 4744.983218
+sequence 8 trial 7 offset at 4744.989431
+sequence 8 trial 8 onset at 4744.997764
+sequence 8 trial 8 saccade onset at 4744.997892
+sequence 8 event mri_trigger val = 1 at 4745.058180
+sequence 8 event mri_trigger val = 0 at 4745.141638
+sequence 8 event mri_trigger val = 1 at 4745.224949
+sequence 8 event mri_trigger val = 0 at 4745.299967
+sequence 8 event mri_trigger val = 1 at 4745.383335
+sequence 8 event mri_trigger val = 0 at 4745.458230
+sequence 8 event mri_trigger val = 1 at 4745.541742
+sequence 8 event mri_trigger val = 0 at 4745.625100
+sequence 8 event mri_trigger val = 1 at 4745.700109
+sequence 8 event mri_trigger val = 0 at 4745.783580
+sequence 8 event mri_trigger val = 1 at 4745.858789
+sequence 8 event mri_trigger val = 0 at 4745.942251
+sequence 8 event mri_trigger val = 1 at 4746.017642
+sequence 8 event mri_trigger val = 0 at 4746.100234
+sequence 8 event mri_trigger val = 1 at 4746.183584
+sequence 8 trial 8 offset at 4746.189774
+sequence 8 trial 9 onset at 4746.198106
+sequence 8 trial 9 pursuit onset at 4746.198234
+sequence 8 event mri_trigger val = 0 at 4746.258475
+sequence 8 event mri_trigger val = 1 at 4746.341984
+sequence 8 event mri_trigger val = 0 at 4746.425280
+sequence 8 event mri_trigger val = 1 at 4746.500663
+sequence 8 event mri_trigger val = 0 at 4746.583720
+sequence 8 event mri_trigger val = 1 at 4746.658597
+sequence 8 event mri_trigger val = 0 at 4746.742172
+sequence 8 event mri_trigger val = 1 at 4746.825469
+sequence 8 event mri_trigger val = 0 at 4746.900474
+sequence 8 event mri_trigger val = 1 at 4746.984740
+sequence 8 event mri_trigger val = 0 at 4747.058720
+sequence 8 event mri_trigger val = 1 at 4747.142248
+sequence 8 event mri_trigger val = 0 at 4747.225588
+sequence 8 trial 9 pursuit offset at 4747.290089
+sequence 8 event mri_trigger val = 1 at 4747.300561
+sequence 8 event mri_trigger val = 0 at 4747.383998
+sequence 8 trial 9 offset at 4747.390118
+sequence 8 trial 10 onset at 4747.398677
+sequence 8 trial 10 saccade onset at 4747.399093
+sequence 8 event mri_trigger val = 1 at 4747.458808
+sequence 8 event mri_trigger val = 0 at 4747.542378
+sequence 8 event mri_trigger val = 1 at 4747.617494
+sequence 8 event mri_trigger val = 0 at 4747.700599
+sequence 8 event mri_trigger val = 1 at 4747.784331
+sequence 8 event mri_trigger val = 0 at 4747.858964
+sequence 8 event mri_trigger val = 1 at 4747.942552
+sequence 8 event mri_trigger val = 0 at 4748.017710
+sequence 8 event mri_trigger val = 1 at 4748.100714
+sequence 8 event mri_trigger val = 0 at 4748.184222
+sequence 8 event mri_trigger val = 1 at 4748.259271
+sequence 8 event mri_trigger val = 0 at 4748.342628
+sequence 8 event mri_trigger val = 1 at 4748.417733
+sequence 8 event mri_trigger val = 0 at 4748.500811
+sequence 8 event mri_trigger val = 1 at 4748.584368
+sequence 8 trial 10 offset at 4748.590500
+sequence 8 trial 11 onset at 4748.598780
+sequence 8 trial 11 pursuit onset at 4748.598907
+sequence 8 event mri_trigger val = 0 at 4748.659223
+sequence 8 event mri_trigger val = 1 at 4748.742688
+sequence 8 event mri_trigger val = 0 at 4748.817611
+sequence 8 event mri_trigger val = 1 at 4748.900970
+sequence 8 event mri_trigger val = 0 at 4748.984473
+sequence 8 event mri_trigger val = 1 at 4749.059356
+sequence 8 event mri_trigger val = 0 at 4749.142547
+sequence 8 event mri_trigger val = 1 at 4749.217800
+sequence 8 event mri_trigger val = 0 at 4749.301152
+sequence 8 event mri_trigger val = 1 at 4749.384349
+sequence 8 event mri_trigger val = 0 at 4749.459478
+sequence 8 event mri_trigger val = 1 at 4749.542878
+sequence 8 event mri_trigger val = 0 at 4749.617803
+sequence 8 trial 11 pursuit offset at 4749.690747
+sequence 8 event mri_trigger val = 1 at 4749.702096
+sequence 8 event mri_trigger val = 0 at 4749.784715
+sequence 8 trial 11 offset at 4749.790770
+sequence 8 trial 12 onset at 4749.799089
+sequence 8 trial 12 saccade onset at 4749.799217
+sequence 8 event mri_trigger val = 1 at 4749.859594
+sequence 8 event mri_trigger val = 0 at 4749.942804
+sequence 8 event mri_trigger val = 1 at 4750.017926
+sequence 8 event mri_trigger val = 0 at 4750.102283
+sequence 8 event mri_trigger val = 1 at 4750.184933
+sequence 8 event mri_trigger val = 0 at 4750.259719
+sequence 8 event mri_trigger val = 1 at 4750.342792
+sequence 8 event mri_trigger val = 0 at 4750.418117
+sequence 8 event mri_trigger val = 1 at 4750.501431
+sequence 8 event mri_trigger val = 0 at 4750.584878
+sequence 8 event mri_trigger val = 1 at 4750.659846
+sequence 8 event mri_trigger val = 0 at 4750.743170
+sequence 8 event mri_trigger val = 1 at 4750.818152
+sequence 8 event mri_trigger val = 0 at 4750.901599
+sequence 8 event mri_trigger val = 1 at 4750.984722
+sequence 8 trial 12 offset at 4750.991058
+sequence 8 trial 13 onset at 4750.999405
+sequence 8 trial 13 pursuit onset at 4750.999532
+sequence 8 event mri_trigger val = 0 at 4751.060220
+sequence 8 event mri_trigger val = 1 at 4751.143176
+sequence 8 event mri_trigger val = 0 at 4751.218221
+sequence 8 event mri_trigger val = 1 at 4751.301441
+sequence 8 event mri_trigger val = 0 at 4751.385449
+sequence 8 event mri_trigger val = 1 at 4751.460152
+sequence 8 event mri_trigger val = 0 at 4751.543216
+sequence 8 event mri_trigger val = 1 at 4751.618562
+sequence 8 event mri_trigger val = 0 at 4751.701837
+sequence 8 event mri_trigger val = 1 at 4751.785356
+sequence 8 event mri_trigger val = 0 at 4751.860166
+sequence 8 event mri_trigger val = 1 at 4751.943431
+sequence 8 event mri_trigger val = 0 at 4752.018468
+sequence 8 trial 13 pursuit offset at 4752.091394
+sequence 8 event mri_trigger val = 1 at 4752.101715
+sequence 8 event mri_trigger val = 0 at 4752.185114
+sequence 8 trial 13 offset at 4752.191458
+sequence 8 trial 14 onset at 4752.199709
+sequence 8 trial 14 saccade onset at 4752.199839
+sequence 8 event mri_trigger val = 1 at 4752.260836
+sequence 8 event mri_trigger val = 0 at 4752.343561
+sequence 8 event mri_trigger val = 1 at 4752.418612
+sequence 8 event mri_trigger val = 0 at 4752.501870
+sequence 8 event mri_trigger val = 1 at 4752.585249
+sequence 8 event mri_trigger val = 0 at 4752.660503
+sequence 8 event mri_trigger val = 1 at 4752.743694
+sequence 8 event mri_trigger val = 0 at 4752.818807
+sequence 8 event mri_trigger val = 1 at 4752.902214
+sequence 8 event mri_trigger val = 0 at 4752.985442
+sequence 8 event mri_trigger val = 1 at 4753.060496
+sequence 8 event mri_trigger val = 0 at 4753.143751
+sequence 8 event mri_trigger val = 1 at 4753.218847
+sequence 8 event mri_trigger val = 0 at 4753.302352
+sequence 8 event mri_trigger val = 1 at 4753.385488
+sequence 8 trial 14 offset at 4753.391729
+sequence 8 trial 15 onset at 4753.400320
+sequence 8 trial 15 pursuit onset at 4753.400724
+sequence 8 event mri_trigger val = 0 at 4753.460474
+sequence 8 event mri_trigger val = 1 at 4753.543846
+sequence 8 event mri_trigger val = 0 at 4753.618983
+sequence 8 event mri_trigger val = 1 at 4753.702173
+sequence 8 event mri_trigger val = 0 at 4753.777436
+sequence 8 event mri_trigger val = 1 at 4753.860722
+sequence 8 event mri_trigger val = 0 at 4753.944249
+sequence 8 event mri_trigger val = 1 at 4754.019173
+sequence 8 event mri_trigger val = 0 at 4754.102467
+sequence 8 event mri_trigger val = 1 at 4754.177485
+sequence 8 event mri_trigger val = 0 at 4754.260841
+sequence 8 event mri_trigger val = 1 at 4754.344134
+sequence 8 event mri_trigger val = 0 at 4754.419789
+sequence 8 trial 15 pursuit offset at 4754.492078
+sequence 8 event mri_trigger val = 1 at 4754.502347
+sequence 8 event mri_trigger val = 0 at 4754.577681
+sequence 8 trial 15 offset at 4754.592057
+sequence 8 trial 16 onset at 4754.600388
+sequence 8 trial 16 saccade onset at 4754.600517
+sequence 8 event mri_trigger val = 1 at 4754.660741
+sequence 8 event mri_trigger val = 0 at 4754.744312
+sequence 8 event mri_trigger val = 1 at 4754.819344
+sequence 8 event mri_trigger val = 0 at 4754.902470
+sequence 8 event mri_trigger val = 1 at 4754.977654
+sequence 8 event mri_trigger val = 0 at 4755.060838
+sequence 8 event mri_trigger val = 1 at 4755.144294
+sequence 8 event mri_trigger val = 0 at 4755.219304
+sequence 8 event mri_trigger val = 1 at 4755.303444
+sequence 8 event mri_trigger val = 0 at 4755.377860
+sequence 8 event mri_trigger val = 1 at 4755.461195
+sequence 8 event mri_trigger val = 0 at 4755.544300
+sequence 8 event mri_trigger val = 1 at 4755.619394
+sequence 8 event mri_trigger val = 0 at 4755.702968
+sequence 8 event mri_trigger val = 1 at 4755.778194
+sequence 8 trial 16 offset at 4755.792375
+sequence 8 trial 17 onset at 4755.800935
+sequence 8 trial 17 pursuit onset at 4755.801066
+sequence 8 event mri_trigger val = 0 at 4755.861514
+sequence 8 event mri_trigger val = 1 at 4755.944636
+sequence 8 event mri_trigger val = 0 at 4756.019739
+sequence 8 event mri_trigger val = 1 at 4756.102868
+sequence 8 event mri_trigger val = 0 at 4756.178029
+sequence 8 event mri_trigger val = 1 at 4756.261221
+sequence 8 event mri_trigger val = 0 at 4756.344679
+sequence 8 event mri_trigger val = 1 at 4756.421219
+sequence 8 event mri_trigger val = 0 at 4756.502990
+sequence 8 event mri_trigger val = 1 at 4756.578171
+sequence 8 event mri_trigger val = 0 at 4756.661361
+sequence 8 event mri_trigger val = 1 at 4756.744685
+sequence 8 event mri_trigger val = 0 at 4756.819698
+sequence 8 trial 17 pursuit offset at 4756.892752
+sequence 8 event mri_trigger val = 1 at 4756.903132
+sequence 8 event mri_trigger val = 0 at 4756.977994
+sequence 8 trial 17 offset at 4756.992700
+sequence 8 trial 18 onset at 4757.001020
+sequence 8 trial 18 saccade onset at 4757.001149
+sequence 8 event mri_trigger val = 1 at 4757.061472
+sequence 8 event mri_trigger val = 0 at 4757.144926
+sequence 8 event mri_trigger val = 1 at 4757.219985
+sequence 8 event mri_trigger val = 0 at 4757.303220
+sequence 8 event mri_trigger val = 1 at 4757.378155
+sequence 8 event mri_trigger val = 0 at 4757.461765
+sequence 8 event mri_trigger val = 1 at 4757.544956
+sequence 8 event mri_trigger val = 0 at 4757.619922
+sequence 8 event mri_trigger val = 1 at 4757.703347
+sequence 8 event mri_trigger val = 0 at 4757.778495
+sequence 8 event mri_trigger val = 1 at 4757.861719
+sequence 8 event mri_trigger val = 0 at 4757.945190
+sequence 8 event mri_trigger val = 1 at 4758.020043
+sequence 8 event mri_trigger val = 0 at 4758.103428
+sequence 8 event mri_trigger val = 1 at 4758.178361
+sequence 8 trial 18 offset at 4758.193050
+sequence 8 trial 19 onset at 4758.201332
+sequence 8 trial 19 pursuit onset at 4758.201460
+sequence 8 event mri_trigger val = 0 at 4758.261699
+sequence 8 event mri_trigger val = 1 at 4758.345302
+sequence 8 event mri_trigger val = 0 at 4758.420149
+sequence 8 event mri_trigger val = 1 at 4758.503593
+sequence 8 event mri_trigger val = 0 at 4758.578485
+sequence 8 event mri_trigger val = 1 at 4758.662216
+sequence 8 event mri_trigger val = 0 at 4758.745678
+sequence 8 event mri_trigger val = 1 at 4758.820213
+sequence 8 event mri_trigger val = 0 at 4758.903803
+sequence 8 event mri_trigger val = 1 at 4758.978614
+sequence 8 event mri_trigger val = 0 at 4759.062598
+sequence 8 event mri_trigger val = 1 at 4759.137222
+sequence 8 event mri_trigger val = 0 at 4759.220431
+sequence 8 trial 19 pursuit offset at 4759.293337
+sequence 8 event mri_trigger val = 1 at 4759.304420
+sequence 8 event mri_trigger val = 0 at 4759.379053
+sequence 8 trial 19 offset at 4759.393475
+sequence 8 trial 20 onset at 4759.401687
+sequence 8 trial 20 saccade onset at 4759.401815
+sequence 8 event mri_trigger val = 1 at 4759.462052
+sequence 8 event mri_trigger val = 0 at 4759.545619
+sequence 8 event mri_trigger val = 1 at 4759.620483
+sequence 8 event mri_trigger val = 0 at 4759.704303
+sequence 8 event mri_trigger val = 1 at 4759.778869
+sequence 8 event mri_trigger val = 0 at 4759.862303
+sequence 8 event mri_trigger val = 1 at 4759.945739
+sequence 8 event mri_trigger val = 0 at 4760.020680
+sequence 8 event mri_trigger val = 1 at 4760.104105
+sequence 8 event mri_trigger val = 0 at 4760.178988
+sequence 8 event mri_trigger val = 1 at 4760.262340
+sequence 8 event mri_trigger val = 0 at 4760.337596
+sequence 8 event mri_trigger val = 1 at 4760.420740
+sequence 8 event mri_trigger val = 0 at 4760.504870
+sequence 8 event mri_trigger val = 1 at 4760.579511
+sequence 8 trial 20 offset at 4760.593663
+sequence 8 trial 21 onset at 4760.602177
+sequence 8 trial 21 pursuit onset at 4760.602552
+sequence 8 event mri_trigger val = 0 at 4760.663229
+sequence 8 event mri_trigger val = 1 at 4760.738070
+sequence 8 event mri_trigger val = 0 at 4760.821440
+sequence 8 event mri_trigger val = 1 at 4760.905315
+sequence 8 event mri_trigger val = 0 at 4760.979228
+sequence 8 event mri_trigger val = 1 at 4761.063431
+sequence 8 event mri_trigger val = 0 at 4761.138309
+sequence 8 event mri_trigger val = 1 at 4761.221284
+sequence 8 event mri_trigger val = 0 at 4761.304535
+sequence 8 event mri_trigger val = 1 at 4761.379431
+sequence 8 event mri_trigger val = 0 at 4761.462719
+sequence 8 event mri_trigger val = 1 at 4761.537907
+sequence 8 event mri_trigger val = 0 at 4761.621128
+sequence 8 trial 21 pursuit offset at 4761.694155
+sequence 8 event mri_trigger val = 1 at 4761.697445
+sequence 8 event mri_trigger val = 0 at 4761.780021
+sequence 8 trial 21 offset at 4761.794231
+sequence 8 trial 22 onset at 4761.802327
+sequence 8 trial 22 saccade onset at 4761.802464
+sequence 8 event mri_trigger val = 1 at 4761.863068
+sequence 8 event mri_trigger val = 0 at 4761.937818
+sequence 8 event mri_trigger val = 1 at 4762.021388
+sequence 8 event mri_trigger val = 0 at 4762.105670
+sequence 8 event mri_trigger val = 1 at 4762.180300
+sequence 8 event mri_trigger val = 0 at 4762.263288
+sequence 8 event mri_trigger val = 1 at 4762.337976
+sequence 8 event mri_trigger val = 0 at 4762.421955
+sequence 8 event mri_trigger val = 1 at 4762.505555
+sequence 8 event mri_trigger val = 0 at 4762.580442
+sequence 8 event mri_trigger val = 1 at 4762.664578
+sequence 8 event mri_trigger val = 0 at 4762.739547
+sequence 8 event mri_trigger val = 1 at 4762.822772
+sequence 8 event mri_trigger val = 0 at 4762.905969
+sequence 8 event mri_trigger val = 1 at 4762.980841
+sequence 8 trial 22 offset at 4762.994584
+sequence 8 trial 23 onset at 4763.003040
+sequence 8 trial 23 pursuit onset at 4763.003467
+sequence 8 event mri_trigger val = 0 at 4763.063277
+sequence 8 event mri_trigger val = 1 at 4763.138211
+sequence 8 event mri_trigger val = 0 at 4763.222119
+sequence 8 event mri_trigger val = 1 at 4763.304804
+sequence 8 event mri_trigger val = 0 at 4763.381265
+sequence 8 event mri_trigger val = 1 at 4763.463724
+sequence 8 event mri_trigger val = 0 at 4763.538533
+sequence 8 event mri_trigger val = 1 at 4763.622020
+sequence 8 event mri_trigger val = 0 at 4763.705184
+sequence 8 event mri_trigger val = 1 at 4763.780040
+sequence 8 event mri_trigger val = 0 at 4763.863488
+sequence 8 event mri_trigger val = 1 at 4763.938452
+sequence 8 event mri_trigger val = 0 at 4764.022768
+sequence 8 trial 23 pursuit offset at 4764.094847
+sequence 8 event mri_trigger val = 1 at 4764.098097
+sequence 8 event mri_trigger val = 0 at 4764.180785
+sequence 8 trial 23 offset at 4764.194672
+sequence 8 trial 24 onset at 4764.203040
+sequence 8 trial 24 saccade onset at 4764.203244
+sequence 8 event mri_trigger val = 1 at 4764.264090
+sequence 8 event mri_trigger val = 0 at 4764.338608
+sequence 8 event mri_trigger val = 1 at 4764.422663
+sequence 8 event mri_trigger val = 0 at 4764.497357
+sequence 8 event mri_trigger val = 1 at 4764.581328
+sequence 8 event mri_trigger val = 0 at 4764.663763
+sequence 8 event mri_trigger val = 1 at 4764.738677
+sequence 8 event mri_trigger val = 0 at 4764.823066
+sequence 8 event mri_trigger val = 1 at 4764.897534
+sequence 8 event mri_trigger val = 0 at 4764.980438
+sequence 8 event mri_trigger val = 1 at 4765.064108
+sequence 8 event mri_trigger val = 0 at 4765.138753
+sequence 8 event mri_trigger val = 1 at 4765.222928
+sequence 8 event mri_trigger val = 0 at 4765.297642
+sequence 8 event mri_trigger val = 1 at 4765.381565
+sequence 8 trial 24 offset at 4765.395116
+sequence 8 trial 25 onset at 4765.403303
+sequence 8 trial 25 pursuit onset at 4765.403439
+sequence 8 event mri_trigger val = 0 at 4765.464281
+sequence 8 event mri_trigger val = 1 at 4765.538969
+sequence 8 event mri_trigger val = 0 at 4765.623160
+sequence 8 event mri_trigger val = 1 at 4765.697766
+sequence 8 event mri_trigger val = 0 at 4765.780647
+sequence 8 event mri_trigger val = 1 at 4765.864592
+sequence 8 event mri_trigger val = 0 at 4765.939240
+sequence 8 event mri_trigger val = 1 at 4766.022355
+sequence 8 event mri_trigger val = 0 at 4766.097828
+sequence 8 event mri_trigger val = 1 at 4766.180768
+sequence 8 event mri_trigger val = 0 at 4766.264764
+sequence 8 event mri_trigger val = 1 at 4766.339205
+sequence 8 event mri_trigger val = 0 at 4766.423401
+sequence 8 trial 25 pursuit offset at 4766.495520
+sequence 8 event mri_trigger val = 1 at 4766.498176
+sequence 8 event mri_trigger val = 0 at 4766.580944
+sequence 8 trial 25 offset at 4766.595293
+sequence 8 trial 26 onset at 4766.603628
+sequence 8 trial 26 saccade onset at 4766.603764
+sequence 8 event mri_trigger val = 1 at 4766.664012
+sequence 8 event mri_trigger val = 0 at 4766.739420
+sequence 8 event mri_trigger val = 1 at 4766.822568
+sequence 8 event mri_trigger val = 0 at 4766.897492
+sequence 8 event mri_trigger val = 1 at 4766.981593
+sequence 8 event mri_trigger val = 0 at 4767.064389
+sequence 8 event mri_trigger val = 1 at 4767.139681
+sequence 8 event mri_trigger val = 0 at 4767.222988
+sequence 8 event mri_trigger val = 1 at 4767.297627
+sequence 8 event mri_trigger val = 0 at 4767.381269
+sequence 8 event mri_trigger val = 1 at 4767.464214
+sequence 8 event mri_trigger val = 0 at 4767.539888
+sequence 8 event mri_trigger val = 1 at 4767.622882
+sequence 8 event mri_trigger val = 0 at 4767.698194
+sequence 8 event mri_trigger val = 1 at 4767.781462
+sequence 8 trial 26 offset at 4767.795780
+sequence 8 trial 27 onset at 4767.803964
+sequence 8 trial 27 pursuit onset at 4767.804100
+sequence 8 event mri_trigger val = 0 at 4767.864986
+sequence 8 event mri_trigger val = 1 at 4767.939634
+sequence 8 event mri_trigger val = 0 at 4768.023481
+sequence 8 event mri_trigger val = 1 at 4768.098029
+sequence 8 event mri_trigger val = 0 at 4768.181643
+sequence 8 event mri_trigger val = 1 at 4768.264466
+sequence 8 event mri_trigger val = 0 at 4768.340119
+sequence 8 event mri_trigger val = 1 at 4768.422924
+sequence 8 event mri_trigger val = 0 at 4768.497965
+sequence 8 event mri_trigger val = 1 at 4768.582301
+sequence 8 event mri_trigger val = 0 at 4768.664589
+sequence 8 event mri_trigger val = 1 at 4768.739464
+sequence 8 event mri_trigger val = 0 at 4768.823300
+sequence 8 trial 27 pursuit offset at 4768.895900
+sequence 8 event mri_trigger val = 1 at 4768.898144
+sequence 8 event mri_trigger val = 0 at 4768.981309
+sequence 8 trial 27 offset at 4768.995951
+sequence 8 trial 28 onset at 4769.004275
+sequence 8 trial 28 saccade onset at 4769.004420
+sequence 8 event mri_trigger val = 1 at 4769.064712
+sequence 8 event mri_trigger val = 0 at 4769.139591
+sequence 8 event mri_trigger val = 1 at 4769.223421
+sequence 8 event mri_trigger val = 0 at 4769.298146
+sequence 8 event mri_trigger val = 1 at 4769.381423
+sequence 8 event mri_trigger val = 0 at 4769.464861
+sequence 8 event mri_trigger val = 1 at 4769.539703
+sequence 8 event mri_trigger val = 0 at 4769.623466
+sequence 8 event mri_trigger val = 1 at 4769.698338
+sequence 8 event mri_trigger val = 0 at 4769.782428
+sequence 8 event mri_trigger val = 1 at 4769.864987
+sequence 8 event mri_trigger val = 0 at 4769.940154
+sequence 8 event mri_trigger val = 1 at 4770.023365
+sequence 8 event mri_trigger val = 0 at 4770.099655
+sequence 8 event mri_trigger val = 1 at 4770.181650
+sequence 8 trial 28 offset at 4770.196279
+sequence 8 trial 29 onset at 4770.204597
+sequence 8 trial 29 pursuit onset at 4770.204726
+sequence 8 event mri_trigger val = 0 at 4770.265340
+sequence 8 event mri_trigger val = 1 at 4770.339961
+sequence 8 event mri_trigger val = 0 at 4770.423423
+sequence 8 event mri_trigger val = 1 at 4770.498759
+sequence 8 event mri_trigger val = 0 at 4770.581709
+sequence 8 event mri_trigger val = 1 at 4770.657300
+sequence 8 event mri_trigger val = 0 at 4770.740143
+sequence 8 event mri_trigger val = 1 at 4770.823546
+sequence 8 event mri_trigger val = 0 at 4770.898712
+sequence 8 event mri_trigger val = 1 at 4770.981836
+sequence 8 event mri_trigger val = 0 at 4771.065326
+sequence 8 event mri_trigger val = 1 at 4771.140683
+sequence 8 event mri_trigger val = 0 at 4771.223789
+sequence 8 trial 29 pursuit offset at 4771.296577
+sequence 8 event mri_trigger val = 1 at 4771.299113
+sequence 8 event mri_trigger val = 0 at 4771.381962
+sequence 8 trial 29 offset at 4771.396575
+sequence 8 trial 30 onset at 4771.404907
+sequence 8 trial 30 saccade onset at 4771.405037
+sequence 8 event mri_trigger val = 1 at 4771.465961
+sequence 8 event mri_trigger val = 0 at 4771.540333
+sequence 8 event mri_trigger val = 1 at 4771.623795
+sequence 8 event mri_trigger val = 0 at 4771.698953
+sequence 8 event mri_trigger val = 1 at 4771.782097
+sequence 8 event mri_trigger val = 0 at 4771.857226
+sequence 8 event mri_trigger val = 1 at 4771.941206
+sequence 8 event mri_trigger val = 0 at 4772.024490
+sequence 8 event mri_trigger val = 1 at 4772.099129
+sequence 8 event mri_trigger val = 0 at 4772.182548
+sequence 8 event mri_trigger val = 1 at 4772.257480
+sequence 8 event mri_trigger val = 0 at 4772.341331
+sequence 8 event mri_trigger val = 1 at 4772.424540
+sequence 8 event mri_trigger val = 0 at 4772.499508
+sequence 8 event mri_trigger val = 1 at 4772.582284
+sequence 8 trial 30 offset at 4772.596963
+sequence 8 trial 31 onset at 4772.605366
+sequence 8 trial 31 pursuit onset at 4772.605588
+sequence 8 event mri_trigger val = 0 at 4772.657407
+sequence 8 event mri_trigger val = 1 at 4772.741082
+sequence 8 event mri_trigger val = 0 at 4772.823901
+sequence 8 event mri_trigger val = 1 at 4772.899149
+sequence 8 event mri_trigger val = 0 at 4772.982283
+sequence 8 event mri_trigger val = 1 at 4773.057512
+sequence 8 event mri_trigger val = 0 at 4773.140644
+sequence 8 event mri_trigger val = 1 at 4773.224142
+sequence 8 event mri_trigger val = 0 at 4773.299033
+sequence 8 event mri_trigger val = 1 at 4773.382390
+sequence 8 event mri_trigger val = 0 at 4773.457515
+sequence 8 event mri_trigger val = 1 at 4773.540764
+sequence 8 event mri_trigger val = 0 at 4773.624138
+sequence 8 event mri_trigger val = 1 at 4773.699136
+sequence 8 trial 31 pursuit offset at 4773.705518
+sequence 8 event mri_trigger val = 0 at 4773.782514
+sequence 8 trial 31 offset at 4773.805559
+sequence 8 trial 32 onset at 4773.813890
+sequence 8 trial 32 saccade onset at 4773.814020
+sequence 8 event mri_trigger val = 1 at 4773.857819
+sequence 8 event mri_trigger val = 0 at 4773.941194
+sequence 8 event mri_trigger val = 1 at 4774.024265
+sequence 8 event mri_trigger val = 0 at 4774.099275
+sequence 8 event mri_trigger val = 1 at 4774.182638
+sequence 8 event mri_trigger val = 0 at 4774.257510
+sequence 8 event mri_trigger val = 1 at 4774.341009
+sequence 8 event mri_trigger val = 0 at 4774.424817
+sequence 8 event mri_trigger val = 1 at 4774.499441
+sequence 8 event mri_trigger val = 0 at 4774.582783
+sequence 8 event mri_trigger val = 1 at 4774.657948
+sequence 8 event mri_trigger val = 0 at 4774.741139
+sequence 8 event mri_trigger val = 1 at 4774.824515
+sequence 8 event mri_trigger val = 0 at 4774.899385
+sequence 8 event mri_trigger val = 1 at 4774.982883
+sequence 8 trial 32 offset at 4775.005887
+sequence 8 - 3 missed sync on 4608 frames, 0.1% (mean/median delay = 2.6/0.3 ms)
+sequence 8 stopped at 4775.009866
+sequence 9 started at 4775.010005
+sequence 9 trial 1 onset at 4775.014215
+sequence 9 event mri_trigger val = 0 at 4775.058047
+sequence 9 event mri_trigger val = 1 at 4775.141260
+sequence 9 event mri_trigger val = 0 at 4775.224634
+sequence 9 event mri_trigger val = 1 at 4775.299509
+sequence 9 event mri_trigger val = 0 at 4775.383024
+sequence 9 event mri_trigger val = 1 at 4775.457934
+sequence 9 event mri_trigger val = 0 at 4775.541391
+sequence 9 event mri_trigger val = 1 at 4775.617270
+sequence 9 event mri_trigger val = 0 at 4775.699639
+sequence 9 event mri_trigger val = 1 at 4775.783138
+sequence 9 event mri_trigger val = 0 at 4775.858034
+sequence 9 event mri_trigger val = 1 at 4775.941553
+sequence 9 event mri_trigger val = 0 at 4776.024886
+sequence 9 event mri_trigger val = 1 at 4776.099757
+sequence 9 event mri_trigger val = 0 at 4776.183274
+sequence 9 trial 1 offset at 4776.206187
+sequence 9 trial 2 onset at 4776.214523
+sequence 9 event mri_trigger val = 1 at 4776.258138
+sequence 9 event mri_trigger val = 0 at 4776.341637
+sequence 9 event mri_trigger val = 1 at 4776.425033
+sequence 9 event mri_trigger val = 0 at 4776.499891
+sequence 9 event mri_trigger val = 1 at 4776.583391
+sequence 9 event mri_trigger val = 0 at 4776.658266
+sequence 9 event mri_trigger val = 1 at 4776.741637
+sequence 9 event mri_trigger val = 0 at 4776.825141
+sequence 9 event mri_trigger val = 1 at 4776.900272
+sequence 9 event mri_trigger val = 0 at 4776.983513
+sequence 9 event mri_trigger val = 1 at 4777.058385
+sequence 9 event mri_trigger val = 0 at 4777.141763
+sequence 9 event mri_trigger val = 1 at 4777.225057
+sequence 9 event mri_trigger val = 0 at 4777.300138
+sequence 9 event mri_trigger val = 1 at 4777.383636
+sequence 9 trial 2 offset at 4777.406484
+sequence 9 trial 3 onset at 4777.414852
+sequence 9 event mri_trigger val = 0 at 4777.458513
+sequence 9 event mri_trigger val = 1 at 4777.541907
+sequence 9 event mri_trigger val = 0 at 4777.625140
+sequence 9 event mri_trigger val = 1 at 4777.700270
+sequence 9 event mri_trigger val = 0 at 4777.783763
+sequence 9 event mri_trigger val = 1 at 4777.858931
+sequence 9 event mri_trigger val = 0 at 4777.942016
+sequence 9 event mri_trigger val = 1 at 4778.025365
+sequence 9 event mri_trigger val = 0 at 4778.100422
+sequence 9 event mri_trigger val = 1 at 4778.183775
+sequence 9 event mri_trigger val = 0 at 4778.258779
+sequence 9 event mri_trigger val = 1 at 4778.342146
+sequence 9 event mri_trigger val = 0 at 4778.417185
+sequence 9 event mri_trigger val = 1 at 4778.500567
+sequence 9 event mri_trigger val = 0 at 4778.584053
+sequence 9 trial 3 offset at 4778.606839
+sequence 9 trial 4 onset at 4778.615145
+sequence 9 event mri_trigger val = 1 at 4778.658905
+sequence 9 event mri_trigger val = 0 at 4778.742277
+sequence 9 event mri_trigger val = 1 at 4778.817168
+sequence 9 event mri_trigger val = 0 at 4778.900639
+sequence 9 event mri_trigger val = 1 at 4778.984023
+sequence 9 event mri_trigger val = 0 at 4779.058892
+sequence 9 event mri_trigger val = 1 at 4779.142425
+sequence 9 event mri_trigger val = 0 at 4779.217279
+sequence 9 event mri_trigger val = 1 at 4779.300804
+sequence 9 event mri_trigger val = 0 at 4779.383924
+sequence 9 event mri_trigger val = 1 at 4779.459154
+sequence 9 event mri_trigger val = 0 at 4779.542261
+sequence 9 event mri_trigger val = 1 at 4779.617407
+sequence 9 event mri_trigger val = 0 at 4779.700926
+sequence 9 event mri_trigger val = 1 at 4779.784010
+sequence 9 trial 4 offset at 4779.807134
+sequence 9 trial 5 onset at 4779.815478
+sequence 9 event mri_trigger val = 0 at 4779.859262
+sequence 9 event mri_trigger val = 1 at 4779.942385
+sequence 9 event mri_trigger val = 0 at 4780.017520
+sequence 9 event mri_trigger val = 1 at 4780.101018
+sequence 9 event mri_trigger val = 0 at 4780.184137
+sequence 9 event mri_trigger val = 1 at 4780.259265
+sequence 9 event mri_trigger val = 0 at 4780.342513
+sequence 9 event mri_trigger val = 1 at 4780.417633
+sequence 9 event mri_trigger val = 0 at 4780.501148
+sequence 9 event mri_trigger val = 1 at 4780.584323
+sequence 9 event mri_trigger val = 0 at 4780.659391
+sequence 9 event mri_trigger val = 1 at 4780.742632
+sequence 9 event mri_trigger val = 0 at 4780.817761
+sequence 9 event mri_trigger val = 1 at 4780.901015
+sequence 9 event mri_trigger val = 0 at 4780.984413
+sequence 9 trial 5 offset at 4781.007458
+sequence 9 trial 6 onset at 4781.015799
+sequence 9 event mri_trigger val = 1 at 4781.059514
+sequence 9 event mri_trigger val = 0 at 4781.142636
+sequence 9 event mri_trigger val = 1 at 4781.217889
+sequence 9 event mri_trigger val = 0 at 4781.301263
+sequence 9 event mri_trigger val = 1 at 4781.384511
+sequence 9 event mri_trigger val = 0 at 4781.459640
+sequence 9 event mri_trigger val = 1 at 4781.542885
+sequence 9 event mri_trigger val = 0 at 4781.618031
+sequence 9 event mri_trigger val = 1 at 4781.701518
+sequence 9 event mri_trigger val = 0 at 4781.784653
+sequence 9 event mri_trigger val = 1 at 4781.859763
+sequence 9 event mri_trigger val = 0 at 4781.943129
+sequence 9 event mri_trigger val = 1 at 4782.018134
+sequence 9 event mri_trigger val = 0 at 4782.101261
+sequence 9 event mri_trigger val = 1 at 4782.184771
+sequence 9 trial 6 offset at 4782.207788
+sequence 9 trial 7 onset at 4782.216123
+sequence 9 event mri_trigger val = 0 at 4782.259885
+sequence 9 event mri_trigger val = 1 at 4782.343012
+sequence 9 event mri_trigger val = 0 at 4782.418262
+sequence 9 event mri_trigger val = 1 at 4782.501386
+sequence 9 event mri_trigger val = 0 at 4782.584880
+sequence 9 event mri_trigger val = 1 at 4782.660022
+sequence 9 event mri_trigger val = 0 at 4782.743145
+sequence 9 event mri_trigger val = 1 at 4782.818427
+sequence 9 event mri_trigger val = 0 at 4782.901512
+sequence 9 event mri_trigger val = 1 at 4782.985028
+sequence 9 event mri_trigger val = 0 at 4783.060134
+sequence 9 event mri_trigger val = 1 at 4783.143383
+sequence 9 event mri_trigger val = 0 at 4783.218508
+sequence 9 event mri_trigger val = 1 at 4783.301884
+sequence 9 event mri_trigger val = 0 at 4783.385051
+sequence 9 trial 7 offset at 4783.408123
+sequence 9 trial 8 onset at 4783.416465
+sequence 9 event mri_trigger val = 1 at 4783.460305
+sequence 9 event mri_trigger val = 0 at 4783.543424
+sequence 9 event mri_trigger val = 1 at 4783.618634
+sequence 9 event mri_trigger val = 0 at 4783.701816
+sequence 9 event mri_trigger val = 1 at 4783.785289
+sequence 9 event mri_trigger val = 0 at 4783.860149
+sequence 9 event mri_trigger val = 1 at 4783.943525
+sequence 9 event mri_trigger val = 0 at 4784.018795
+sequence 9 event mri_trigger val = 1 at 4784.101885
+sequence 9 event mri_trigger val = 0 at 4784.177164
+sequence 9 event mri_trigger val = 1 at 4784.260520
+sequence 9 event mri_trigger val = 0 at 4784.343639
+sequence 9 event mri_trigger val = 1 at 4784.418758
+sequence 9 event mri_trigger val = 0 at 4784.502011
+sequence 9 event mri_trigger val = 1 at 4784.577136
+sequence 9 trial 8 offset at 4784.608440
+sequence 9 trial 9 onset at 4784.616822
+sequence 9 event mri_trigger val = 0 at 4784.660382
+sequence 9 event mri_trigger val = 1 at 4784.743758
+sequence 9 event mri_trigger val = 0 at 4784.819025
+sequence 9 event mri_trigger val = 1 at 4784.902133
+sequence 9 event mri_trigger val = 0 at 4784.977257
+sequence 9 event mri_trigger val = 1 at 4785.060517
+sequence 9 event mri_trigger val = 0 at 4785.143881
+sequence 9 event mri_trigger val = 1 at 4785.218790
+sequence 9 event mri_trigger val = 0 at 4785.302259
+sequence 9 event mri_trigger val = 1 at 4785.377131
+sequence 9 event mri_trigger val = 0 at 4785.460512
+sequence 9 event mri_trigger val = 1 at 4785.544027
+sequence 9 event mri_trigger val = 0 at 4785.619148
+sequence 9 event mri_trigger val = 1 at 4785.702384
+sequence 9 event mri_trigger val = 0 at 4785.777506
+sequence 9 trial 9 offset at 4785.808789
+sequence 9 trial 10 onset at 4785.817119
+sequence 9 event mri_trigger val = 1 at 4785.861063
+sequence 9 event mri_trigger val = 0 at 4785.944136
+sequence 9 event mri_trigger val = 1 at 4786.019022
+sequence 9 event mri_trigger val = 0 at 4786.102506
+sequence 9 event mri_trigger val = 1 at 4786.177636
+sequence 9 event mri_trigger val = 0 at 4786.260881
+sequence 9 event mri_trigger val = 1 at 4786.344259
+sequence 9 event mri_trigger val = 0 at 4786.419134
+sequence 9 event mri_trigger val = 1 at 4786.502537
+sequence 9 event mri_trigger val = 0 at 4786.578457
+sequence 9 event mri_trigger val = 1 at 4786.661570
+sequence 9 event mri_trigger val = 0 at 4786.745101
+sequence 9 event mri_trigger val = 1 at 4786.819965
+sequence 9 event mri_trigger val = 0 at 4786.903453
+sequence 9 event mri_trigger val = 1 at 4786.978343
+sequence 9 trial 10 offset at 4787.009283
+sequence 9 trial 11 onset at 4787.017607
+sequence 9 event mri_trigger val = 0 at 4787.061787
+sequence 9 event mri_trigger val = 1 at 4787.144890
+sequence 9 event mri_trigger val = 0 at 4787.219654
+sequence 9 event mri_trigger val = 1 at 4787.303166
+sequence 9 event mri_trigger val = 0 at 4787.378127
+sequence 9 event mri_trigger val = 1 at 4787.461544
+sequence 9 event mri_trigger val = 0 at 4787.545014
+sequence 9 event mri_trigger val = 1 at 4787.620194
+sequence 9 event mri_trigger val = 0 at 4787.703325
+sequence 9 event mri_trigger val = 1 at 4787.778211
+sequence 9 event mri_trigger val = 0 at 4787.861509
+sequence 9 event mri_trigger val = 1 at 4787.945125
+sequence 9 event mri_trigger val = 0 at 4788.019654
+sequence 9 event mri_trigger val = 1 at 4788.103009
+sequence 9 event mri_trigger val = 0 at 4788.178020
+sequence 9 trial 11 offset at 4788.209417
+sequence 9 trial 12 onset at 4788.217747
+sequence 9 event mri_trigger val = 1 at 4788.261392
+sequence 9 event mri_trigger val = 0 at 4788.344879
+sequence 9 event mri_trigger val = 1 at 4788.419755
+sequence 9 event mri_trigger val = 0 at 4788.503267
+sequence 9 event mri_trigger val = 1 at 4788.578130
+sequence 9 event mri_trigger val = 0 at 4788.661511
+sequence 9 event mri_trigger val = 1 at 4788.744884
+sequence 9 event mri_trigger val = 0 at 4788.819884
+sequence 9 event mri_trigger val = 1 at 4788.903259
+sequence 9 event mri_trigger val = 0 at 4788.978524
+sequence 9 event mri_trigger val = 1 at 4789.061638
+sequence 9 event mri_trigger val = 0 at 4789.145080
+sequence 9 event mri_trigger val = 1 at 4789.220011
+sequence 9 event mri_trigger val = 0 at 4789.303397
+sequence 9 event mri_trigger val = 1 at 4789.378671
+sequence 9 trial 12 offset at 4789.409754
+sequence 9 trial 13 onset at 4789.418073
+sequence 9 event mri_trigger val = 0 at 4789.462011
+sequence 9 event mri_trigger val = 1 at 4789.545256
+sequence 9 event mri_trigger val = 0 at 4789.620133
+sequence 9 event mri_trigger val = 1 at 4789.703513
+sequence 9 event mri_trigger val = 0 at 4789.778384
+sequence 9 event mri_trigger val = 1 at 4789.861879
+sequence 9 event mri_trigger val = 0 at 4789.945266
+sequence 9 event mri_trigger val = 1 at 4790.020542
+sequence 9 event mri_trigger val = 0 at 4790.103632
+sequence 9 event mri_trigger val = 1 at 4790.178506
+sequence 9 event mri_trigger val = 0 at 4790.262004
+sequence 9 event mri_trigger val = 1 at 4790.345381
+sequence 9 event mri_trigger val = 0 at 4790.420380
+sequence 9 event mri_trigger val = 1 at 4790.503765
+sequence 9 event mri_trigger val = 0 at 4790.578629
+sequence 9 trial 13 offset at 4790.610072
+sequence 9 trial 14 onset at 4790.618409
+sequence 9 event mri_trigger val = 1 at 4790.662145
+sequence 9 event mri_trigger val = 0 at 4790.737025
+sequence 9 event mri_trigger val = 1 at 4790.820504
+sequence 9 event mri_trigger val = 0 at 4790.903917
+sequence 9 event mri_trigger val = 1 at 4790.979076
+sequence 9 event mri_trigger val = 0 at 4791.062355
+sequence 9 event mri_trigger val = 1 at 4791.137148
+sequence 9 event mri_trigger val = 0 at 4791.220509
+sequence 9 event mri_trigger val = 1 at 4791.304005
+sequence 9 event mri_trigger val = 0 at 4791.378921
+sequence 9 event mri_trigger val = 1 at 4791.462429
+sequence 9 event mri_trigger val = 0 at 4791.537274
+sequence 9 event mri_trigger val = 1 at 4791.620641
+sequence 9 event mri_trigger val = 0 at 4791.704135
+sequence 9 event mri_trigger val = 1 at 4791.779027
+sequence 9 trial 14 offset at 4791.810388
+sequence 9 trial 15 onset at 4791.818740
+sequence 9 event mri_trigger val = 0 at 4791.862506
+sequence 9 event mri_trigger val = 1 at 4791.938394
+sequence 9 event mri_trigger val = 0 at 4792.020760
+sequence 9 event mri_trigger val = 1 at 4792.104257
+sequence 9 event mri_trigger val = 0 at 4792.179132
+sequence 9 event mri_trigger val = 1 at 4792.262634
+sequence 9 event mri_trigger val = 0 at 4792.337543
+sequence 9 event mri_trigger val = 1 at 4792.420923
+sequence 9 event mri_trigger val = 0 at 4792.504386
+sequence 9 event mri_trigger val = 1 at 4792.579261
+sequence 9 event mri_trigger val = 0 at 4792.662753
+sequence 9 event mri_trigger val = 1 at 4792.737633
+sequence 9 event mri_trigger val = 0 at 4792.821004
+sequence 9 event mri_trigger val = 1 at 4792.904285
+sequence 9 event mri_trigger val = 0 at 4792.979380
+sequence 9 trial 15 offset at 4793.010723
+sequence 9 trial 16 onset at 4793.019062
+sequence 9 event mri_trigger val = 1 at 4793.062754
+sequence 9 event mri_trigger val = 0 at 4793.137753
+sequence 9 event mri_trigger val = 1 at 4793.221130
+sequence 9 event mri_trigger val = 0 at 4793.304632
+sequence 9 event mri_trigger val = 1 at 4793.379544
+sequence 9 event mri_trigger val = 0 at 4793.462924
+sequence 9 event mri_trigger val = 1 at 4793.537881
+sequence 9 event mri_trigger val = 0 at 4793.621264
+sequence 9 event mri_trigger val = 1 at 4793.704382
+sequence 9 event mri_trigger val = 0 at 4793.779633
+sequence 9 event mri_trigger val = 1 at 4793.863001
+sequence 9 event mri_trigger val = 0 at 4793.938009
+sequence 9 event mri_trigger val = 1 at 4794.021378
+sequence 9 trial 16 offset at 4794.211070
+sequence 9 - 0 missed sync on 2304 frames, 0.0% (mean/median delay = NaN/NaN ms)
+sequence 9 stopped at 4794.214861
