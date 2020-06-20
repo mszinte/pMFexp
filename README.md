@@ -1,6 +1,6 @@
 # pMFexp
 By :      Martin SZINTE<br/>
-Projet :  pRFseqTest<br/>
+Projet :  pMFexp<br/>
 With :    Vanessa Morita, Anna Montagnini & Guillaume Masson<br/>
 Version:  1.0<br/>
 
