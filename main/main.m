@@ -18,14 +18,6 @@ function main(const)
 % ----------------------------------------------------------------------
 
 tic;
-% Connection
-% ----------
-if ismac && const.tracker
-    [~,~] = system('echo invibe | sudo -S networksetup -switchtolocation "Eyelink"');
-else
-    [~,~] = system('echo invibe | sudo -S networksetup -switchtolocation "Web"');
-end
-pause(5);
 
 % File director
 % -------------
