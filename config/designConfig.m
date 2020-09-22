@@ -55,7 +55,7 @@ expDes.txt_var3=   {'0 deg',  '22.5 deg',  '45 deg', '67.5 deg', '90 deg','112.5
                     '180 deg','202.5 deg','225 deg','247.5 deg','270 deg','292.5 deg', '315 deg','337.5 deg',...
                     '0 deg',  '22.5 deg',  '45 deg', '67.5 deg', '90 deg','112.5 deg', '135 deg','157.5 deg',...
                     'none'};
-% 01 =   0.0 deg    01 = 180.0 deg
+% 01 =   0.0 deg    02 = 180.0 deg
 % 03 =  22.5 deg    04 = 202.5 deg
 % 05 =  45.0 deg    06 = 225.0 deg
 % 07 =  67.5 deg    08 = 247.5 deg
