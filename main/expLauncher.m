@@ -2,7 +2,7 @@
 %  =============================
 % By :      Martin SZINTE
 % Projet :  pMFexp
-% With :    Vanessa Morita, Anna MONTAGNINI & Guillaume MASSON
+% With :    Vanessa C MORITA, Anna MONTAGNINI & Guillaume MASSON
 % Version:  1.0
 
 % Version description
