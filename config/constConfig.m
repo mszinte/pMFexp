@@ -77,7 +77,7 @@ if const.scanner
     for seq = const.eyemov_seq
         if seq == 1
             TR_seq = const.blk_step;
-        elseif seq == 1
+        elseif seq == 2
             TR_seq = const.eyemov_step;
         end
         const.TRs = const.TRs + TR_seq;
